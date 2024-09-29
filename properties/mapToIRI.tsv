@@ -1,0 +1,433 @@
+nanomaterial	Al2O3	enm:ENM_9000005
+nanomaterial	CuO	obo:CHEBI_83159
+nanomaterial	Fe2O3	npo:NPO_1550
+nanomaterial	Fe3O4	npo:NPO_1548
+nanomaterial	SiO2	npo:NPO_1373
+nanomaterial	TiO2	obo:CHEBI_51050
+nanomaterial	ZnO	npo:NPO_1542
+nanomaterial	CeO2	enm:ENM_9000006
+nanomaterial	CoO	enm:ENM_9000254
+nanomaterial	Gd2O3	nsvoc:nanoparticle_Gd2O3
+nanomaterial	HfO2	nsvoc:nanoparticle_HfO2
+nanomaterial	In2O3	nsvoc:nanoparticle_In2O3
+nanomaterial	La2O3	nsvoc:nanoparticle_La2O3
+nanomaterial	Mn2O3	enm:ENM_9000251
+nanomaterial	NiO	nsvoc:nanoparticle_NiO
+nanomaterial	Sb2O3	nsvoc:nanoparticle_Sb2O3
+nanomaterial	Ag	npo:NPO_1892
+nanomaterial	Ag2S	npo:NPO_1892
+nanomaterial	AlOOH	npo:NPO_707
+nanomaterial	Au	npo:NPO_401
+nanomaterial	BaTiO3	npo:NPO_707
+nanomaterial	Ca10(PO4)6(OH)2	npo:NPO_707
+nanomaterial	CePO4	npo:NPO_707
+nanomaterial	CeZrO2	npo:NPO_707
+nanomaterial	Bi	npo:NPO_707
+nanomaterial	Carbon NP	npo:NPO_707
+nanomaterial	Carbon Nanotubes	npo:NPO_606
+nanomaterial	CdO	npo:NPO_707
+nanomaterial	Chitosan	npo:NPO_707
+nanomaterial	Co	npo:NPO_707
+nanomaterial	Co3O4	npo:NPO_707
+nanomaterial	Cr	npo:NPO_707
+nanomaterial	Cu2O	npo:NPO_707
+nanomaterial	CuS	npo:NPO_707
+nanomaterial	Dendrimer	npo:NPO_707
+nanomaterial	Eudragit RL	npo:NPO_707
+nanomaterial	Hydroxyapatite	npo:NPO_707
+nanomaterial	Iron oxide	npo:NPO_707
+nanomaterial	Liposomes	npo:NPO_707
+nanomaterial	MgO	npo:NPO_707
+nanomaterial	MnO	npo:NPO_707
+nanomaterial	Mo	npo:NPO_707
+nanomaterial	PLGA	npo:NPO_707
+nanomaterial	Polystyrene	npo:NPO_707
+nanomaterial	Pt	npo:NPO_707
+nanomaterial	QDs	npo:NPO_707
+nanomaterial	SLN	npo:NPO_707
+nanomaterial	Se	npo:NPO_707
+nanomaterial	Ti	npo:NPO_707
+nanomaterial	nanoTiO2 (NRCWE-032)	obo:CHEBI_51050
+nanomaterial	MWCNT (Baytube)	npo:NPO_354
+nanomaterial	PS	enm:ENM_9000008
+nanomaterial	MWCNT (NM-401)	npo:NPO_354
+nanomaterial	Graphite nanofibers	npo:NPO_602
+nanomaterial	Fullerene	obo:CHEBI_33416
+nanomaterial	TiO2_Acros	obo:CHEBI_51050
+nanomaterial	M-MP-Silica NP (DMPC)	npo:NPO_1373
+nanomaterial	CuO_COOH	obo:CHEBI_83159
+nanomaterial	nanoTiO2 (anatase)	obo:CHEBI_51050
+nanomaterial	Long_carbon_nanotubes	npo:NPO_606
+nanomaterial	MWCNT (Sigma)	npo:NPO_354
+nanomaterial	nanoTiO2 (NRCWE-033)	obo:CHEBI_51050
+nanomaterial	AgNPs	npo:NPO_1892
+nanomaterial	110nm_AgNPs	npo:NPO_1892
+nanomaterial	Carbon black (Printex90)	obo:CHEBI_133602
+nanomaterial	Ag75_PVP	npo:NPO_1892
+nanomaterial	CuO_PBS	obo:CHEBI_83159
+nanomaterial	Short_carbon_nanotubes	npo:NPO_606
+nanomaterial	folic_acid_ZnO	npo:NPO_1542
+nanomaterial	WC_Co	enm:ENM_9000257
+nanomaterial	TiO2 nanotubes (30nm)	obo:CHEBI_51050
+nanomaterial	MWCNT (Mitsui)	npo:NPO_354
+nanomaterial	crocidolite	obo:CHEBI_46666
+nanomaterial	TiO2_Degussa	obo:CHEBI_51050
+nanomaterial	MWCNT	npo:NPO_354
+nanomaterial	nanoTiO2	obo:CHEBI_51050
+nanomaterial	AgNPs_100nm	npo:NPO_1892
+nanomaterial	AgNPs_5nm	npo:NPO_1892
+nanomaterial	MWCNT_IL13	npo:NPO_354
+nanomaterial	TiO2 (E171)	obo:CHEBI_51050
+nanomaterial	CuO_PEG_PBS	obo:CHEBI_83159
+nanomaterial	ZnO_HP1	npo:NPO_1542
+nanomaterial	MWCNT (NCRWE-026)	npo:NPO_354
+nanomaterial	LPS	npo:NPO_707
+nanomaterial	AgNO3	npo:NPO_1892
+nanomaterial	Ag75_Citrate	npo:NPO_1892
+nanomaterial	mercaptopropyl_trimethoxysilane_ZnO	npo:NPO_1542
+nanomaterial	Short_asbestos_fibres	obo:ENVO_02000106
+nanomaterial	CuO_COOH_PBS	obo:CHEBI_83159
+nanomaterial	TiO2_Mknano	obo:CHEBI_51050
+nanomaterial	Chapel_hill_UFP	npo:NPO_707
+nanomaterial	SPIO_LPS	npo:NPO_1374
+nanomaterial	nanoTiO2 (rutile/anatase mix)	obo:CHEBI_51050
+nanomaterial	CoCl2	npo:NPO_707
+nanomaterial	Au5	npo:NPO_401
+nanomaterial	tCNT	npo:NPO_606
+nanomaterial	Ag_ions	npo:NPO_1892
+nanomaterial	Long_asbestos_fibres	obo:ENVO_02000106
+nanomaterial	Eudragit_RS	npo:NPO_707
+nanomaterial	AuNPs-HDM2	npo:NPO_401
+nanomaterial	Carbon black	obo:CHEBI_133602
+nanomaterial	Carbon black_IL13	obo:CHEBI_133602
+nanomaterial	CuO_NH3_OVA	obo:CHEBI_83159
+nanomaterial	SPIO	npo:NPO_1374
+nanomaterial	SWCNT (Sigma)	npo:NPO_943
+nanomaterial	Graphite	obo:CHEBI_132889
+nanomaterial	20nm_AgNPs	npo:NPO_1892
+nanomaterial	ZnO_ZCOTE	npo:NPO_1542
+nanomaterial	Indoor-R (sanding dust)	npo:NPO_707
+nanomaterial	M-MP-Silica NP (PEG)	npo:NPO_1373
+nanomaterial	MWCNT (NRCWE-26)	npo:NPO_354
+nanomaterial	GSNO	npo:NPO_707
+nanomaterial	MWCNT (Bayer)	npo:NPO_354
+nanomaterial	Ag10_PVP	npo:NPO_1892
+nanomaterial	Silica	npo:NPO_1373
+nanomaterial	GSNO-loaded Eudragit RL	npo:NPO_707
+nanomaterial	MWCNT (Mitsui7)	npo:NPO_354
+nanomaterial	SWCNT (SES)	npo:NPO_943
+nanomaterial	CuO_OVA	obo:CHEBI_83159
+nanomaterial	TiO2 nanobelt	obo:CHEBI_51050
+nanomaterial	SiO2_AS30	npo:NPO_1373
+nanomaterial	CeO2_Nano_Amor	enm:ENM_9000006
+nanomaterial	mandelic_acid_ZnO	npo:NPO_1542
+nanomaterial	nanoSiO2	npo:NPO_1373
+nanomaterial	methoxyl_ZnO	npo:NPO_1542
+nanomaterial	SiO2	npo:NPO_1373
+nanomaterial	nanoTiO2 (NRCWE-001)	obo:CHEBI_51050
+nanomaterial	Indoor-nanoTiO2 (sanding dust)	obo:CHEBI_51050
+nanomaterial	rCNT	npo:NPO_606
+nanomaterial	ZnO_Nanosun	npo:NPO_1542
+nanomaterial	nanoTiO2 (NRCWE-025)	obo:CHEBI_51050
+nanomaterial	M-MP-Silica NP (Pristine)	npo:NPO_1373
+nanomaterial	Chapel_hill_fine	npo:NPO_707
+nanomaterial	ZnO_MAX	npo:NPO_1542
+nanomaterial	Ag10_Citrate	npo:NPO_1892
+nanomaterial	nanoTiO2 (rutile hydrophilic)	obo:CHEBI_51050
+nanomaterial	Ag2CO3	npo:NPO_1892
+nanomaterial	SiO2_SM30	npo:NPO_1373
+nanomaterial	diethylene_glycol_ZnO	npo:NPO_1542
+nanomaterial	glass wool	npo:NPO_707
+nanomaterial	rCNT_aspiration	npo:NPO_606
+nanomaterial	CuO_COOH_OVA	obo:CHEBI_83159
+nanomaterial	NanoAg	npo:NPO_1892
+nanomaterial	AgNPs_cysteine	npo:NPO_1892
+nanomaterial	Fe3O4_TiO2_NP	obo:CHEBI_51050
+nanomaterial	asbestos	obo:ENVO_02000106
+nanomaterial	nanoTiO2 (NRCWE-002)	obo:CHEBI_51050
+nanomaterial	WC	enm:ENM_9000257
+nanomaterial	CuO_NH3_PBS	obo:CHEBI_83159
+nanomaterial	Au40	npo:NPO_401
+nanomaterial	30nm_AgNPs	npo:NPO_1892
+nanomaterial	AuNPs	npo:NPO_401
+nanomaterial	Graphene quantum dots	npo:NPO_589
+nanomaterial	MWCNT (Cheaptubes)	npo:NPO_354
+nanomaterial	nanoTiO2 (NRCWE-030)	obo:CHEBI_51050
+nanomaterial	GONH2	obo:CHEBI_132889
+nanomaterial	60nm_AgNPs	npo:NPO_1892
+nanomaterial	UFP	npo:NPO_707
+nanomaterial	SiO2_LPS	npo:NPO_1373
+nanomaterial	rCNT_inhalation	npo:NPO_606
+nanomaterial	CeO2_Alfa_Aesar	enm:ENM_9000006
+nanomaterial	TiO2 nanotubes (100nm)	obo:CHEBI_51050
+nanomaterial	GO	obo:CHEBI_132889
+nanomaterial	MWCNT (SES)	npo:NPO_354
+nanomaterial	nanoTiO2 (rutile hydrophobic)	obo:CHEBI_51050
+nanomaterial	PLGA	npo:NPO_707
+nanomaterial	CuO_PEG_OVA	obo:CHEBI_83159
+nanomaterial	Eudragit RL	npo:NPO_707
+nanomaterial	Chapel_hill_coarse	npo:NPO_707
+nm_shape	Agglomerated	npo:NPO_274
+nm_shape	Faceted	npo:NPO_274
+nm_shape	HARNs	npo:NPO_274
+nm_shape	Nanorods	npo:NPO_274
+nm_shape	Spherical	npo:NPO_274
+nm_shape	Various Shapes	npo:NPO_274
+nm_shape	Various shapes	npo:NPO_274
+nm_shape	sea urchins	npo:NPO_274
+nm_shape	spherical	npo:NPO_274
+assay	Alamar_blue	enm:ENM_8000224
+assay	Annexiv_V_PI_staining	bao:BAO_0010265
+assay	ATP	bao:BAO_0010001
+assay	CyQuant	bao:BAO_0003089
+assay	LDH	npo:NPO_1709
+assay	MTS	enm:ENM_8000275
+assay	MTT	npo:NPO_1911
+assay	NRU	enm:ENM_8000277
+assay	ATPLite	bao:BAO_0000015
+assay	Alamar Blue	bao:BAO_0000015
+assay	Alamar blue	bao:BAO_0000015
+assay	ApoTox-Glo Triplex	bao:BAO_0000015
+assay	CellTiter-Blue	bao:BAO_0000015
+assay	CellTiter-Glo	bao:BAO_0000015
+assay	CytoTox-One	bao:BAO_0000015
+assay	Live/Dead	bao:BAO_0000015
+assay	Modified MTT assay (MTT-formazan ppt dissolving by ethanol)	bao:BAO_0000015
+assay	Modified MTT assay (MTT-formazan ppt dissolving by isopropanol/HCl)	bao:BAO_0000015
+assay	NR	bao:BAO_0000015
+assay	Promegas CTB Assay	bao:BAO_0000015
+assay	Resazurin	bao:BAO_0000015
+assay	Vialight	bao:BAO_0000015
+assay	WST-1	bao:BAO_0000015
+assay	WST-8	bao:BAO_0000015
+assay	XTT	bao:BAO_0000015
+cellline	A549	obo:BTO_0000018
+cellline	BEAS_2B	efo:EFO_0001089
+cellline	Caco_2	efo:EFO_0001099
+cellline	Chang_Liver	obo:CLO_0002415
+cellline	HCMEC	obo:BTO_0003339
+cellline	HONDC	nsvoc:cell_line_HONDC
+cellline	L_02	obo:BTO_0005965
+cellline	MCF_10A	efo:EFO_0001200
+cellline	MeT_5A	efo:EFO_0001218
+cellline	RAW264_7	efo:EFO_0001231
+cellline	RAW264.7	efo:EFO_0001231
+cellline	SH_SY5Y	efo:EFO_0002717
+cellline	SW480	efo:EFO_0002083
+cellline	V79_4	obo:BTO_0003719
+cellline	WI_38	efo:EFO_0001260
+cellline	A431	bao:BAO_0002931
+cellline	AGS	bao:BAO_0002931
+cellline	B cells	bao:BAO_0002931
+cellline	BEAS-2B	bao:BAO_0002931
+cellline	C17.2	bao:BAO_0002931
+cellline	C18-4	bao:BAO_0002931
+cellline	CD3+ T cells	bao:BAO_0002931
+cellline	CD4+T cells	bao:BAO_0002931
+cellline	CDBgeo	bao:BAO_0002931
+cellline	CHO-K1	bao:BAO_0002931
+cellline	CHO22	bao:BAO_0002931
+cellline	COS-1	bao:BAO_0002931
+cellline	Caco-2	bao:BAO_0002931
+cellline	Calu-3	bao:BAO_0002931
+cellline	Clone-9	bao:BAO_0002931
+cellline	Colo-205	bao:BAO_0002931
+cellline	ECV304	bao:BAO_0002931
+cellline	EJ28	bao:BAO_0002931
+cellline	Fibroblasts	bao:BAO_0002931
+cellline	GH3	bao:BAO_0002931
+cellline	H4	bao:BAO_0002931
+cellline	HAEC	bao:BAO_0002931
+cellline	HDF	bao:BAO_0002931
+cellline	HEK	bao:BAO_0002931
+cellline	HEK-293	bao:BAO_0002931
+cellline	HEp-2	bao:BAO_0002931
+cellline	HMEC-1	bao:BAO_0002931
+cellline	HMM	bao:BAO_0002931
+cellline	HUVEC	bao:BAO_0002931
+cellline	HaCaT	bao:BAO_0002931
+cellline	HeLa	bao:BAO_0002931
+cellline	HepG2	bao:BAO_0002931
+cellline	IMR90	bao:BAO_0002931
+cellline	IP15	bao:BAO_0002931
+cellline	J774	bao:BAO_0002931
+cellline	KEC	bao:BAO_0002931
+cellline	L-02	bao:BAO_0002931
+cellline	L929	bao:BAO_0002931
+cellline	LLC-PK1	bao:BAO_0002931
+cellline	LoVo	bao:BAO_0002931
+cellline	Lymphocytes	bao:BAO_0002931
+cellline	MCF7	bao:BAO_0002931
+cellline	MDA-MB-231	bao:BAO_0002931
+cellline	MDBK	bao:BAO_0002931
+cellline	MDCK	bao:BAO_0002931
+cellline	MEF	bao:BAO_0002931
+cellline	MG-63	bao:BAO_0002931
+cellline	Macrophages	bao:BAO_0002931
+cellline	Memory T-cell	bao:BAO_0002931
+cellline	Monocytes	bao:BAO_0002931
+cellline	NCIH441	bao:BAO_0002931
+cellline	NK cells	bao:BAO_0002931
+cellline	NR8383	bao:BAO_0002931
+cellline	Naive T-cell	bao:BAO_0002931
+cellline	Neuro-2a	bao:BAO_0002931
+cellline	PAECs	bao:BAO_0002931
+cellline	PC12	bao:BAO_0002931
+cellline	PC3	bao:BAO_0002931
+cellline	PMA activated THP-1	bao:BAO_0002931
+cellline	RAW 264.7	bao:BAO_0002931
+cellline	SH-SY5Y	bao:BAO_0002931
+cellline	SK-BR-3	bao:BAO_0002931
+cellline	SK-Mel-28	bao:BAO_0002931
+cellline	SKOV-3	bao:BAO_0002931
+cellline	SVEC4-10	bao:BAO_0002931
+cellline	SW480	bao:BAO_0002931
+cellline	T cells (all types)	bao:BAO_0002931
+cellline	T98G	bao:BAO_0002931
+cellline	TD	bao:BAO_0002931
+cellline	THP-1	bao:BAO_0002931
+cellline	UM-UC-3	bao:BAO_0002931
+cellline	V14	bao:BAO_0002931
+cellline	VERO	bao:BAO_0002931
+cellline	hMSCs	bao:BAO_0002931
+cellline	hTERT-BJ1	bao:BAO_0002931
+cellline	primary alveolar Epithelial cells	bao:BAO_0002931
+cellline	primary alveolar Macrophage	bao:BAO_0002931
+cellline	primary alveolar epithelial cells	bao:BAO_0002931
+cellline	primary tissue Macrophage	bao:BAO_0002931
+species	Human	obo:NCBITaxon_9606
+species	Hamster	obo:NCBITaxon_10029
+species	Mouse	obo:NCBITaxon_10090
+species	unknown	bao:BAO_0000551
+species	Bos taurus	bao:BAO_0000551
+species	Canine	bao:BAO_0000551
+species	Cercopithecus aethiops	bao:BAO_0000551
+species	Pig	bao:BAO_0000551
+species	Rat	bao:BAO_0000551
+species	hamster	bao:BAO_0000551
+species	rat	bao:BAO_0000551
+species	Homo sapiens	obo:NCBITaxon_9606
+species	Mus musculus	obo:NCBITaxon_10090
+species	Rattus norvegicus	bao:BAO_0000551
+celltype	Normal	efo:EFO_0002922
+celltype	Cancer	efo:EFO_0001639
+cell_line_immortal_or_primary	L	obo:CLO_0000019
+cell_line_immortal_or_primary	P	bao:BAO_0000239
+core_type_organic_inorganic	I	npo:NPO_1861
+core_type_organic_inorganic	O	npo:NPO_1860
+biosystem	Blood	obo:UBERON_0000178
+biosystem	Lung	obo:UBERON_0002048
+biosystem	Bone	obo:UBERON_0002481
+biosystem	Breast	obo:UBERON_0000310
+biosystem	Colon	obo:UBERON_0001155
+biosystem	Liver	obo:UBERON_0002107
+biosystem	Mesothelium	obo:UBERON_0001136
+biosystem	Nose	obo:UBERON_0000004
+biosystem	Adrenal gland	obo:NCIT_C90259
+biosystem	Aorta	obo:NCIT_C90259
+biosystem	Areolar tissue	obo:NCIT_C90259
+biosystem	Bone Marrow	obo:NCIT_C90259
+biosystem	Bone marrow	obo:NCIT_C90259
+biosystem	Brain	obo:NCIT_C90259
+biosystem	Cervix	obo:NCIT_C90259
+biosystem	Foreskin	obo:NCIT_C90259
+biosystem	Heart	obo:NCIT_C90259
+biosystem	Kidney	obo:NCIT_C90259
+biosystem	Ovary	obo:NCIT_C90259
+biosystem	Prostate	obo:NCIT_C90259
+biosystem	Skin	obo:NCIT_C90259
+biosystem	Testis	obo:NCIT_C90259
+biosystem	Umbilical cord	obo:NCIT_C90259
+biosystem	Urinary bladder	obo:NCIT_C90259
+biosystem	adrenal gland	obo:NCIT_C90259
+biosystem	axillary lymph node	obo:NCIT_C90259
+biosystem	embryo	obo:NCIT_C90259
+biosystem	kidney	obo:NCIT_C90259
+biosystem	liver	obo:NCIT_C90259
+biosystem	lung	obo:NCIT_C90259
+biosystem	pituitary gland	obo:NCIT_C90259
+biosystem	stomach	obo:NCIT_C90259
+biosystem	THP-1	efo:EFO_0001253
+biosystem	Primary human bronchial epithelial cells	obo:BTO_0002922
+biosystem	Lung	obo:BTO_0000763
+biosystem	MCF-7	obo:BTO_0000093
+biosystem	A549	obo:BTO_0000018
+biosystem	HPAEC	obo:BTO_0003151
+biosystem	HeLa	efo:EFO_0001185
+biosystem	N24	nsvoc:bio_system_n24
+biosystem	FE1	nsvoc:bio_system_fe1
+biosystem	Caco-2	efo:EFO_0001099
+biosystem	Alveolar macrophage	obo:CL_1001603
+biosystem	HMEC_90perc_confluence	efo:EFO_0001188
+biosystem	HepG2	efo:EFO_0001187
+biosystem	HUVEC	efo:EFO_0002795
+biosystem	hONS	efo:EFO_0005705
+biosystem	CD34	efo:EFO_0005482
+biosystem	MRC9	nsvoc:bio_system_mrc9
+biosystem	Lung (OVA/Alum sensitized)	obo:BTO_0000763
+biosystem	Spinal cord dissociated cultures	obo:BTO_0001279
+biosystem	HepaRG	efo:EFO_0001186
+biosystem	BMM	obo:CL_0010004
+biosystem	liver	obo:BTO_0000224
+biosystem	PAEC	obo:BTO_0001141
+biosystem	EA.hy926	efo:EFO_0003039
+biosystem	PBMC	obo:BTO_0001025
+biosystem	heart	obo:NCIT_C90259
+biosystem	HMDM	nsvoc:bio_system_hmdm
+biosystem	HET1A	obo:BTO_0004433
+biosystem	Bronchial epithelium	efo:EFO_0005728
+biosystem	MDDC	obo:BTO_0002900
+biosystem	SAE	nsvoc:bio_system_sae
+biosystem	HAEC	obo:BTO_0004602
+biosystem	Caco-2/HT29-MTX	efo:EFO_0001099
+biosystem	colon	obo:BTO_0000269
+biosystem	16lu	efo:EFO_005362
+biosystem	HMEC_50perc_confluence	efo:EFO_0001188
+biosystem	mESC	efo:EFO_0005914
+biosystem	Y79	efo:EFO_0002392
+biosystem	Jurkat	obo:NCIT_C90259
+biosystem	Diaphragm	obo:BTO_0000341
+biosystem	BEAS-2B	efo:EFO_0001089
+biosystem	HaCaT	efo:EFO_0002056
+endpoint	core_size	enm:ENM_8000039
+endpoint 	hydrodynamic_size	npo:NPO_1914
+endpoint	surface_charge	npo:NPO_1812
+endpoint	specific_surface_area	sio:CHEMINF_000515
+endpoint	hsf	cheminf:CHEMINF_000241
+endpoint	ec	enm:ENM_8000100
+endpoint	ev	enm:ENM_8000110
+endpoint	meo	npo:NPO_421
+endpoint	time	efo:EFO_0000721
+endpoint	dose	efo:EFO_0000428
+endpoint	viability	enm:ENM_0000068
+unit	nm	obo:UO_0000018
+unit	mV	obo:UO_0000247
+unit	eV	obo:UO_0000266
+unit	hours	obo:UO_0000032
+unit	mg_per_ml	obo:UO_0000274
+unit	percentage	obo:UO_0000187
+unit	m2/g	nsvoc:unit_meter_squared_per_gram
+unit	ug/cm2	obo:NCIT_C67311
+unit	um2/cm2	nsvoc:dose_unit_ug2_to_cm2
+unit	mg/l	obo:UO_0000273
+unit	ng/ml	obo:UO_0000275
+unit	mg/kgbw/day	obo:NCIT_C66976
+unit	ppm	obo:UO_0000169
+unit	ug	obo:UO_0000023
+unit	NA	nsvoc:dose_unit_na
+unit	mg/m3	obo:NCIT_C67306
+unit	ug/day/4d	nsvoc:dose_unit_ug_day_4d
+unit	uM	obo:UO_0000064
+unit	LD	obo:MSIO_0000175
+unit	ng	obo:UO_0000024
+unit	mg/ml	obo:UO_0000176
+unit	ug/ml	obo:UO_0000274
+unit	ug/mL	obo:UO_0000274
+unit	mo	obo:UO_0000035
+unit	week	obo:UO_0000034
+unit	weeks	obo:UO_0000034
+unit	d	obo:UO_0000033
+unit	passage	nsvoc:time_unit_passage
+unit	h post exposure	obo:UO_0000032
+unit	h	obo:UO_0000032
+unit	days	obo:UO_0000033

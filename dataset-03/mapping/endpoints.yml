@@ -1,0 +1,150 @@
+prefixes:
+  rr: "http://www.w3.org/ns/r2rml#"
+  dc: "http://purl.org/dc/elements/1.1/"
+  dct: "http://purl.org/dc/terms/"
+  void: "http://rdfs.org/ns/void#"
+  dcat: "http://www.w3.org/ns/dcat#"
+  prov: "http://www.w3.org/ns/prov#"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  pav: "http://purl.org/pav/"
+  vcard: "http://www.w3.org/2006/vcard/ns#"
+  cito: "http://purl.org/net/cito"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
+  rml: "http://semweb.mmlab.be/ns/rml#"
+  ql: "http://semweb.mmlab.be/ns/ql#"
+  d2rq: "http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#"
+  idlab-fn: "http://example.com/idlab/function/"
+  fnml: "http://semweb.mmlab.be/ns/fnml#"
+  fno: "http://w3id.org/function/ontology#"
+  grel: "http://users.ugent.be/~bjdmeest/function/grel.ttl#"
+  nsvoc: "https://w3id.org/nanolinks/nanosafery_vocabulary:"
+  ns: "https://w3id.org/nanolinks/ns:"
+  obo: "http://purl.obolibrary.org/obo/"
+  npo: "http://purl.bioontology.org/ontology/npo#"
+  enm: "http://purl.enanomapper.org/onto/"
+  amb: "http://purl.enanomapper.net/"
+  sio: "http://semanticscience.org/resource/"
+  cheminf: "http://semanticscience.org/resource/"
+  bao: "http://www.bioassayontology.org/bao#"
+  efo: "http://www.ebi.ac.uk/efo/"
+  pato: "http://purl.org/obo/owl/PATO#"
+  bfo: "http://www.ifomis.org/bfo/1.1/snap#"
+  NCBITAXON: "http://purl.bioontology.org/ontology/NCBITAXON/"
+  
+base: https://w3id.org/nanolinks/:
+
+authors:
+  - name: Ammar Ammar
+    website: http://orcid.org/0000-0002-8399-8990
+ 
+sources:
+  data-source: ['@GSM@.csv~csv']
+  
+external:
+  rdfDatasetUrl: https://zenodo.org/record/5744003
+  rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
+  nanoparticleSubjectUrl: https://w3id.org/nanolinks/nanoparticle_
+  endpointSubjectUrl: https://w3id.org/nanolinks/endpoint_
+
+mappings:
+  endpointGeneExpression:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_endpointSubjectUrl)gene_expression_]
+          - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(GSM)_$(gene)]
+    predicateobjects:
+      - [rdf:type, bao:BAO_0000179~iri] # BAO endpoint
+      - [rdf:type, bao:BAO_0002138~iri] # BAO gene expression profile endpoint
+      - [rdf:type, bao:BAO_0002114~iri] # BAO time endpoint
+      - [rdfs:label, Gene expression: $(expression) for gene $(gene) at timepoint $(time_point) $(time_point_unit) and screening concentration $(dose) $(dose_unit) , en~lang]
+      - [bao:BAO_0000182, obo:UO_0000186~iri] # has response unit: dimensionless
+      - predicate: bao:BAO_0000108 # has response value
+        object:
+          - function: grel:fixExpressionFloatingPoint
+            datatype: xsd:float
+            parameters:
+              - [grel:valueParameter, $(expression)]
+      - predicate: bao:BAO_0002668  # has time unit
+        object:
+          - function: grel:mapToIri
+            type: iri
+            parameters:
+              - [grel:valueParameter, unit]
+              - [grel:valueParameter2, $(time_point_unit)]
+      - [bao:BAO_0002669, $(time_point), xsd:float] # has time value
+      - predicate: bao:BAO_0000338 # has concentration
+        object:
+          - function: grel:mapThenHashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_endpointSubjectUrl)screening_concentration_]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)_$(dose)_]
+              - [grel:valueParameter3, unit]
+              - [grel:valueParameter4, $(dose_unit)]
+      - predicate: bao:BAO_0000185 # has perturbagen
+        inversepredicate: bao:BAO_0000361 # is perturbagen of
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_nanoparticleSubjectUrl)]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(treatment)]
+  measureGroupGeneExpression:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_measureGroupSubjectUrl)gene_expression_]
+          - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(GSM)_$(gene)]
+    predicateobjects:
+      - [rdf:type, bao:BAO_0000040~iri] # measure group
+      - [rdfs:label, "measure group for gene expression of $(gene) with $(treatment) treatment", en~lang]
+      - predicate: bao:BAO_0000208 # has endpoint
+        inversepredicate: bao:BAO_0000559 # is endpoint of
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_endpointSubjectUrl)gene_expression_]
+              - [grel:valueParameter2,$(_rdfDatasetUrl)_$(GSE)_$(GSM)_$(gene)]
+      - predicate: bao:BAO_0000426 # is measure group of
+        inversepredicate: bao:BAO_0000209 # has measure group
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_measureGroupSubjectUrl)sample_]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(GSM)] 
+      - predicate: bao:BAO_0090012 # has participant
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_nanoparticleSubjectUrl)]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(treatment)] 
+  measureGroupSample:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_measureGroupSubjectUrl)sample_]
+          - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(GSM)]
+    predicateobjects:
+      - predicate: bao:BAO_0000209 # has measure group
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_measureGroupSubjectUrl)gene_expression_]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)_$(GSE)_$(GSM)_$(gene)] 

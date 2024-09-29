@@ -1,0 +1,193 @@
+PREFIX node: <https://w3id.org/nanolinks/shex/nodeConstraint#>
+PREFIX triple: <https://w3id.org/nanolinks/shex/tripleConstraint#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rr: <http://www.w3.org/ns/r2rml#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX void: <http://rdfs.org/ns/void#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX pav: <http://purl.org/pav/>
+PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
+PREFIX cito: <http://purl.org/net/cito>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rml: <http://semweb.mmlab.be/ns/rml#>
+PREFIX ql: <http://semweb.mmlab.be/ns/ql#>
+PREFIX d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#>
+PREFIX idlab-fn: <http://example.com/idlab/function/>
+PREFIX fnml: <http://semweb.mmlab.be/ns/fnml#>
+PREFIX fno: <http://w3id.org/function/ontology#>
+PREFIX grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#>
+PREFIX nsvoc: <https://w3id.org/nanolinks/nanosafery_vocabulary:>
+PREFIX ns: <https://w3id.org/nanolinks/ns:>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX npo: <http://purl.bioontology.org/ontology/npo#>
+PREFIX enm: <http://purl.enanomapper.org/onto/>
+PREFIX amb: <http://purl.enanomapper.net/>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX cheminf: <http://semanticscience.org/resource/>
+PREFIX bao: <http://www.bioassayontology.org/bao#>
+PREFIX efo: <http://www.ebi.ac.uk/efo/>
+PREFIX pato: <http://purl.org/obo/owl/PATO#>
+PREFIX bfo: <http://www.ifomis.org/bfo/1.1/snap#>
+PREFIX NCBITAXON: <http://purl.bioontology.org/ontology/NCBITAXON/>
+
+start=@node:Bioassay
+
+# Bioassay
+node:Bioassay{
+  rdf:type IRI+;
+  dct:source @node:RdfDataset;
+  bao:BAO_0000205 @node:AssayFormatCellLine or @node:AssayFormatPhyschem; # has assay format  
+  bao:BAO_0000214 [bao:BAO_0000410]; # has assay specification
+  bao:BAO_0002846 @node:Protocol; # has assay protocol
+  bao:BAO_0000209 @node:MeasureGroup+; # has measure group
+  bao:BAO_0090012 @node:Nanomaterial+ # has perturbagen
+}
+
+node:RdfDataset{
+  rdf:type [dcat:Distribution];
+  rdf:type [void:Dataset];
+  rdf:type [prov:Entity];
+  dct:conformsTo IRI+;
+  dcat:contactPoint @node:Creator;
+  dct:creator @node:Creator;
+  dct:publisher @node:Publisher;
+  dct:title xsd:string;
+  dct:description xsd:string;
+  dct:issued LITERAL;
+  dct:license IRI;
+  dcat:downloadURL IRI;
+  void:dataDump IRI;
+  dcat:mediaType IRI
+}
+
+node:OriginalDataset {
+  rdf:type [dcat:Dataset];
+  dct:title xsd:string;
+  dct:description xsd:string;
+  dct:issued LITERAL;
+  dct:license IRI;
+  dct:isReferencedBy IRI;
+  cito:citesAsAuthority IRI;
+  dcat:distribution @node:OriginalDataset
+}
+
+node:Creator{
+  rdf:type [foaf:Person];
+  rdf:type [prov:Person];
+  rdf:type [vcard:Individual];
+  foaf:name xsd:string;
+  vcard:fn xsd:string;
+  foaf:givenName xsd:string;
+  foaf:familyName xsd:string;
+  foaf:account @node:CreatorProfile;
+  foaf:publications IRI
+}
+
+node:CreatorProfile{
+  rdf:type [foaf:PersonalProfileDocument];
+  rdf:type [foaf:OnlineAccount];
+  foaf:accountName xsd:string;
+  foaf:accountServiceHomepage IRI;
+  pav:createdWith IRI;
+  pav:createdBy @node:Creator;
+  foaf:maker @node:Creator;
+  prov:wasAttributedTo @node:Creator;
+}
+
+node:Publisher{
+  rdf:type [foaf:Organization];
+  rdf:type [prov:Organization];
+  rdf:type [vcard:Organization];
+  foaf:name xsd:string
+}
+
+node:AssayFormatPhyschem {
+  rdf:type [bao:BAO_0000100];
+}
+
+node:AssayFormatCellLine {
+  rdf:type [bao:BAO_0000219];
+  bao:BAO_0002004 @node:CellLine
+}
+
+node:CellLine EXTRA rdf:type{
+  rdf:type [obo:CLO_0000001];
+  bao:BAO_0090006 IRI+;
+}
+
+node:Protocol {
+  rdf:type [bao:BAO_0000523];
+  cito:citesAsAuthority IRI
+}
+
+node:MeasureGroup {
+  rdf:type [bao:BAO_0000040];
+  bao:BAO_0090012 @node:Nanomaterial;
+  bao:BAO_0000208 @node:EndpointCellViability or 
+				  @node:EndpointZetaPotential +
+}
+
+node:Endpoint{
+  rdf:type [bao:BAO_0000179];
+  bao:BAO_0000182 IRI;
+  bao:BAO_0000108 xsd:float;
+}
+
+node:EndpointCellViability & node:Endpoint EXTRA rdf:type{
+  rdf:type [bao:BAO_0000202];
+  bao:BAO_0002668 IRI;
+  bao:BAO_0002669 xsd:float;
+  bao:BAO_0000338 @node:Concentration
+}
+
+node:EndpointZetaPotential & node:Endpoint EXTRA rdf:type{
+  rdf:type [enm:ENM_0000092]
+}
+
+node:Concentration EXTRA rdf:type{
+  rdf:type [bao:BAO_0000098];
+  bao:BAO_0000183 IRI;
+  bao:BAO_0002666 xsd:float
+}
+
+node:Nanomaterial EXTRA npo:has_part{
+ rdf:type [npo:NPO_707];
+ rdf:type [obo:CHEBI_59999];
+ rdf:type [bao:BAO_0003043];
+ 
+ npo:has_quality @node:Quality+;
+ 
+ npo:has_part @node:Core;
+ npo:has_part @node:Coat?;
+ npo:has_part @node:Surface?;
+ 
+ bao:BAO_0003102 [bao:BAO_0002932];
+ bao:BAO_0003102 [bao:BAO_0003059]
+}
+
+node:Core IRI{
+  rdf:type [npo:NPO_1617];
+  npo:has_quality IRI
+}
+
+node:Coat IRI{
+  rdf:type [npo:NPO_1367];
+  npo:has_quality IRI
+}
+
+node:Surface IRI{
+  rdf:type [npo:NPO_1379];
+  npo:has_quality @node:Quality+;
+}
+
+node:Quality EXTRA rdf:type{
+  rdf:type [bfo:Quality];
+  bao:BAO_0002874 IRI;
+  bao:BAO_0095007 LITERAL;
+}

@@ -1,0 +1,943 @@
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Al2O3"@en.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.org/dc/terms/type> <http://purl.enanomapper.org/onto/ENM_9000005>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial CuO"@en.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_83159>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe2O3"@en.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1550>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4"@en.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1548>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4"@en.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1548>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1373>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1373>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1373>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1373>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2"@en.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.org/dc/terms/type> <http://purl.obolibrary.org/obo/CHEBI_51050>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/CHEBI_59999>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_707>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0003043>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO"@en.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0002932>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://www.bioassayontology.org/bao#BAO_0003102> <http://www.bioassayontology.org/bao#BAO_0003059>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.org/dc/terms/type> <http://purl.bioontology.org/ontology/npo#NPO_1542>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_core_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_part> <https://w3id.org/nanolinks/nanoparticle_surface_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_size_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hydrodynamic_size_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_hsf_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ec_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_ev_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_meo_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_core_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Al2O3 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_core_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial CuO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_core_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe2O3 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_core_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_core_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_core_7d6848dfb31a8281423921094736f732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_7d6848dfb31a8281423921094736f732> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_core_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_core_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_core_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_core_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_core_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_core_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_core_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_core_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_core_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_core_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_core_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_core_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_core_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_core_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_core_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_core_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_core_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_core_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_core_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_core_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_core_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_core_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_core_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_core_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_core_73b528717074138bb8037df73a110711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_73b528717074138bb8037df73a110711> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_core_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_core_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_core_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_core_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_core_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_core_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_core_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_core_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_core_17888d52660a418711823242bcc41ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_17888d52660a418711823242bcc41ddf> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_core_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1617>.
+<https://w3id.org/nanolinks/nanoparticle_core_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO core"@en.
+<https://w3id.org/nanolinks/nanoparticle_core_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_core_chemical_composition_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2074ea24c570a72cc00e999bffbc20cb> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Al2O3 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2074ea24c570a72cc00e999bffbc20cb> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_2074ea24c570a72cc00e999bffbc20cb>.
+<https://w3id.org/nanolinks/nanoparticle_surface_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_72c4bb3abbbb6c78d2a560a2a293d650> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial CuO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_surface_72c4bb3abbbb6c78d2a560a2a293d650> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_72c4bb3abbbb6c78d2a560a2a293d650>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d27d5875de78513aa18154ca819fbb6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe2O3 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d27d5875de78513aa18154ca819fbb6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_1d27d5875de78513aa18154ca819fbb6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3766e2c6871bd3de9c26352623664d1d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3766e2c6871bd3de9c26352623664d1d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_3766e2c6871bd3de9c26352623664d1d>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d3e2b2a7196ee8f095c016b042d70f2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial Fe3O4 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_surface_1d3e2b2a7196ee8f095c016b042d70f2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_1d3e2b2a7196ee8f095c016b042d70f2>.
+<https://w3id.org/nanolinks/nanoparticle_surface_7d6848dfb31a8281423921094736f732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_7d6848dfb31a8281423921094736f732> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_surface_7d6848dfb31a8281423921094736f732> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_7d6848dfb31a8281423921094736f732>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b4a3b8e9be3d76848139e3328d307a71> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b4a3b8e9be3d76848139e3328d307a71> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_b4a3b8e9be3d76848139e3328d307a71>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80dae42c955e334959fc2009cad2f953> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80dae42c955e334959fc2009cad2f953> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_80dae42c955e334959fc2009cad2f953>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9883b9fa4d51b7e32883b52abc72e4b6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial SiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9883b9fa4d51b7e32883b52abc72e4b6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_9883b9fa4d51b7e32883b52abc72e4b6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80225525eae5d65a1ba38e5917428ae0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_surface_80225525eae5d65a1ba38e5917428ae0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_80225525eae5d65a1ba38e5917428ae0>.
+<https://w3id.org/nanolinks/nanoparticle_surface_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_8b143095c711b620f2f2a0b2d0ce8945> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_surface_8b143095c711b620f2f2a0b2d0ce8945> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_8b143095c711b620f2f2a0b2d0ce8945>.
+<https://w3id.org/nanolinks/nanoparticle_surface_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_19ca054ae9f83898c1c5dd216e976b9d> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_surface_19ca054ae9f83898c1c5dd216e976b9d> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_19ca054ae9f83898c1c5dd216e976b9d>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4c1674831fd47f0d99163b758e12e8d9> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4c1674831fd47f0d99163b758e12e8d9> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_4c1674831fd47f0d99163b758e12e8d9>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4f81585cd1367e4a979f5af477fe4872> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4f81585cd1367e4a979f5af477fe4872> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_4f81585cd1367e4a979f5af477fe4872>.
+<https://w3id.org/nanolinks/nanoparticle_surface_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_97ea87251df33bb01df7fe906d808c63> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_surface_97ea87251df33bb01df7fe906d808c63> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_97ea87251df33bb01df7fe906d808c63>.
+<https://w3id.org/nanolinks/nanoparticle_surface_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_surface_351a2bdbfb68a0e6fa0a6f37a8d8a30f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_351a2bdbfb68a0e6fa0a6f37a8d8a30f>.
+<https://w3id.org/nanolinks/nanoparticle_surface_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_88160d97949a26ec91288edae9c7cab2> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_surface_88160d97949a26ec91288edae9c7cab2> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_88160d97949a26ec91288edae9c7cab2>.
+<https://w3id.org/nanolinks/nanoparticle_surface_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_51b1ad6f21cd2da6be2533a8f232ee1f> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_surface_51b1ad6f21cd2da6be2533a8f232ee1f> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_51b1ad6f21cd2da6be2533a8f232ee1f>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3ef25efeec362228acb754ab09d806c5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3ef25efeec362228acb754ab09d806c5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_3ef25efeec362228acb754ab09d806c5>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2e24bdd889174f690501ea243e071c41> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_surface_2e24bdd889174f690501ea243e071c41> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_2e24bdd889174f690501ea243e071c41>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4e8741849467bcf11c175cfa90596250> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_surface_4e8741849467bcf11c175cfa90596250> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_4e8741849467bcf11c175cfa90596250>.
+<https://w3id.org/nanolinks/nanoparticle_surface_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_98f40907eeb6996020c374cf8a1b42e4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_surface_98f40907eeb6996020c374cf8a1b42e4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_98f40907eeb6996020c374cf8a1b42e4>.
+<https://w3id.org/nanolinks/nanoparticle_surface_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_dfbd17961e78e8cf878533ad7bff26bd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_surface_dfbd17961e78e8cf878533ad7bff26bd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_dfbd17961e78e8cf878533ad7bff26bd>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3458729a3152c61d65e6407e9bf7ead3> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3458729a3152c61d65e6407e9bf7ead3> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_3458729a3152c61d65e6407e9bf7ead3>.
+<https://w3id.org/nanolinks/nanoparticle_surface_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_750973ca3fe2a22fe0e2f3fae55e43c0> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_surface_750973ca3fe2a22fe0e2f3fae55e43c0> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_750973ca3fe2a22fe0e2f3fae55e43c0>.
+<https://w3id.org/nanolinks/nanoparticle_surface_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_773a1ab8c445b68dd23185f1c8c54a2b> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_surface_773a1ab8c445b68dd23185f1c8c54a2b> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_773a1ab8c445b68dd23185f1c8c54a2b>.
+<https://w3id.org/nanolinks/nanoparticle_surface_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_811d213d6a5084e783eaaf045bbd30a5> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_surface_811d213d6a5084e783eaaf045bbd30a5> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_811d213d6a5084e783eaaf045bbd30a5>.
+<https://w3id.org/nanolinks/nanoparticle_surface_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_6bf9d78f635be3e4b65d8fe3b748b558> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial TiO2 surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_surface_6bf9d78f635be3e4b65d8fe3b748b558> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_6bf9d78f635be3e4b65d8fe3b748b558>.
+<https://w3id.org/nanolinks/nanoparticle_surface_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_f85ceb0164f6ecc64897bc851653cc82> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_surface_f85ceb0164f6ecc64897bc851653cc82> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_f85ceb0164f6ecc64897bc851653cc82>.
+<https://w3id.org/nanolinks/nanoparticle_surface_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_e04eed192ec29b6501dbfb61dcaedd67> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_surface_e04eed192ec29b6501dbfb61dcaedd67> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_e04eed192ec29b6501dbfb61dcaedd67>.
+<https://w3id.org/nanolinks/nanoparticle_surface_73b528717074138bb8037df73a110711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_73b528717074138bb8037df73a110711> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_surface_73b528717074138bb8037df73a110711> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_73b528717074138bb8037df73a110711>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b95c9d92608652763ec3ab858aea5cac> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b95c9d92608652763ec3ab858aea5cac> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_b95c9d92608652763ec3ab858aea5cac>.
+<https://w3id.org/nanolinks/nanoparticle_surface_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_38147d9c9dde9b888636fbd2d97e86a6> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_38147d9c9dde9b888636fbd2d97e86a6> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_38147d9c9dde9b888636fbd2d97e86a6>.
+<https://w3id.org/nanolinks/nanoparticle_surface_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_a9cde303e0e8fab472d2a1944a8979ca> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_surface_a9cde303e0e8fab472d2a1944a8979ca> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_a9cde303e0e8fab472d2a1944a8979ca>.
+<https://w3id.org/nanolinks/nanoparticle_surface_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_d8718d7d492d7855fcc32b111931aa36> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_surface_d8718d7d492d7855fcc32b111931aa36> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_d8718d7d492d7855fcc32b111931aa36>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3f83d40440203360df416eabe233aeaa> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_surface_3f83d40440203360df416eabe233aeaa> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_3f83d40440203360df416eabe233aeaa>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b8de86cb83d1de681d05b39920f27487> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_surface_b8de86cb83d1de681d05b39920f27487> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_b8de86cb83d1de681d05b39920f27487>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9314b73b35350fc122484d4d7cf4b832> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_surface_9314b73b35350fc122484d4d7cf4b832> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_9314b73b35350fc122484d4d7cf4b832>.
+<https://w3id.org/nanolinks/nanoparticle_surface_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_775692ad3517043474eb6562c7244ce4> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_surface_775692ad3517043474eb6562c7244ce4> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_775692ad3517043474eb6562c7244ce4>.
+<https://w3id.org/nanolinks/nanoparticle_surface_17888d52660a418711823242bcc41ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_17888d52660a418711823242bcc41ddf> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_surface_17888d52660a418711823242bcc41ddf> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_17888d52660a418711823242bcc41ddf>.
+<https://w3id.org/nanolinks/nanoparticle_surface_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.bioontology.org/ontology/npo#NPO_1379>.
+<https://w3id.org/nanolinks/nanoparticle_surface_c654d1ba6217cfcf545322f3559765fd> <http://www.w3.org/2000/01/rdf-schema#label> "nanomaterial ZnO surface"@en.
+<https://w3id.org/nanolinks/nanoparticle_surface_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_surface_charge_c654d1ba6217cfcf545322f3559765fd>.
+<https://w3id.org/nanolinks/nanoparticle_surface_c654d1ba6217cfcf545322f3559765fd> <http://purl.bioontology.org/ontology/npo#has_quality> <https://w3id.org/nanolinks/nanoparticle_quality_specific_surface_area_c654d1ba6217cfcf545322f3559765fd>.

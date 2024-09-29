@@ -1,0 +1,418 @@
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -1.21 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.bioassayontology.org/bao#BAO_0000108> "-1.21"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5a55d418f7948edc2de465aec5e357c1>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -50.5 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.bioassayontology.org/bao#BAO_0000108> "-50.5"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b6fe9aeb68367b3d05d74d98f2cc464b>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -57.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.bioassayontology.org/bao#BAO_0000108> "-57.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_97e87982e18a2ce8b2e754fd360e8372>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 5.7 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.bioassayontology.org/bao#BAO_0000108> "5.7"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ee8ec9d040180c7636b9f13e25a8107d>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.024 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.bioassayontology.org/bao#BAO_0000108> "0.024"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5e1da97cfd04099cdf55c5ed2500a875>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -8.32 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.bioassayontology.org/bao#BAO_0000108> "-8.32"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_322927e50a89f4c43759212f9c2b10e5>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -3.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.bioassayontology.org/bao#BAO_0000108> "-3.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8edfcf0295d45a78b2d9639aacfa9004>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 3.14 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.bioassayontology.org/bao#BAO_0000108> "3.14"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_bd4c57cecf2bb66a1a1ae46234f7361a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.43 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.bioassayontology.org/bao#BAO_0000108> "0.43"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_daef02701b1fe613e96ffebd02c5af0e>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.62 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.bioassayontology.org/bao#BAO_0000108> "0.62"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_905d29b6ed0d21aa5909a6440194bd20>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -0.52 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.bioassayontology.org/bao#BAO_0000108> "-0.52"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_cd0e3319d43249ae2c38f6410292ad32>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.bioassayontology.org/bao#BAO_0000108> "0.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_c21ab700d063d6e815ecbf9e1ebdebd5>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.bioassayontology.org/bao#BAO_0000108> "0.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_be8bcbb7ca9ffff6809c4ed2116d24d3>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 45.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.bioassayontology.org/bao#BAO_0000108> "45.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_27fa9cfd106495b8b3def33036b1fa22>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -50.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.bioassayontology.org/bao#BAO_0000108> "-50.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ca5433482f590d65109296498c5e88ec>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.bioassayontology.org/bao#BAO_0000108> "0.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8c68fc1547347ff2bc5077c796fdddf5>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.bioassayontology.org/bao#BAO_0000108> "0.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7e69229b8dab04bf0249e5d3be5e2618>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -50.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.bioassayontology.org/bao#BAO_0000108> "-50.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2235910fda9e547e18f6b7975fbc7da1>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 41.4 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.bioassayontology.org/bao#BAO_0000108> "41.4"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1d542af5d1968133479aed1b48fefcb0>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 55.7 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.bioassayontology.org/bao#BAO_0000108> "55.7"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_deb79a27ebf539173f0bdbb90a48b6b7>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 17.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.bioassayontology.org/bao#BAO_0000108> "17.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ce02aca323f638bd0eaad211e65f1e1a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -26.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.bioassayontology.org/bao#BAO_0000108> "-26.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_55c4592dc50b992965ee8dc049e46d6a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 17.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.bioassayontology.org/bao#BAO_0000108> "17.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a323c24161ebd218c86ec8e0c150d56c>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 23.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.bioassayontology.org/bao#BAO_0000108> "23.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ff3afb794d361c2d5fd31310bffb2526>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 25.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.bioassayontology.org/bao#BAO_0000108> "25.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_fb1e983520daa22925966538eb0f0641>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -43.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.bioassayontology.org/bao#BAO_0000108> "-43.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_be64db521c34810c39fe83acbec1da26>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -5.8 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.bioassayontology.org/bao#BAO_0000108> "-5.8"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_746d7e93badfa9315a0cb44666029383>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.04 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.bioassayontology.org/bao#BAO_0000108> "0.04"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0c85229c6462cfc6bc0d93a5f80fb202>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -32.5 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.bioassayontology.org/bao#BAO_0000108> "-32.5"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ad4daf6578c7c14fb0b26317a6c638e9>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -35.0 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.bioassayontology.org/bao#BAO_0000108> "-35.0"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_caa2e3e1111ee84198304c4f109b7b3b>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 25.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.bioassayontology.org/bao#BAO_0000108> "25.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_94543d72699c306b2abc678f00003d2c>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -31.7 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.bioassayontology.org/bao#BAO_0000108> "-31.7"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_022318d9e2e7e58bcf0e549e0f0f2bd2>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -15.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.bioassayontology.org/bao#BAO_0000108> "-15.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_cc22f273b4c63099ee86996633922ec2>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -12.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.bioassayontology.org/bao#BAO_0000108> "-12.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_668c716e1181cc1694319bbee33a5995>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -33.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.bioassayontology.org/bao#BAO_0000108> "-33.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b7d331d3a51a7a29ce86a003056c4740>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -16.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.bioassayontology.org/bao#BAO_0000108> "-16.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1673b03aec989755ea38c4f18e2f8e3d>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -23.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.bioassayontology.org/bao#BAO_0000108> "-23.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_410dea7942c6ecadb78914fd59d97b6a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -13.4 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.bioassayontology.org/bao#BAO_0000108> "-13.4"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_06764828a711af6629971efb9be8db71>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -0.59 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.bioassayontology.org/bao#BAO_0000108> "-0.59"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_07c606ce08449920a0776900063a11df>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 64.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.bioassayontology.org/bao#BAO_0000108> "64.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2b26d819d0069e23e80dd1724dc9ad91>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -8.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.bioassayontology.org/bao#BAO_0000108> "-8.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_36c9cc181139d70ee9e27f89958c1db9>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 34.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.bioassayontology.org/bao#BAO_0000108> "34.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e371830552b4bba970dd297f5bd20ade>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -26.6 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.bioassayontology.org/bao#BAO_0000108> "-26.6"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_9178cd4ab3296c2d86d11e45d436cb89>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -18.8 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.bioassayontology.org/bao#BAO_0000108> "-18.8"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2e3bcd1115178b3629377c8c43da36bf>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -0.167 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.bioassayontology.org/bao#BAO_0000108> "-0.167"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d4fd5f97fbfa0578460dae675db8f8ea>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -8.22 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.bioassayontology.org/bao#BAO_0000108> "-8.22"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_86ba792a14c7d37a48254b25e5f0044e>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -36.9 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.bioassayontology.org/bao#BAO_0000108> "-36.9"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_245af408e181b3eff9e82381ba77e50a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 50.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.bioassayontology.org/bao#BAO_0000108> "50.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -10.5 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.bioassayontology.org/bao#BAO_0000108> "-10.5"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_28b2f0e215d1b770a9fa26ae48c5cbce>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -20.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.bioassayontology.org/bao#BAO_0000108> "-20.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6739d40033b463c736de735b461af14a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -5.52 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.bioassayontology.org/bao#BAO_0000108> "-5.52"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5d8082188f10552c634b39224518effa>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -2.2 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.bioassayontology.org/bao#BAO_0000108> "-2.2"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ccd32e64a63b9028de079cbec10d81a2>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 0.094 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.bioassayontology.org/bao#BAO_0000108> "0.094"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_940ab2566008d530c8e2a738f544f2b4>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 52.7 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.bioassayontology.org/bao#BAO_0000108> "52.7"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_c293eef062a3ece9a855f8b63dd25c41>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 44.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.bioassayontology.org/bao#BAO_0000108> "44.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_031e5e501a1dba41b2754a94eff2108c>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 43.4 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.bioassayontology.org/bao#BAO_0000108> "43.4"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_715b42dbd87d7495fe2b79ce0b720536>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 20.5 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.bioassayontology.org/bao#BAO_0000108> "20.5"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0d0bea7467bf9645f15b4aec421644c6>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 5.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.bioassayontology.org/bao#BAO_0000108> "5.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b235af1321b9a1e845a9c93c3676122e>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -19.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.bioassayontology.org/bao#BAO_0000108> "-19.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a08bd0d091156f6c452205ba4d22c8e6>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -21.8 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.bioassayontology.org/bao#BAO_0000108> "-21.8"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6f5af9e09777307d178b98f146b6e785>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -29.2 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.bioassayontology.org/bao#BAO_0000108> "-29.2"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -12.2 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.bioassayontology.org/bao#BAO_0000108> "-12.2"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_56b14b6c950b87be93c19f432bdd0588>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -16.4 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.bioassayontology.org/bao#BAO_0000108> "-16.4"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7c6476c2ed0a74972f62d370033fb6bf>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -7.22 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.bioassayontology.org/bao#BAO_0000108> "-7.22"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_93aa1f557fc34bff4c881a16e990b228>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -3.17 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.bioassayontology.org/bao#BAO_0000108> "-3.17"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 56.4 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.bioassayontology.org/bao#BAO_0000108> "56.4"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e715f5a9a444860cb0bc9aa2b99b1c16>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of 46.1 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.bioassayontology.org/bao#BAO_0000108> "46.1"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ae204c58d6225d7e575810c41f76a3b1>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -1.170030769 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.bioassayontology.org/bao#BAO_0000108> "-1.170030769"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e1429fa1f2a093fb8618a1e04d75c5a4>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000179>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.enanomapper.org/onto/ENM_0000092>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta potential of -19.3 mV"@en.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.bioassayontology.org/bao#BAO_0000182> <http://purl.obolibrary.org/obo/UO_0000247>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.bioassayontology.org/bao#BAO_0000108> "-19.3"^^<http://www.w3.org/2001/XMLSchema#float>.
+<https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_69e9b67e3823078ddc58bcfbceab5834>.
+<https://w3id.org/nanolinks/nanosafery_vocabulary:unit_square_nanometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UO_0000000>.
+<https://w3id.org/nanolinks/nanosafery_vocabulary:unit_square_nanometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UO_0000047>.
+<https://w3id.org/nanolinks/nanosafery_vocabulary:unit_square_nanometer> <http://www.w3.org/2000/01/rdf-schema#label> "square nanometer (nm^2)"@en.
+<https://w3id.org/nanolinks/nanosafery_vocabulary:unit_square_nanometer> <http://www.w3.org/2000/01/rdf-schema#comment> "A unit used for Surface Area (SA) of a nanomaterial"@en.

@@ -1,0 +1,336 @@
+prefixes:
+  rr: "http://www.w3.org/ns/r2rml#"
+  dc: "http://purl.org/dc/elements/1.1/"
+  dct: "http://purl.org/dc/terms/"
+  void: "http://rdfs.org/ns/void#"
+  dcat: "http://www.w3.org/ns/dcat#"
+  prov: "http://www.w3.org/ns/prov#"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  pav: "http://purl.org/pav/"
+  vcard: "http://www.w3.org/2006/vcard/ns#"
+  cito: "http://purl.org/net/cito"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
+  rml: "http://semweb.mmlab.be/ns/rml#"
+  ql: "http://semweb.mmlab.be/ns/ql#"
+  d2rq: "http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#"
+  idlab-fn: "http://example.com/idlab/function/"
+  fnml: "http://semweb.mmlab.be/ns/fnml#"
+  fno: "http://w3id.org/function/ontology#"
+  grel: "http://users.ugent.be/~bjdmeest/function/grel.ttl#"
+  nsvoc: "https://w3id.org/nanolinks/nanosafery_vocabulary:"
+  ns: "https://w3id.org/nanolinks/ns:"
+  obo: "http://purl.obolibrary.org/obo/"
+  npo: "http://purl.bioontology.org/ontology/npo#"
+  enm: "http://purl.enanomapper.org/onto/"
+  amb: "http://purl.enanomapper.net/"
+  sio: "http://semanticscience.org/resource/"
+  cheminf: "http://semanticscience.org/resource/"
+  bao: "http://www.bioassayontology.org/bao#"
+  efo: "http://www.ebi.ac.uk/efo/"
+  pato: "http://purl.org/obo/owl/PATO#"
+  bfo: "http://www.ifomis.org/bfo/1.1/snap#"
+  NCBITAXON: "http://purl.bioontology.org/ontology/NCBITAXON/"
+  
+base: https://w3id.org/nanolinks/:
+
+authors:
+  - name: Ammar Ammar
+    website: http://orcid.org/0000-0002-8399-8990
+ 
+sources:
+  data-source: ['/data/data.csv~csv']
+  
+external:
+  catalogTitle: NanoLinks-KG
+  licenseUrl: https://creativecommons.org/licenses/by/4.0/
+  standardUrlDcat: https://www.w3.org/TR/vocab-dcat-2
+  standardUrlVoid: https://www.w3.org/TR/void/
+  orcidUrl: https://orcid.org/0000-0002-8399-8990
+  orcid: 0000-0002-8399-8990
+  affiliationOrgUrl: https://ror.org/02jz4aj89
+  affiliationOrgName: Maastricht University
+  publisherUrl: https://zenodo.org
+  publisherName: Zenodo
+  creatorName: Ammar Ammar
+  creatorFname: Ammar
+  creatorLname: Ammar
+  datasetName: S2NANO
+  datasetDescription: Supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018).
+  datasetUrl: https://doi.org/10.1038/s41598-018-24483-z #DOI
+  datasetPublishYear: 2018
+  rdfDatasetName: Dataset 1
+  rdfDatasetTitle: S2NANO RDF
+  rdfDatasetDescription: RDF version of the supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018).
+  rdfDatasetUrl: https://zenodo.org/record/5743204 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/record/5743204/files/dataset.nq?download=1 # The download link from zenodo
+  rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5743204.html # The dataset overview page (if available) or zenodo main page
+  rdfDatasetPublishYear: 2024
+  catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
+  rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
+  datasetSubjectUrl: https://w3id.org/nanolinks/dataset_
+  creatorSubjectUrl: https://w3id.org/nanolinks/creator_
+  creatorProfileSubjectUrl: https://w3id.org/nanolinks/creator_profile_
+  organizationSubjectUrl: https://w3id.org/nanolinks/organization_
+  activitySubjectUrl: https://w3id.org/nanolinks/activity_
+  softwareAgentSubjectUrl: https://w3id.org/nanolinks/software_
+
+mappings:
+
+  standardDcat:
+    sources:
+      - data-source
+    subjects: $(_standardUrlDcat)
+    predicateobjects:
+      - [rdf:type, dct:Standard~iri]
+      - [rdfs:label, DCAT v3, en~lang]
+  standardVoid:
+    sources:
+      - data-source
+    subjects: $(_standardUrlVoid)
+    predicateobjects:
+      - [rdf:type, dct:Standard~iri]
+      - [rdfs:label, VoID, en~lang]
+  creatorProfile: #foaf:Person --subclass-> foaf:Agent
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_creatorProfileSubjectUrl)]
+          - [grel:valueParameter2, $(_orcidUrl)]
+    predicateobjects:
+      - [rdf:type, foaf:PersonalProfileDocument~iri]
+      - [rdf:type, foaf:OnlineAccount~iri]
+      - [rdfs:label, Creator ORCID Profile with ID: $(_orcid), xsd:string]
+      - [foaf:accountName, $(_orcid), xsd:string]
+      - [foaf:accountServiceHomepage, http://orcid.org~iri]
+      - [pav:createdWith, http://orcid.org~iri]
+      - predicate: [pav:createdBy, foaf:maker, prov:wasAttributedTo]
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_creatorSubjectUrl)]
+              - [grel:valueParameter2, $(_orcidUrl)]
+  creator:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_creatorSubjectUrl)]
+          - [grel:valueParameter2, $(_orcidUrl)]
+    predicateobjects:
+      - [rdf:type, foaf:Person~iri]
+      - [rdf:type, prov:Person~iri]
+      - [rdf:type, vcard:Individual~iri]
+      - [rdfs:label, $(_creatorName), en~lang]
+      - [foaf:name, $(_creatorName), en~lang]
+      - [vcard:fn, $(_creatorName), en~lang]
+      - [foaf:givenName, $(_creatorFname), en~lang]
+      - [foaf:familyName, $(_creatorLname), en~lang]
+      - [foaf:publications, $(_orcidUrl)#pubList~iri]
+      - predicate: foaf:account
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_creatorProfileSubjectUrl)]
+              - [grel:valueParameter2, $(_orcidUrl)]
+      - predicate: schema:affiliation
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_organizationSubjectUrl)]
+              - [grel:valueParameter2, $(_affiliationOrgUrl)]
+  affiliationOrg:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_organizationSubjectUrl)]
+          - [grel:valueParameter2, $(_affiliationOrgUrl)]
+    predicateobjects:
+      - [rdf:type, foaf:Organization~iri]
+      - [rdf:type, prov:Organization~iri]
+      - [rdf:type, vcard:Organization~iri]
+      - [rdfs:label, $(_affiliationOrgName), en~lang]
+      - [foaf:name, $(_affiliationOrgName), en~lang]
+      - [dct:identifier, $(_affiliationOrgUrl)~iri]
+  publisher:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_organizationSubjectUrl)]
+          - [grel:valueParameter2, $(_publisherUrl)]
+    predicateobjects:
+      - [rdf:type, foaf:Organization~iri]
+      - [rdf:type, prov:Organization~iri]
+      - [rdf:type, vcard:Organization~iri]
+      - [rdfs:label, $(_publisherName), en~lang]
+      - [foaf:name, $(_publisherName), en~lang]
+      - [dct:identifier, $(_publisherUrl)~iri]
+  catalog:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_catalogSubjectUrl)]
+          - [grel:valueParameter2, $(_catalogTitle)]
+    predicateobjects:
+      - [rdf:type, dcat:Catalog~iri]
+      - [rdfs:label, $(_catalogTitle), en~lang]
+      - [dct:title, $(_catalogTitle), en~lang]
+      - predicate: dcat:dataset
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_datasetSubjectUrl)]
+              - [grel:valueParameter2, $(_datasetUrl)]
+  dataset:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_datasetSubjectUrl)]
+          - [grel:valueParameter2, $(_datasetUrl)]
+    predicateobjects:
+      - [rdf:type, dcat:Dataset~iri]
+      - [rdfs:label, $(_datasetName), en~lang]
+      - [dct:title, $(_datasetName), en~lang]
+      - [dct:description, $(_datasetDescription), en~lang]
+      - [dct:issued, $(_datasetPublishYear), xsd:gYear]
+      - [dct:identifier, $(_datasetUrl), xsd:anyURI]
+      - [dct:isReferencedBy, $(_datasetUrl)~iri] 
+      - [cito:citesAsAuthority, $(_datasetUrl)~iri]
+      - [dct:license, $(_licenseUrl)~iri]
+      - predicate: dcat:distribution
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_rdfDatasetSubjectUrl)]
+              - [grel:valueParameter2, $(_rdfDatasetUrl)]
+  rdfDataset:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_rdfDatasetSubjectUrl)]
+          - [grel:valueParameter2, $(_rdfDatasetUrl)]
+    predicateobjects:
+      - [rdf:type, dcat:Distribution~iri]
+      - [rdf:type, void:Dataset~iri]
+      - [rdf:type, prov:Entity~iri]
+      - [dct:conformsTo, $(_standardUrlDcat)~iri]
+      - [dct:conformsTo, $(_standardUrlVoid)~iri]
+      - predicate: [dcat:contactPoint, dct:creator]
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_creatorSubjectUrl)]
+              - [grel:valueParameter2, $(_orcidUrl)]      
+      - predicate: dct:publisher
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_organizationSubjectUrl)]
+              - [grel:valueParameter2, $(_publisherUrl)] 
+      - [rdfs:label, $(_rdfDatasetName), en~lang]
+      - [dct:title, $(_rdfDatasetTitle), en~lang]
+      - [dct:description, $(_rdfDatasetDescription), en~lang]
+      - [dct:issued, $(_rdfDatasetPublishYear), xsd:gYear]
+      - [dct:identifier, $(_rdfDatasetUrl), xsd:string]
+      - [dct:subject, https://dbpedia.org/resource/Nanotechnology~iri]
+      - [dct:subject, https://www.wikidata.org/wiki/Q11468~iri]
+      - [dcat:landingPage, $(_rdfDatasetLandingPage)~iri] #dcat
+      - [foaf:homepage,$(_rdfDatasetLandingPage)~iri] #https://www.w3.org/TR/void/
+      - [dct:license, $(_licenseUrl)~iri]
+      - [dcat:accessURL, https://w3id.org/nanolinks/sparql~iri] #dcat
+      - [void:sparqlEndpoint, https://w3id.org/nanolinks/sparql~iri] #void 
+      - [dcat:downloadURL, $(_rdfDatasetDownloadUrl)~iri] #dcat
+      - [void:dataDump, $(_rdfDatasetDownloadUrl)~iri] #void
+      - [dcat:mediaType, https://www.iana.org/assignments/media-types/application/n-quads~iri] #https://www.iana.org/assignments/media-types/media-types.xhtml (dcat)
+      - [void:feature, http://www.w3.org/ns/formats/N-Quads~iri] #https://www.w3.org/ns/formats/ (void)
+      - predicate: dct:source #void
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_datasetSubjectUrl)]
+              - [grel:valueParameter2, $(_datasetUrl)]
+      - predicate: prov:wasGeneratedBy
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_activitySubjectUrl)]
+              - [grel:valueParameter2, $(_datasetUrl)]
+  activity:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_activitySubjectUrl)]
+          - [grel:valueParameter2, $(_datasetUrl)]
+    predicateobjects:
+      - [rdf:type, prov:Activity~iri]
+      - [rdfs:label, Activity: converting a dataset to RDF, en~lang]
+      - predicate: prov:wasAssociatedWith
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_creatorSubjectUrl)]
+              - [grel:valueParameter2, $(_orcidUrl)]
+      - predicate: prov:wasAssociatedWith
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
+              - [grel:valueParameter2, RML-Mapper-4.15]
+      - predicate: prov:used
+        object:
+          - function: grel:hashAndJoin
+            type: iri
+            parameters:
+              - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
+              - [grel:valueParameter2, RML-Mapper-4.15]
+  software:
+    sources:
+      - data-source
+    subjects:
+      - function: grel:hashAndJoin
+        type: iri
+        parameters:
+          - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
+          - [grel:valueParameter2, RML-Mapper-4.15]
+    predicateobjects:
+      - [rdf:type, prov:Activity~iri]
+      - [rdfs:label, Software: RML-Mapper, en~lang]
+      - [foaf:name, Software: RML-Mapper, en~lang]
+      - [dct:hasVersion, 4.15, xsd:string]
+      - [foaf:homepage, https://github.com/RMLio/rmlmapper-java~iri]
