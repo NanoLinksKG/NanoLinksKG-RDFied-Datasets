@@ -57,15 +57,15 @@ external:
   creatorName: Ammar Ammar
   creatorFname: Ammar
   creatorLname: Ammar
-  datasetName: S2NANO
+  datasetName: Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources
   datasetDescription: Supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018).
   datasetUrl: https://doi.org/10.1038/s41598-018-24483-z #DOI
   datasetPublishYear: 2018
   rdfDatasetName: Dataset 1
-  rdfDatasetTitle: S2NANO RDF
+  rdfDatasetTitle: Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources ((RDF dataset)
   rdfDatasetDescription: RDF version of the supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018).
-  rdfDatasetUrl: https://zenodo.org/record/5743204 # Zenodo URL or DOI
-  rdfDatasetDownloadUrl: https://zenodo.org/record/5743204/files/dataset.nq?download=1 # The download link from zenodo
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858246 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/records/13858246/files/dataset.nq?download=1 # The download link from zenodo
   rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5743204.html # The dataset overview page (if available) or zenodo main page
   rdfDatasetPublishYear: 2024
   catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
@@ -329,7 +329,7 @@ mappings:
           - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
           - [grel:valueParameter2, RML-Mapper-4.15]
     predicateobjects:
-      - [rdf:type, prov:Activity~iri]
+      - [rdf:type, prov:SoftwareAgent~iri]
       - [rdfs:label, Software: RML-Mapper, en~lang]
       - [foaf:name, Software: RML-Mapper, en~lang]
       - [dct:hasVersion, 4.15, xsd:string]

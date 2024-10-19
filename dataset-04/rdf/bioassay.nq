@@ -1,495 +1,495 @@
-<https://w3id.org/nanolinks/assay_format_physchem_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000100>.
-<https://w3id.org/nanolinks/assay_format_physchem_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/2000/01/rdf-schema#label> "physicochemical assay format"@en.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000015>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0010009>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_b9141469c1ad6ec32b1bc1ee66e10e58>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/2000/01/rdf-schema#label> "Physicochemical Assay (Zeta Potential)"@en.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000214> <http://www.bioassayontology.org/bao#BAO_0000410>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000205> <https://w3id.org/nanolinks/assay_format_physchem_b9141469c1ad6ec32b1bc1ee66e10e58>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0002846> <https://w3id.org/nanolinks/protocol_b9141469c1ad6ec32b1bc1ee66e10e58>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_5a55d418f7948edc2de465aec5e357c1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5a55d418f7948edc2de465aec5e357c1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5a55d418f7948edc2de465aec5e357c1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b6fe9aeb68367b3d05d74d98f2cc464b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b6fe9aeb68367b3d05d74d98f2cc464b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b6fe9aeb68367b3d05d74d98f2cc464b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_97e87982e18a2ce8b2e754fd360e8372>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_97e87982e18a2ce8b2e754fd360e8372>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_97e87982e18a2ce8b2e754fd360e8372>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ee8ec9d040180c7636b9f13e25a8107d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ee8ec9d040180c7636b9f13e25a8107d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ee8ec9d040180c7636b9f13e25a8107d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_5e1da97cfd04099cdf55c5ed2500a875>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5e1da97cfd04099cdf55c5ed2500a875>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5e1da97cfd04099cdf55c5ed2500a875>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_322927e50a89f4c43759212f9c2b10e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_322927e50a89f4c43759212f9c2b10e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_322927e50a89f4c43759212f9c2b10e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_8edfcf0295d45a78b2d9639aacfa9004>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8edfcf0295d45a78b2d9639aacfa9004>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8edfcf0295d45a78b2d9639aacfa9004>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_bd4c57cecf2bb66a1a1ae46234f7361a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_bd4c57cecf2bb66a1a1ae46234f7361a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_bd4c57cecf2bb66a1a1ae46234f7361a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_daef02701b1fe613e96ffebd02c5af0e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_daef02701b1fe613e96ffebd02c5af0e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_daef02701b1fe613e96ffebd02c5af0e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_905d29b6ed0d21aa5909a6440194bd20>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_905d29b6ed0d21aa5909a6440194bd20>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_905d29b6ed0d21aa5909a6440194bd20>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_cd0e3319d43249ae2c38f6410292ad32>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_cd0e3319d43249ae2c38f6410292ad32>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_cd0e3319d43249ae2c38f6410292ad32>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_c21ab700d063d6e815ecbf9e1ebdebd5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c21ab700d063d6e815ecbf9e1ebdebd5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_c21ab700d063d6e815ecbf9e1ebdebd5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_be8bcbb7ca9ffff6809c4ed2116d24d3>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be8bcbb7ca9ffff6809c4ed2116d24d3>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_be8bcbb7ca9ffff6809c4ed2116d24d3>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_27fa9cfd106495b8b3def33036b1fa22>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_27fa9cfd106495b8b3def33036b1fa22>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_27fa9cfd106495b8b3def33036b1fa22>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ca5433482f590d65109296498c5e88ec>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ca5433482f590d65109296498c5e88ec>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ca5433482f590d65109296498c5e88ec>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_8c68fc1547347ff2bc5077c796fdddf5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8c68fc1547347ff2bc5077c796fdddf5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8c68fc1547347ff2bc5077c796fdddf5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7e69229b8dab04bf0249e5d3be5e2618>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7e69229b8dab04bf0249e5d3be5e2618>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7e69229b8dab04bf0249e5d3be5e2618>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_2235910fda9e547e18f6b7975fbc7da1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2235910fda9e547e18f6b7975fbc7da1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2235910fda9e547e18f6b7975fbc7da1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_1d542af5d1968133479aed1b48fefcb0>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1d542af5d1968133479aed1b48fefcb0>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1d542af5d1968133479aed1b48fefcb0>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_deb79a27ebf539173f0bdbb90a48b6b7>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_deb79a27ebf539173f0bdbb90a48b6b7>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_deb79a27ebf539173f0bdbb90a48b6b7>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ce02aca323f638bd0eaad211e65f1e1a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ce02aca323f638bd0eaad211e65f1e1a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ce02aca323f638bd0eaad211e65f1e1a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_55c4592dc50b992965ee8dc049e46d6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_55c4592dc50b992965ee8dc049e46d6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_55c4592dc50b992965ee8dc049e46d6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a323c24161ebd218c86ec8e0c150d56c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a323c24161ebd218c86ec8e0c150d56c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a323c24161ebd218c86ec8e0c150d56c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ff3afb794d361c2d5fd31310bffb2526>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ff3afb794d361c2d5fd31310bffb2526>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ff3afb794d361c2d5fd31310bffb2526>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_fb1e983520daa22925966538eb0f0641>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_fb1e983520daa22925966538eb0f0641>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_fb1e983520daa22925966538eb0f0641>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_be64db521c34810c39fe83acbec1da26>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be64db521c34810c39fe83acbec1da26>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_be64db521c34810c39fe83acbec1da26>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_746d7e93badfa9315a0cb44666029383>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_746d7e93badfa9315a0cb44666029383>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_746d7e93badfa9315a0cb44666029383>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_0c85229c6462cfc6bc0d93a5f80fb202>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0c85229c6462cfc6bc0d93a5f80fb202>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0c85229c6462cfc6bc0d93a5f80fb202>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ad4daf6578c7c14fb0b26317a6c638e9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ad4daf6578c7c14fb0b26317a6c638e9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ad4daf6578c7c14fb0b26317a6c638e9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_caa2e3e1111ee84198304c4f109b7b3b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_caa2e3e1111ee84198304c4f109b7b3b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_caa2e3e1111ee84198304c4f109b7b3b>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_94543d72699c306b2abc678f00003d2c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_94543d72699c306b2abc678f00003d2c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_94543d72699c306b2abc678f00003d2c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_022318d9e2e7e58bcf0e549e0f0f2bd2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_022318d9e2e7e58bcf0e549e0f0f2bd2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_022318d9e2e7e58bcf0e549e0f0f2bd2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_cc22f273b4c63099ee86996633922ec2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_cc22f273b4c63099ee86996633922ec2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_cc22f273b4c63099ee86996633922ec2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_668c716e1181cc1694319bbee33a5995>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_668c716e1181cc1694319bbee33a5995>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_668c716e1181cc1694319bbee33a5995>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b7d331d3a51a7a29ce86a003056c4740>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b7d331d3a51a7a29ce86a003056c4740>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b7d331d3a51a7a29ce86a003056c4740>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_1673b03aec989755ea38c4f18e2f8e3d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1673b03aec989755ea38c4f18e2f8e3d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1673b03aec989755ea38c4f18e2f8e3d>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_410dea7942c6ecadb78914fd59d97b6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_410dea7942c6ecadb78914fd59d97b6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_410dea7942c6ecadb78914fd59d97b6a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_06764828a711af6629971efb9be8db71>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_06764828a711af6629971efb9be8db71>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_06764828a711af6629971efb9be8db71>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_07c606ce08449920a0776900063a11df>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_07c606ce08449920a0776900063a11df>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_07c606ce08449920a0776900063a11df>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_2b26d819d0069e23e80dd1724dc9ad91>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2b26d819d0069e23e80dd1724dc9ad91>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2b26d819d0069e23e80dd1724dc9ad91>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_36c9cc181139d70ee9e27f89958c1db9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_36c9cc181139d70ee9e27f89958c1db9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_36c9cc181139d70ee9e27f89958c1db9>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_e371830552b4bba970dd297f5bd20ade>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e371830552b4bba970dd297f5bd20ade>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e371830552b4bba970dd297f5bd20ade>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_9178cd4ab3296c2d86d11e45d436cb89>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9178cd4ab3296c2d86d11e45d436cb89>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_9178cd4ab3296c2d86d11e45d436cb89>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_2e3bcd1115178b3629377c8c43da36bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2e3bcd1115178b3629377c8c43da36bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2e3bcd1115178b3629377c8c43da36bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_d4fd5f97fbfa0578460dae675db8f8ea>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d4fd5f97fbfa0578460dae675db8f8ea>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d4fd5f97fbfa0578460dae675db8f8ea>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_86ba792a14c7d37a48254b25e5f0044e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_86ba792a14c7d37a48254b25e5f0044e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_86ba792a14c7d37a48254b25e5f0044e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_245af408e181b3eff9e82381ba77e50a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_245af408e181b3eff9e82381ba77e50a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_245af408e181b3eff9e82381ba77e50a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_28b2f0e215d1b770a9fa26ae48c5cbce>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_28b2f0e215d1b770a9fa26ae48c5cbce>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_28b2f0e215d1b770a9fa26ae48c5cbce>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_6739d40033b463c736de735b461af14a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6739d40033b463c736de735b461af14a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6739d40033b463c736de735b461af14a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_5d8082188f10552c634b39224518effa>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5d8082188f10552c634b39224518effa>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_5d8082188f10552c634b39224518effa>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ccd32e64a63b9028de079cbec10d81a2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ccd32e64a63b9028de079cbec10d81a2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ccd32e64a63b9028de079cbec10d81a2>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_940ab2566008d530c8e2a738f544f2b4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_940ab2566008d530c8e2a738f544f2b4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_940ab2566008d530c8e2a738f544f2b4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_c293eef062a3ece9a855f8b63dd25c41>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c293eef062a3ece9a855f8b63dd25c41>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_c293eef062a3ece9a855f8b63dd25c41>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_031e5e501a1dba41b2754a94eff2108c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_031e5e501a1dba41b2754a94eff2108c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_031e5e501a1dba41b2754a94eff2108c>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_715b42dbd87d7495fe2b79ce0b720536>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_715b42dbd87d7495fe2b79ce0b720536>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_715b42dbd87d7495fe2b79ce0b720536>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_0d0bea7467bf9645f15b4aec421644c6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0d0bea7467bf9645f15b4aec421644c6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0d0bea7467bf9645f15b4aec421644c6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b235af1321b9a1e845a9c93c3676122e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b235af1321b9a1e845a9c93c3676122e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b235af1321b9a1e845a9c93c3676122e>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a08bd0d091156f6c452205ba4d22c8e6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a08bd0d091156f6c452205ba4d22c8e6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a08bd0d091156f6c452205ba4d22c8e6>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_6f5af9e09777307d178b98f146b6e785>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6f5af9e09777307d178b98f146b6e785>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6f5af9e09777307d178b98f146b6e785>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_56b14b6c950b87be93c19f432bdd0588>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_56b14b6c950b87be93c19f432bdd0588>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_56b14b6c950b87be93c19f432bdd0588>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7c6476c2ed0a74972f62d370033fb6bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7c6476c2ed0a74972f62d370033fb6bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7c6476c2ed0a74972f62d370033fb6bf>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_93aa1f557fc34bff4c881a16e990b228>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_93aa1f557fc34bff4c881a16e990b228>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_93aa1f557fc34bff4c881a16e990b228>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_e715f5a9a444860cb0bc9aa2b99b1c16>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e715f5a9a444860cb0bc9aa2b99b1c16>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e715f5a9a444860cb0bc9aa2b99b1c16>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ae204c58d6225d7e575810c41f76a3b1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ae204c58d6225d7e575810c41f76a3b1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ae204c58d6225d7e575810c41f76a3b1>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_e1429fa1f2a093fb8618a1e04d75c5a4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e1429fa1f2a093fb8618a1e04d75c5a4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e1429fa1f2a093fb8618a1e04d75c5a4>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_69e9b67e3823078ddc58bcfbceab5834>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_69e9b67e3823078ddc58bcfbceab5834>.
-<https://w3id.org/nanolinks/assay_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_69e9b67e3823078ddc58bcfbceab5834>.
-<https://w3id.org/nanolinks/measureGroup_5a55d418f7948edc2de465aec5e357c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_5a55d418f7948edc2de465aec5e357c1> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_5a55d418f7948edc2de465aec5e357c1> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_5a55d418f7948edc2de465aec5e357c1>.
-<https://w3id.org/nanolinks/measureGroup_5a55d418f7948edc2de465aec5e357c1> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5a55d418f7948edc2de465aec5e357c1>.
-<https://w3id.org/nanolinks/measureGroup_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag2S zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b6fe9aeb68367b3d05d74d98f2cc464b>.
-<https://w3id.org/nanolinks/measureGroup_b6fe9aeb68367b3d05d74d98f2cc464b> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b6fe9aeb68367b3d05d74d98f2cc464b>.
-<https://w3id.org/nanolinks/measureGroup_97e87982e18a2ce8b2e754fd360e8372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_97e87982e18a2ce8b2e754fd360e8372> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_97e87982e18a2ce8b2e754fd360e8372> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_97e87982e18a2ce8b2e754fd360e8372>.
-<https://w3id.org/nanolinks/measureGroup_97e87982e18a2ce8b2e754fd360e8372> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_97e87982e18a2ce8b2e754fd360e8372>.
-<https://w3id.org/nanolinks/measureGroup_ee8ec9d040180c7636b9f13e25a8107d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ee8ec9d040180c7636b9f13e25a8107d> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ee8ec9d040180c7636b9f13e25a8107d> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ee8ec9d040180c7636b9f13e25a8107d>.
-<https://w3id.org/nanolinks/measureGroup_ee8ec9d040180c7636b9f13e25a8107d> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ee8ec9d040180c7636b9f13e25a8107d>.
-<https://w3id.org/nanolinks/measureGroup_5e1da97cfd04099cdf55c5ed2500a875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_5e1da97cfd04099cdf55c5ed2500a875> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_5e1da97cfd04099cdf55c5ed2500a875> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_5e1da97cfd04099cdf55c5ed2500a875>.
-<https://w3id.org/nanolinks/measureGroup_5e1da97cfd04099cdf55c5ed2500a875> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5e1da97cfd04099cdf55c5ed2500a875>.
-<https://w3id.org/nanolinks/measureGroup_322927e50a89f4c43759212f9c2b10e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_322927e50a89f4c43759212f9c2b10e5> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_322927e50a89f4c43759212f9c2b10e5> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_322927e50a89f4c43759212f9c2b10e5>.
-<https://w3id.org/nanolinks/measureGroup_322927e50a89f4c43759212f9c2b10e5> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_322927e50a89f4c43759212f9c2b10e5>.
-<https://w3id.org/nanolinks/measureGroup_8edfcf0295d45a78b2d9639aacfa9004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_8edfcf0295d45a78b2d9639aacfa9004> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_8edfcf0295d45a78b2d9639aacfa9004> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_8edfcf0295d45a78b2d9639aacfa9004>.
-<https://w3id.org/nanolinks/measureGroup_8edfcf0295d45a78b2d9639aacfa9004> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8edfcf0295d45a78b2d9639aacfa9004>.
-<https://w3id.org/nanolinks/measureGroup_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_bd4c57cecf2bb66a1a1ae46234f7361a>.
-<https://w3id.org/nanolinks/measureGroup_bd4c57cecf2bb66a1a1ae46234f7361a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_bd4c57cecf2bb66a1a1ae46234f7361a>.
-<https://w3id.org/nanolinks/measureGroup_daef02701b1fe613e96ffebd02c5af0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_daef02701b1fe613e96ffebd02c5af0e> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_daef02701b1fe613e96ffebd02c5af0e> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_daef02701b1fe613e96ffebd02c5af0e>.
-<https://w3id.org/nanolinks/measureGroup_daef02701b1fe613e96ffebd02c5af0e> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_daef02701b1fe613e96ffebd02c5af0e>.
-<https://w3id.org/nanolinks/measureGroup_905d29b6ed0d21aa5909a6440194bd20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_905d29b6ed0d21aa5909a6440194bd20> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_905d29b6ed0d21aa5909a6440194bd20> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_905d29b6ed0d21aa5909a6440194bd20>.
-<https://w3id.org/nanolinks/measureGroup_905d29b6ed0d21aa5909a6440194bd20> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_905d29b6ed0d21aa5909a6440194bd20>.
-<https://w3id.org/nanolinks/measureGroup_cd0e3319d43249ae2c38f6410292ad32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_cd0e3319d43249ae2c38f6410292ad32> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_cd0e3319d43249ae2c38f6410292ad32> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_cd0e3319d43249ae2c38f6410292ad32>.
-<https://w3id.org/nanolinks/measureGroup_cd0e3319d43249ae2c38f6410292ad32> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_cd0e3319d43249ae2c38f6410292ad32>.
-<https://w3id.org/nanolinks/measureGroup_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_c21ab700d063d6e815ecbf9e1ebdebd5>.
-<https://w3id.org/nanolinks/measureGroup_c21ab700d063d6e815ecbf9e1ebdebd5> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c21ab700d063d6e815ecbf9e1ebdebd5>.
-<https://w3id.org/nanolinks/measureGroup_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_be8bcbb7ca9ffff6809c4ed2116d24d3>.
-<https://w3id.org/nanolinks/measureGroup_be8bcbb7ca9ffff6809c4ed2116d24d3> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be8bcbb7ca9ffff6809c4ed2116d24d3>.
-<https://w3id.org/nanolinks/measureGroup_27fa9cfd106495b8b3def33036b1fa22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_27fa9cfd106495b8b3def33036b1fa22> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_27fa9cfd106495b8b3def33036b1fa22> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_27fa9cfd106495b8b3def33036b1fa22>.
-<https://w3id.org/nanolinks/measureGroup_27fa9cfd106495b8b3def33036b1fa22> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_27fa9cfd106495b8b3def33036b1fa22>.
-<https://w3id.org/nanolinks/measureGroup_ca5433482f590d65109296498c5e88ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ca5433482f590d65109296498c5e88ec> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ca5433482f590d65109296498c5e88ec> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ca5433482f590d65109296498c5e88ec>.
-<https://w3id.org/nanolinks/measureGroup_ca5433482f590d65109296498c5e88ec> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ca5433482f590d65109296498c5e88ec>.
-<https://w3id.org/nanolinks/measureGroup_8c68fc1547347ff2bc5077c796fdddf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_8c68fc1547347ff2bc5077c796fdddf5> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_8c68fc1547347ff2bc5077c796fdddf5> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_8c68fc1547347ff2bc5077c796fdddf5>.
-<https://w3id.org/nanolinks/measureGroup_8c68fc1547347ff2bc5077c796fdddf5> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8c68fc1547347ff2bc5077c796fdddf5>.
-<https://w3id.org/nanolinks/measureGroup_7e69229b8dab04bf0249e5d3be5e2618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_7e69229b8dab04bf0249e5d3be5e2618> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_7e69229b8dab04bf0249e5d3be5e2618> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7e69229b8dab04bf0249e5d3be5e2618>.
-<https://w3id.org/nanolinks/measureGroup_7e69229b8dab04bf0249e5d3be5e2618> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7e69229b8dab04bf0249e5d3be5e2618>.
-<https://w3id.org/nanolinks/measureGroup_2235910fda9e547e18f6b7975fbc7da1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_2235910fda9e547e18f6b7975fbc7da1> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_2235910fda9e547e18f6b7975fbc7da1> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_2235910fda9e547e18f6b7975fbc7da1>.
-<https://w3id.org/nanolinks/measureGroup_2235910fda9e547e18f6b7975fbc7da1> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2235910fda9e547e18f6b7975fbc7da1>.
-<https://w3id.org/nanolinks/measureGroup_1d542af5d1968133479aed1b48fefcb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_1d542af5d1968133479aed1b48fefcb0> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_1d542af5d1968133479aed1b48fefcb0> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_1d542af5d1968133479aed1b48fefcb0>.
-<https://w3id.org/nanolinks/measureGroup_1d542af5d1968133479aed1b48fefcb0> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1d542af5d1968133479aed1b48fefcb0>.
-<https://w3id.org/nanolinks/measureGroup_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CePO4 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_deb79a27ebf539173f0bdbb90a48b6b7>.
-<https://w3id.org/nanolinks/measureGroup_deb79a27ebf539173f0bdbb90a48b6b7> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_deb79a27ebf539173f0bdbb90a48b6b7>.
-<https://w3id.org/nanolinks/measureGroup_ce02aca323f638bd0eaad211e65f1e1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ce02aca323f638bd0eaad211e65f1e1a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ce02aca323f638bd0eaad211e65f1e1a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ce02aca323f638bd0eaad211e65f1e1a>.
-<https://w3id.org/nanolinks/measureGroup_ce02aca323f638bd0eaad211e65f1e1a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ce02aca323f638bd0eaad211e65f1e1a>.
-<https://w3id.org/nanolinks/measureGroup_55c4592dc50b992965ee8dc049e46d6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_55c4592dc50b992965ee8dc049e46d6a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_55c4592dc50b992965ee8dc049e46d6a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_55c4592dc50b992965ee8dc049e46d6a>.
-<https://w3id.org/nanolinks/measureGroup_55c4592dc50b992965ee8dc049e46d6a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_55c4592dc50b992965ee8dc049e46d6a>.
-<https://w3id.org/nanolinks/measureGroup_a323c24161ebd218c86ec8e0c150d56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_a323c24161ebd218c86ec8e0c150d56c> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_a323c24161ebd218c86ec8e0c150d56c> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a323c24161ebd218c86ec8e0c150d56c>.
-<https://w3id.org/nanolinks/measureGroup_a323c24161ebd218c86ec8e0c150d56c> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a323c24161ebd218c86ec8e0c150d56c>.
-<https://w3id.org/nanolinks/measureGroup_ff3afb794d361c2d5fd31310bffb2526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ff3afb794d361c2d5fd31310bffb2526> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ff3afb794d361c2d5fd31310bffb2526> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ff3afb794d361c2d5fd31310bffb2526>.
-<https://w3id.org/nanolinks/measureGroup_ff3afb794d361c2d5fd31310bffb2526> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ff3afb794d361c2d5fd31310bffb2526>.
-<https://w3id.org/nanolinks/measureGroup_fb1e983520daa22925966538eb0f0641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_fb1e983520daa22925966538eb0f0641> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_fb1e983520daa22925966538eb0f0641> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_fb1e983520daa22925966538eb0f0641>.
-<https://w3id.org/nanolinks/measureGroup_fb1e983520daa22925966538eb0f0641> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_fb1e983520daa22925966538eb0f0641>.
-<https://w3id.org/nanolinks/measureGroup_be64db521c34810c39fe83acbec1da26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_be64db521c34810c39fe83acbec1da26> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_be64db521c34810c39fe83acbec1da26> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_be64db521c34810c39fe83acbec1da26>.
-<https://w3id.org/nanolinks/measureGroup_be64db521c34810c39fe83acbec1da26> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be64db521c34810c39fe83acbec1da26>.
-<https://w3id.org/nanolinks/measureGroup_746d7e93badfa9315a0cb44666029383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_746d7e93badfa9315a0cb44666029383> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_746d7e93badfa9315a0cb44666029383> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_746d7e93badfa9315a0cb44666029383>.
-<https://w3id.org/nanolinks/measureGroup_746d7e93badfa9315a0cb44666029383> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_746d7e93badfa9315a0cb44666029383>.
-<https://w3id.org/nanolinks/measureGroup_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_0c85229c6462cfc6bc0d93a5f80fb202>.
-<https://w3id.org/nanolinks/measureGroup_0c85229c6462cfc6bc0d93a5f80fb202> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0c85229c6462cfc6bc0d93a5f80fb202>.
-<https://w3id.org/nanolinks/measureGroup_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ad4daf6578c7c14fb0b26317a6c638e9>.
-<https://w3id.org/nanolinks/measureGroup_ad4daf6578c7c14fb0b26317a6c638e9> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ad4daf6578c7c14fb0b26317a6c638e9>.
-<https://w3id.org/nanolinks/measureGroup_caa2e3e1111ee84198304c4f109b7b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_caa2e3e1111ee84198304c4f109b7b3b> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_caa2e3e1111ee84198304c4f109b7b3b> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_caa2e3e1111ee84198304c4f109b7b3b>.
-<https://w3id.org/nanolinks/measureGroup_caa2e3e1111ee84198304c4f109b7b3b> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_caa2e3e1111ee84198304c4f109b7b3b>.
-<https://w3id.org/nanolinks/measureGroup_94543d72699c306b2abc678f00003d2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_94543d72699c306b2abc678f00003d2c> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_94543d72699c306b2abc678f00003d2c> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_94543d72699c306b2abc678f00003d2c>.
-<https://w3id.org/nanolinks/measureGroup_94543d72699c306b2abc678f00003d2c> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_94543d72699c306b2abc678f00003d2c>.
-<https://w3id.org/nanolinks/measureGroup_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_022318d9e2e7e58bcf0e549e0f0f2bd2>.
-<https://w3id.org/nanolinks/measureGroup_022318d9e2e7e58bcf0e549e0f0f2bd2> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_022318d9e2e7e58bcf0e549e0f0f2bd2>.
-<https://w3id.org/nanolinks/measureGroup_cc22f273b4c63099ee86996633922ec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_cc22f273b4c63099ee86996633922ec2> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_cc22f273b4c63099ee86996633922ec2> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_cc22f273b4c63099ee86996633922ec2>.
-<https://w3id.org/nanolinks/measureGroup_cc22f273b4c63099ee86996633922ec2> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_cc22f273b4c63099ee86996633922ec2>.
-<https://w3id.org/nanolinks/measureGroup_668c716e1181cc1694319bbee33a5995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_668c716e1181cc1694319bbee33a5995> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_668c716e1181cc1694319bbee33a5995> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_668c716e1181cc1694319bbee33a5995>.
-<https://w3id.org/nanolinks/measureGroup_668c716e1181cc1694319bbee33a5995> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_668c716e1181cc1694319bbee33a5995>.
-<https://w3id.org/nanolinks/measureGroup_b7d331d3a51a7a29ce86a003056c4740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_b7d331d3a51a7a29ce86a003056c4740> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_b7d331d3a51a7a29ce86a003056c4740> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b7d331d3a51a7a29ce86a003056c4740>.
-<https://w3id.org/nanolinks/measureGroup_b7d331d3a51a7a29ce86a003056c4740> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b7d331d3a51a7a29ce86a003056c4740>.
-<https://w3id.org/nanolinks/measureGroup_1673b03aec989755ea38c4f18e2f8e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_1673b03aec989755ea38c4f18e2f8e3d> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_1673b03aec989755ea38c4f18e2f8e3d> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_1673b03aec989755ea38c4f18e2f8e3d>.
-<https://w3id.org/nanolinks/measureGroup_1673b03aec989755ea38c4f18e2f8e3d> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1673b03aec989755ea38c4f18e2f8e3d>.
-<https://w3id.org/nanolinks/measureGroup_410dea7942c6ecadb78914fd59d97b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_410dea7942c6ecadb78914fd59d97b6a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_410dea7942c6ecadb78914fd59d97b6a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_410dea7942c6ecadb78914fd59d97b6a>.
-<https://w3id.org/nanolinks/measureGroup_410dea7942c6ecadb78914fd59d97b6a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_410dea7942c6ecadb78914fd59d97b6a>.
-<https://w3id.org/nanolinks/measureGroup_06764828a711af6629971efb9be8db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_06764828a711af6629971efb9be8db71> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_06764828a711af6629971efb9be8db71> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_06764828a711af6629971efb9be8db71>.
-<https://w3id.org/nanolinks/measureGroup_06764828a711af6629971efb9be8db71> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_06764828a711af6629971efb9be8db71>.
-<https://w3id.org/nanolinks/measureGroup_07c606ce08449920a0776900063a11df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_07c606ce08449920a0776900063a11df> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CuO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_07c606ce08449920a0776900063a11df> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_07c606ce08449920a0776900063a11df>.
-<https://w3id.org/nanolinks/measureGroup_07c606ce08449920a0776900063a11df> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_07c606ce08449920a0776900063a11df>.
-<https://w3id.org/nanolinks/measureGroup_2b26d819d0069e23e80dd1724dc9ad91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_2b26d819d0069e23e80dd1724dc9ad91> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Fe2O3 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_2b26d819d0069e23e80dd1724dc9ad91> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_2b26d819d0069e23e80dd1724dc9ad91>.
-<https://w3id.org/nanolinks/measureGroup_2b26d819d0069e23e80dd1724dc9ad91> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2b26d819d0069e23e80dd1724dc9ad91>.
-<https://w3id.org/nanolinks/measureGroup_36c9cc181139d70ee9e27f89958c1db9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_36c9cc181139d70ee9e27f89958c1db9> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ca10(PO4)6(OH)2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_36c9cc181139d70ee9e27f89958c1db9> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_36c9cc181139d70ee9e27f89958c1db9>.
-<https://w3id.org/nanolinks/measureGroup_36c9cc181139d70ee9e27f89958c1db9> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_36c9cc181139d70ee9e27f89958c1db9>.
-<https://w3id.org/nanolinks/measureGroup_e371830552b4bba970dd297f5bd20ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_e371830552b4bba970dd297f5bd20ade> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for AlOOH zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_e371830552b4bba970dd297f5bd20ade> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_e371830552b4bba970dd297f5bd20ade>.
-<https://w3id.org/nanolinks/measureGroup_e371830552b4bba970dd297f5bd20ade> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e371830552b4bba970dd297f5bd20ade>.
-<https://w3id.org/nanolinks/measureGroup_9178cd4ab3296c2d86d11e45d436cb89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_9178cd4ab3296c2d86d11e45d436cb89> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_9178cd4ab3296c2d86d11e45d436cb89> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_9178cd4ab3296c2d86d11e45d436cb89>.
-<https://w3id.org/nanolinks/measureGroup_9178cd4ab3296c2d86d11e45d436cb89> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9178cd4ab3296c2d86d11e45d436cb89>.
-<https://w3id.org/nanolinks/measureGroup_2e3bcd1115178b3629377c8c43da36bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_2e3bcd1115178b3629377c8c43da36bf> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_2e3bcd1115178b3629377c8c43da36bf> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_2e3bcd1115178b3629377c8c43da36bf>.
-<https://w3id.org/nanolinks/measureGroup_2e3bcd1115178b3629377c8c43da36bf> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2e3bcd1115178b3629377c8c43da36bf>.
-<https://w3id.org/nanolinks/measureGroup_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_d4fd5f97fbfa0578460dae675db8f8ea>.
-<https://w3id.org/nanolinks/measureGroup_d4fd5f97fbfa0578460dae675db8f8ea> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d4fd5f97fbfa0578460dae675db8f8ea>.
-<https://w3id.org/nanolinks/measureGroup_86ba792a14c7d37a48254b25e5f0044e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_86ba792a14c7d37a48254b25e5f0044e> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_86ba792a14c7d37a48254b25e5f0044e> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_86ba792a14c7d37a48254b25e5f0044e>.
-<https://w3id.org/nanolinks/measureGroup_86ba792a14c7d37a48254b25e5f0044e> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_86ba792a14c7d37a48254b25e5f0044e>.
-<https://w3id.org/nanolinks/measureGroup_245af408e181b3eff9e82381ba77e50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_245af408e181b3eff9e82381ba77e50a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_245af408e181b3eff9e82381ba77e50a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_245af408e181b3eff9e82381ba77e50a>.
-<https://w3id.org/nanolinks/measureGroup_245af408e181b3eff9e82381ba77e50a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_245af408e181b3eff9e82381ba77e50a>.
-<https://w3id.org/nanolinks/measureGroup_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
-<https://w3id.org/nanolinks/measureGroup_8b6d9dd8eb0bd6b9b20c1d4d92f77f34> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_8b6d9dd8eb0bd6b9b20c1d4d92f77f34>.
-<https://w3id.org/nanolinks/measureGroup_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_28b2f0e215d1b770a9fa26ae48c5cbce>.
-<https://w3id.org/nanolinks/measureGroup_28b2f0e215d1b770a9fa26ae48c5cbce> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_28b2f0e215d1b770a9fa26ae48c5cbce>.
-<https://w3id.org/nanolinks/measureGroup_6739d40033b463c736de735b461af14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_6739d40033b463c736de735b461af14a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_6739d40033b463c736de735b461af14a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_6739d40033b463c736de735b461af14a>.
-<https://w3id.org/nanolinks/measureGroup_6739d40033b463c736de735b461af14a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6739d40033b463c736de735b461af14a>.
-<https://w3id.org/nanolinks/measureGroup_5d8082188f10552c634b39224518effa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_5d8082188f10552c634b39224518effa> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_5d8082188f10552c634b39224518effa> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_5d8082188f10552c634b39224518effa>.
-<https://w3id.org/nanolinks/measureGroup_5d8082188f10552c634b39224518effa> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_5d8082188f10552c634b39224518effa>.
-<https://w3id.org/nanolinks/measureGroup_ccd32e64a63b9028de079cbec10d81a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ccd32e64a63b9028de079cbec10d81a2> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ccd32e64a63b9028de079cbec10d81a2> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ccd32e64a63b9028de079cbec10d81a2>.
-<https://w3id.org/nanolinks/measureGroup_ccd32e64a63b9028de079cbec10d81a2> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ccd32e64a63b9028de079cbec10d81a2>.
-<https://w3id.org/nanolinks/measureGroup_940ab2566008d530c8e2a738f544f2b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_940ab2566008d530c8e2a738f544f2b4> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_940ab2566008d530c8e2a738f544f2b4> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_940ab2566008d530c8e2a738f544f2b4>.
-<https://w3id.org/nanolinks/measureGroup_940ab2566008d530c8e2a738f544f2b4> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_940ab2566008d530c8e2a738f544f2b4>.
-<https://w3id.org/nanolinks/measureGroup_c293eef062a3ece9a855f8b63dd25c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_c293eef062a3ece9a855f8b63dd25c41> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_c293eef062a3ece9a855f8b63dd25c41> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_c293eef062a3ece9a855f8b63dd25c41>.
-<https://w3id.org/nanolinks/measureGroup_c293eef062a3ece9a855f8b63dd25c41> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c293eef062a3ece9a855f8b63dd25c41>.
-<https://w3id.org/nanolinks/measureGroup_031e5e501a1dba41b2754a94eff2108c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_031e5e501a1dba41b2754a94eff2108c> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_031e5e501a1dba41b2754a94eff2108c> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_031e5e501a1dba41b2754a94eff2108c>.
-<https://w3id.org/nanolinks/measureGroup_031e5e501a1dba41b2754a94eff2108c> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_031e5e501a1dba41b2754a94eff2108c>.
-<https://w3id.org/nanolinks/measureGroup_715b42dbd87d7495fe2b79ce0b720536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_715b42dbd87d7495fe2b79ce0b720536> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_715b42dbd87d7495fe2b79ce0b720536> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_715b42dbd87d7495fe2b79ce0b720536>.
-<https://w3id.org/nanolinks/measureGroup_715b42dbd87d7495fe2b79ce0b720536> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_715b42dbd87d7495fe2b79ce0b720536>.
-<https://w3id.org/nanolinks/measureGroup_0d0bea7467bf9645f15b4aec421644c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_0d0bea7467bf9645f15b4aec421644c6> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_0d0bea7467bf9645f15b4aec421644c6> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_0d0bea7467bf9645f15b4aec421644c6>.
-<https://w3id.org/nanolinks/measureGroup_0d0bea7467bf9645f15b4aec421644c6> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0d0bea7467bf9645f15b4aec421644c6>.
-<https://w3id.org/nanolinks/measureGroup_b235af1321b9a1e845a9c93c3676122e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_b235af1321b9a1e845a9c93c3676122e> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_b235af1321b9a1e845a9c93c3676122e> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b235af1321b9a1e845a9c93c3676122e>.
-<https://w3id.org/nanolinks/measureGroup_b235af1321b9a1e845a9c93c3676122e> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b235af1321b9a1e845a9c93c3676122e>.
-<https://w3id.org/nanolinks/measureGroup_a08bd0d091156f6c452205ba4d22c8e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_a08bd0d091156f6c452205ba4d22c8e6> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_a08bd0d091156f6c452205ba4d22c8e6> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a08bd0d091156f6c452205ba4d22c8e6>.
-<https://w3id.org/nanolinks/measureGroup_a08bd0d091156f6c452205ba4d22c8e6> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a08bd0d091156f6c452205ba4d22c8e6>.
-<https://w3id.org/nanolinks/measureGroup_6f5af9e09777307d178b98f146b6e785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_6f5af9e09777307d178b98f146b6e785> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_6f5af9e09777307d178b98f146b6e785> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_6f5af9e09777307d178b98f146b6e785>.
-<https://w3id.org/nanolinks/measureGroup_6f5af9e09777307d178b98f146b6e785> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6f5af9e09777307d178b98f146b6e785>.
-<https://w3id.org/nanolinks/measureGroup_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
-<https://w3id.org/nanolinks/measureGroup_52dd32249d57e6d3b9ed9d7a3cdfe4e5> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_52dd32249d57e6d3b9ed9d7a3cdfe4e5>.
-<https://w3id.org/nanolinks/measureGroup_56b14b6c950b87be93c19f432bdd0588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_56b14b6c950b87be93c19f432bdd0588> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_56b14b6c950b87be93c19f432bdd0588> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_56b14b6c950b87be93c19f432bdd0588>.
-<https://w3id.org/nanolinks/measureGroup_56b14b6c950b87be93c19f432bdd0588> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_56b14b6c950b87be93c19f432bdd0588>.
-<https://w3id.org/nanolinks/measureGroup_7c6476c2ed0a74972f62d370033fb6bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_7c6476c2ed0a74972f62d370033fb6bf> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_7c6476c2ed0a74972f62d370033fb6bf> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7c6476c2ed0a74972f62d370033fb6bf>.
-<https://w3id.org/nanolinks/measureGroup_7c6476c2ed0a74972f62d370033fb6bf> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7c6476c2ed0a74972f62d370033fb6bf>.
-<https://w3id.org/nanolinks/measureGroup_93aa1f557fc34bff4c881a16e990b228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_93aa1f557fc34bff4c881a16e990b228> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_93aa1f557fc34bff4c881a16e990b228> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_93aa1f557fc34bff4c881a16e990b228>.
-<https://w3id.org/nanolinks/measureGroup_93aa1f557fc34bff4c881a16e990b228> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_93aa1f557fc34bff4c881a16e990b228>.
-<https://w3id.org/nanolinks/measureGroup_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for BaTiO3 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
-<https://w3id.org/nanolinks/measureGroup_1716bc9e7ec56b3cd6ce2c6d5ca8125a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_1716bc9e7ec56b3cd6ce2c6d5ca8125a>.
-<https://w3id.org/nanolinks/measureGroup_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_e715f5a9a444860cb0bc9aa2b99b1c16>.
-<https://w3id.org/nanolinks/measureGroup_e715f5a9a444860cb0bc9aa2b99b1c16> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e715f5a9a444860cb0bc9aa2b99b1c16>.
-<https://w3id.org/nanolinks/measureGroup_ae204c58d6225d7e575810c41f76a3b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_ae204c58d6225d7e575810c41f76a3b1> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_ae204c58d6225d7e575810c41f76a3b1> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ae204c58d6225d7e575810c41f76a3b1>.
-<https://w3id.org/nanolinks/measureGroup_ae204c58d6225d7e575810c41f76a3b1> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ae204c58d6225d7e575810c41f76a3b1>.
-<https://w3id.org/nanolinks/measureGroup_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_e1429fa1f2a093fb8618a1e04d75c5a4>.
-<https://w3id.org/nanolinks/measureGroup_e1429fa1f2a093fb8618a1e04d75c5a4> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e1429fa1f2a093fb8618a1e04d75c5a4>.
-<https://w3id.org/nanolinks/measureGroup_69e9b67e3823078ddc58bcfbceab5834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
-<https://w3id.org/nanolinks/measureGroup_69e9b67e3823078ddc58bcfbceab5834> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
-<https://w3id.org/nanolinks/measureGroup_69e9b67e3823078ddc58bcfbceab5834> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_69e9b67e3823078ddc58bcfbceab5834>.
-<https://w3id.org/nanolinks/measureGroup_69e9b67e3823078ddc58bcfbceab5834> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_69e9b67e3823078ddc58bcfbceab5834>.
-<https://w3id.org/nanolinks/protocol_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000523>.
-<https://w3id.org/nanolinks/protocol_b9141469c1ad6ec32b1bc1ee66e10e58> <http://www.w3.org/2000/01/rdf-schema#label> "assay protocol"@en.
-<https://w3id.org/nanolinks/protocol_b9141469c1ad6ec32b1bc1ee66e10e58> <http://purl.org/net/citocitesAsAuthority> <https://doi.org/10.1016/j.impact.2021.100308>.
+<https://w3id.org/nanolinks/assay_format_physchem_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000100>.
+<https://w3id.org/nanolinks/assay_format_physchem_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/2000/01/rdf-schema#label> "physicochemical assay format"@en.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000015>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0010009>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_rdf_91d7ed8cc0c249b2da9d8f77987e5045>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/2000/01/rdf-schema#label> "Physicochemical Assay (Zeta Potential)"@en.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000214> <http://www.bioassayontology.org/bao#BAO_0000410>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000205> <https://w3id.org/nanolinks/assay_format_physchem_91d7ed8cc0c249b2da9d8f77987e5045>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0002846> <https://w3id.org/nanolinks/protocol_91d7ed8cc0c249b2da9d8f77987e5045>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_360dc74458097fbefa4af38059f4c544>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_360dc74458097fbefa4af38059f4c544>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_360dc74458097fbefa4af38059f4c544>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_29434c52f0d75656972f89027a09b07a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_29434c52f0d75656972f89027a09b07a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_29434c52f0d75656972f89027a09b07a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7034b6674954da58f5fa9394663d441d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7034b6674954da58f5fa9394663d441d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7034b6674954da58f5fa9394663d441d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b1103d729419416493981ec706915a62>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b1103d729419416493981ec706915a62>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b1103d729419416493981ec706915a62>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_072b04fe38667c3175e871b5573f2f11>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_072b04fe38667c3175e871b5573f2f11>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_072b04fe38667c3175e871b5573f2f11>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_e75a85789f2d2e1db2cde736fa73641a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e75a85789f2d2e1db2cde736fa73641a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e75a85789f2d2e1db2cde736fa73641a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_4cb0b85bd1bd1a147ac4c37e13d5a401>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4cb0b85bd1bd1a147ac4c37e13d5a401>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_4cb0b85bd1bd1a147ac4c37e13d5a401>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3ac000fd6e55faf7c61e86e52ae8b861>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3ac000fd6e55faf7c61e86e52ae8b861>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3ac000fd6e55faf7c61e86e52ae8b861>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_d501da189fdc49a9984a9e3d5d93e1d0>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d501da189fdc49a9984a9e3d5d93e1d0>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d501da189fdc49a9984a9e3d5d93e1d0>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a0b2f4ca13379298befdc084cf829016>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a0b2f4ca13379298befdc084cf829016>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a0b2f4ca13379298befdc084cf829016>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_18225a333619cf9b8a0fec1a107d1672>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_18225a333619cf9b8a0fec1a107d1672>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_18225a333619cf9b8a0fec1a107d1672>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_4df7b5bfc38b5bd68120a70c2f60cfd4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4df7b5bfc38b5bd68120a70c2f60cfd4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_4df7b5bfc38b5bd68120a70c2f60cfd4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_56ffae7b5111c0c4fe93b0f9709d92a6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_56ffae7b5111c0c4fe93b0f9709d92a6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_56ffae7b5111c0c4fe93b0f9709d92a6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3748a4af49275b84e91809035d59ccfc>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3748a4af49275b84e91809035d59ccfc>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3748a4af49275b84e91809035d59ccfc>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_ecfe81fd065300a4200c232e794c6203>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ecfe81fd065300a4200c232e794c6203>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_ecfe81fd065300a4200c232e794c6203>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_be75a8819050900c377c97b181edfae3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be75a8819050900c377c97b181edfae3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_be75a8819050900c377c97b181edfae3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_434b352b12b41fd0e0b49f2ef990b12e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_434b352b12b41fd0e0b49f2ef990b12e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_434b352b12b41fd0e0b49f2ef990b12e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_09880493cb2cba28fd31a7a40088774e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_09880493cb2cba28fd31a7a40088774e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_09880493cb2cba28fd31a7a40088774e>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_27e4e46f03c8b7cb6bd95247d0baac39>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_27e4e46f03c8b7cb6bd95247d0baac39>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_27e4e46f03c8b7cb6bd95247d0baac39>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_f7c7602519c5ebbcf36f43cb9f562d25>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_f7c7602519c5ebbcf36f43cb9f562d25>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_f7c7602519c5ebbcf36f43cb9f562d25>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_23d7709b17cd7b9438f5cc53a3fccdea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_23d7709b17cd7b9438f5cc53a3fccdea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_23d7709b17cd7b9438f5cc53a3fccdea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_59d681eda85d46ae1502906e52703369>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_59d681eda85d46ae1502906e52703369>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_59d681eda85d46ae1502906e52703369>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_40aed243ebbec7d2a6a681ad50c36786>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_40aed243ebbec7d2a6a681ad50c36786>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_40aed243ebbec7d2a6a681ad50c36786>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_265c605dc769f44d548a472486427872>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_265c605dc769f44d548a472486427872>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_265c605dc769f44d548a472486427872>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a34326b67fdf135d958473aa7447e5f2>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a34326b67fdf135d958473aa7447e5f2>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a34326b67fdf135d958473aa7447e5f2>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_e1046f6b614954416941bb72b167f6d4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e1046f6b614954416941bb72b167f6d4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_e1046f6b614954416941bb72b167f6d4>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_09115e6f5861d8f4912ed6e29b57ce66>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_09115e6f5861d8f4912ed6e29b57ce66>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_09115e6f5861d8f4912ed6e29b57ce66>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7dffe108097e9f3af2c1bc357583759f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7dffe108097e9f3af2c1bc357583759f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7dffe108097e9f3af2c1bc357583759f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_998b65eead739f1998cb16ec8b5bf51f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_998b65eead739f1998cb16ec8b5bf51f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_998b65eead739f1998cb16ec8b5bf51f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_523feb407d1413adf23ff58e7ed02714>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_523feb407d1413adf23ff58e7ed02714>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_523feb407d1413adf23ff58e7ed02714>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_6e7706149bc9e7718b2d1f0d68c140cd>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6e7706149bc9e7718b2d1f0d68c140cd>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6e7706149bc9e7718b2d1f0d68c140cd>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_401fced9f211a65e398c407b761c18ea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_401fced9f211a65e398c407b761c18ea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_401fced9f211a65e398c407b761c18ea>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_348f134c9841a16c241756a2bf5016f7>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_348f134c9841a16c241756a2bf5016f7>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_348f134c9841a16c241756a2bf5016f7>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7a28f63c476f35bdad01e32c63801829>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7a28f63c476f35bdad01e32c63801829>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7a28f63c476f35bdad01e32c63801829>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_96103f0e707deeacfc4e4141c8c06ed9>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_96103f0e707deeacfc4e4141c8c06ed9>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_96103f0e707deeacfc4e4141c8c06ed9>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3c03967b5dc85147ce5d759e8664dba5>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3c03967b5dc85147ce5d759e8664dba5>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3c03967b5dc85147ce5d759e8664dba5>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_0a12bc2f5634394208b3c9d499186711>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0a12bc2f5634394208b3c9d499186711>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0a12bc2f5634394208b3c9d499186711>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7347be8d9b5c480cbd656350b0921e23>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7347be8d9b5c480cbd656350b0921e23>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7347be8d9b5c480cbd656350b0921e23>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_7416eb1e1f510c20643cda7177af5936>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7416eb1e1f510c20643cda7177af5936>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_7416eb1e1f510c20643cda7177af5936>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_dcf1a55134602cfdbf3d045fc4b668fe>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_dcf1a55134602cfdbf3d045fc4b668fe>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_dcf1a55134602cfdbf3d045fc4b668fe>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_d9061ceb31f1b4d2a1dd362a33b39d41>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d9061ceb31f1b4d2a1dd362a33b39d41>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d9061ceb31f1b4d2a1dd362a33b39d41>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_fa3503a2072e8d5170940dc8fcd64aad>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_fa3503a2072e8d5170940dc8fcd64aad>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_fa3503a2072e8d5170940dc8fcd64aad>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_eb6d730958700351d92cd0b29508a66f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_eb6d730958700351d92cd0b29508a66f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_eb6d730958700351d92cd0b29508a66f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_d4a3634d8e246fad48e6a17d26f34ad3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d4a3634d8e246fad48e6a17d26f34ad3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d4a3634d8e246fad48e6a17d26f34ad3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_9a45a24af8e49b2fc726caeb76a8ca9f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9a45a24af8e49b2fc726caeb76a8ca9f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_9a45a24af8e49b2fc726caeb76a8ca9f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b3abbbfd19cf31175c18778df313acc1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b3abbbfd19cf31175c18778df313acc1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b3abbbfd19cf31175c18778df313acc1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_f912e73c3d98d73ec2fb8fa549bf6896>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_f912e73c3d98d73ec2fb8fa549bf6896>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_f912e73c3d98d73ec2fb8fa549bf6896>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a81f2507911130f62b0063120f8241ef>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a81f2507911130f62b0063120f8241ef>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a81f2507911130f62b0063120f8241ef>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_c024c560bf5ae80b94d60c8048e909a1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c024c560bf5ae80b94d60c8048e909a1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_c024c560bf5ae80b94d60c8048e909a1>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_6f5db4b2e016a502184b8ccd3edb7a06>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6f5db4b2e016a502184b8ccd3edb7a06>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6f5db4b2e016a502184b8ccd3edb7a06>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_d2173bf2ad308f1b88c6b411c7c28922>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d2173bf2ad308f1b88c6b411c7c28922>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_d2173bf2ad308f1b88c6b411c7c28922>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3a09045cd0578533c7991e7860c9c236>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3a09045cd0578533c7991e7860c9c236>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3a09045cd0578533c7991e7860c9c236>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_a70b14693869d7878935ceedecaea695>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a70b14693869d7878935ceedecaea695>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_a70b14693869d7878935ceedecaea695>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b3578ac80db8b610d122113ad7b46a76>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b3578ac80db8b610d122113ad7b46a76>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b3578ac80db8b610d122113ad7b46a76>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3109904cce1541df95be7c66782db730>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3109904cce1541df95be7c66782db730>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3109904cce1541df95be7c66782db730>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_3df1e6ef8bdfecd0a2f0f102d3324e8a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3df1e6ef8bdfecd0a2f0f102d3324e8a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_3df1e6ef8bdfecd0a2f0f102d3324e8a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_71304c22f44a74dde292e03905f5f60d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_71304c22f44a74dde292e03905f5f60d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_71304c22f44a74dde292e03905f5f60d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_2e96c1b27c0e9599b61a68161c07a19a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2e96c1b27c0e9599b61a68161c07a19a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_2e96c1b27c0e9599b61a68161c07a19a>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_6da44bc5061b02870f5689bdc79cb71c>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6da44bc5061b02870f5689bdc79cb71c>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_6da44bc5061b02870f5689bdc79cb71c>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_68a178f75e18a6d7ac2046387ee1c97f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_68a178f75e18a6d7ac2046387ee1c97f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_68a178f75e18a6d7ac2046387ee1c97f>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_4e61441549c45c622399bf4030352432>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4e61441549c45c622399bf4030352432>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_4e61441549c45c622399bf4030352432>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_9a7e08260af233044391cf66b73f60aa>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9a7e08260af233044391cf66b73f60aa>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_9a7e08260af233044391cf66b73f60aa>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_569870612f14085e72d218891fbc0108>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_569870612f14085e72d218891fbc0108>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_569870612f14085e72d218891fbc0108>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_0ea8d520f6ea03e574fe401002ce5031>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0ea8d520f6ea03e574fe401002ce5031>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0ea8d520f6ea03e574fe401002ce5031>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_781bf9a4c77f345f38b7e824f87ade4d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_781bf9a4c77f345f38b7e824f87ade4d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_781bf9a4c77f345f38b7e824f87ade4d>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_b567161de11f7d5c1926060408df05d3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b567161de11f7d5c1926060408df05d3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_b567161de11f7d5c1926060408df05d3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_154127253e0da887d429ba4124d773b6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_154127253e0da887d429ba4124d773b6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_154127253e0da887d429ba4124d773b6>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_89435c5b3b72e937639602f6e256c1f3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_89435c5b3b72e937639602f6e256c1f3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_89435c5b3b72e937639602f6e256c1f3>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000209> <https://w3id.org/nanolinks/measureGroup_0615c586e2134a7007b7ca073c0cae04>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0615c586e2134a7007b7ca073c0cae04>.
+<https://w3id.org/nanolinks/assay_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.bioassayontology.org/bao#BAO_0000185> <https://w3id.org/nanolinks/nanoparticle_0615c586e2134a7007b7ca073c0cae04>.
+<https://w3id.org/nanolinks/measureGroup_360dc74458097fbefa4af38059f4c544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_360dc74458097fbefa4af38059f4c544> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_360dc74458097fbefa4af38059f4c544> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_360dc74458097fbefa4af38059f4c544>.
+<https://w3id.org/nanolinks/measureGroup_360dc74458097fbefa4af38059f4c544> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_360dc74458097fbefa4af38059f4c544>.
+<https://w3id.org/nanolinks/measureGroup_29434c52f0d75656972f89027a09b07a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_29434c52f0d75656972f89027a09b07a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag2S zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_29434c52f0d75656972f89027a09b07a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_29434c52f0d75656972f89027a09b07a>.
+<https://w3id.org/nanolinks/measureGroup_29434c52f0d75656972f89027a09b07a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_29434c52f0d75656972f89027a09b07a>.
+<https://w3id.org/nanolinks/measureGroup_7034b6674954da58f5fa9394663d441d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_7034b6674954da58f5fa9394663d441d> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_7034b6674954da58f5fa9394663d441d> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7034b6674954da58f5fa9394663d441d>.
+<https://w3id.org/nanolinks/measureGroup_7034b6674954da58f5fa9394663d441d> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7034b6674954da58f5fa9394663d441d>.
+<https://w3id.org/nanolinks/measureGroup_b1103d729419416493981ec706915a62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_b1103d729419416493981ec706915a62> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_b1103d729419416493981ec706915a62> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b1103d729419416493981ec706915a62>.
+<https://w3id.org/nanolinks/measureGroup_b1103d729419416493981ec706915a62> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b1103d729419416493981ec706915a62>.
+<https://w3id.org/nanolinks/measureGroup_072b04fe38667c3175e871b5573f2f11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_072b04fe38667c3175e871b5573f2f11> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_072b04fe38667c3175e871b5573f2f11> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_072b04fe38667c3175e871b5573f2f11>.
+<https://w3id.org/nanolinks/measureGroup_072b04fe38667c3175e871b5573f2f11> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_072b04fe38667c3175e871b5573f2f11>.
+<https://w3id.org/nanolinks/measureGroup_e75a85789f2d2e1db2cde736fa73641a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_e75a85789f2d2e1db2cde736fa73641a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_e75a85789f2d2e1db2cde736fa73641a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_e75a85789f2d2e1db2cde736fa73641a>.
+<https://w3id.org/nanolinks/measureGroup_e75a85789f2d2e1db2cde736fa73641a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e75a85789f2d2e1db2cde736fa73641a>.
+<https://w3id.org/nanolinks/measureGroup_4cb0b85bd1bd1a147ac4c37e13d5a401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_4cb0b85bd1bd1a147ac4c37e13d5a401> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_4cb0b85bd1bd1a147ac4c37e13d5a401> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_4cb0b85bd1bd1a147ac4c37e13d5a401>.
+<https://w3id.org/nanolinks/measureGroup_4cb0b85bd1bd1a147ac4c37e13d5a401> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4cb0b85bd1bd1a147ac4c37e13d5a401>.
+<https://w3id.org/nanolinks/measureGroup_3ac000fd6e55faf7c61e86e52ae8b861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3ac000fd6e55faf7c61e86e52ae8b861> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3ac000fd6e55faf7c61e86e52ae8b861> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3ac000fd6e55faf7c61e86e52ae8b861>.
+<https://w3id.org/nanolinks/measureGroup_3ac000fd6e55faf7c61e86e52ae8b861> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3ac000fd6e55faf7c61e86e52ae8b861>.
+<https://w3id.org/nanolinks/measureGroup_d501da189fdc49a9984a9e3d5d93e1d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_d501da189fdc49a9984a9e3d5d93e1d0> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_d501da189fdc49a9984a9e3d5d93e1d0> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_d501da189fdc49a9984a9e3d5d93e1d0>.
+<https://w3id.org/nanolinks/measureGroup_d501da189fdc49a9984a9e3d5d93e1d0> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d501da189fdc49a9984a9e3d5d93e1d0>.
+<https://w3id.org/nanolinks/measureGroup_a0b2f4ca13379298befdc084cf829016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_a0b2f4ca13379298befdc084cf829016> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_a0b2f4ca13379298befdc084cf829016> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a0b2f4ca13379298befdc084cf829016>.
+<https://w3id.org/nanolinks/measureGroup_a0b2f4ca13379298befdc084cf829016> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a0b2f4ca13379298befdc084cf829016>.
+<https://w3id.org/nanolinks/measureGroup_18225a333619cf9b8a0fec1a107d1672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_18225a333619cf9b8a0fec1a107d1672> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_18225a333619cf9b8a0fec1a107d1672> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_18225a333619cf9b8a0fec1a107d1672>.
+<https://w3id.org/nanolinks/measureGroup_18225a333619cf9b8a0fec1a107d1672> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_18225a333619cf9b8a0fec1a107d1672>.
+<https://w3id.org/nanolinks/measureGroup_4df7b5bfc38b5bd68120a70c2f60cfd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_4df7b5bfc38b5bd68120a70c2f60cfd4> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_4df7b5bfc38b5bd68120a70c2f60cfd4> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_4df7b5bfc38b5bd68120a70c2f60cfd4>.
+<https://w3id.org/nanolinks/measureGroup_4df7b5bfc38b5bd68120a70c2f60cfd4> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4df7b5bfc38b5bd68120a70c2f60cfd4>.
+<https://w3id.org/nanolinks/measureGroup_56ffae7b5111c0c4fe93b0f9709d92a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_56ffae7b5111c0c4fe93b0f9709d92a6> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_56ffae7b5111c0c4fe93b0f9709d92a6> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_56ffae7b5111c0c4fe93b0f9709d92a6>.
+<https://w3id.org/nanolinks/measureGroup_56ffae7b5111c0c4fe93b0f9709d92a6> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_56ffae7b5111c0c4fe93b0f9709d92a6>.
+<https://w3id.org/nanolinks/measureGroup_3748a4af49275b84e91809035d59ccfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3748a4af49275b84e91809035d59ccfc> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3748a4af49275b84e91809035d59ccfc> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3748a4af49275b84e91809035d59ccfc>.
+<https://w3id.org/nanolinks/measureGroup_3748a4af49275b84e91809035d59ccfc> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3748a4af49275b84e91809035d59ccfc>.
+<https://w3id.org/nanolinks/measureGroup_ecfe81fd065300a4200c232e794c6203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_ecfe81fd065300a4200c232e794c6203> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_ecfe81fd065300a4200c232e794c6203> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_ecfe81fd065300a4200c232e794c6203>.
+<https://w3id.org/nanolinks/measureGroup_ecfe81fd065300a4200c232e794c6203> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_ecfe81fd065300a4200c232e794c6203>.
+<https://w3id.org/nanolinks/measureGroup_be75a8819050900c377c97b181edfae3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_be75a8819050900c377c97b181edfae3> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_be75a8819050900c377c97b181edfae3> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_be75a8819050900c377c97b181edfae3>.
+<https://w3id.org/nanolinks/measureGroup_be75a8819050900c377c97b181edfae3> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_be75a8819050900c377c97b181edfae3>.
+<https://w3id.org/nanolinks/measureGroup_434b352b12b41fd0e0b49f2ef990b12e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_434b352b12b41fd0e0b49f2ef990b12e> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_434b352b12b41fd0e0b49f2ef990b12e> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_434b352b12b41fd0e0b49f2ef990b12e>.
+<https://w3id.org/nanolinks/measureGroup_434b352b12b41fd0e0b49f2ef990b12e> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_434b352b12b41fd0e0b49f2ef990b12e>.
+<https://w3id.org/nanolinks/measureGroup_09880493cb2cba28fd31a7a40088774e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_09880493cb2cba28fd31a7a40088774e> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_09880493cb2cba28fd31a7a40088774e> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_09880493cb2cba28fd31a7a40088774e>.
+<https://w3id.org/nanolinks/measureGroup_09880493cb2cba28fd31a7a40088774e> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_09880493cb2cba28fd31a7a40088774e>.
+<https://w3id.org/nanolinks/measureGroup_27e4e46f03c8b7cb6bd95247d0baac39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_27e4e46f03c8b7cb6bd95247d0baac39> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_27e4e46f03c8b7cb6bd95247d0baac39> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_27e4e46f03c8b7cb6bd95247d0baac39>.
+<https://w3id.org/nanolinks/measureGroup_27e4e46f03c8b7cb6bd95247d0baac39> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_27e4e46f03c8b7cb6bd95247d0baac39>.
+<https://w3id.org/nanolinks/measureGroup_f7c7602519c5ebbcf36f43cb9f562d25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_f7c7602519c5ebbcf36f43cb9f562d25> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CePO4 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_f7c7602519c5ebbcf36f43cb9f562d25> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_f7c7602519c5ebbcf36f43cb9f562d25>.
+<https://w3id.org/nanolinks/measureGroup_f7c7602519c5ebbcf36f43cb9f562d25> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_f7c7602519c5ebbcf36f43cb9f562d25>.
+<https://w3id.org/nanolinks/measureGroup_23d7709b17cd7b9438f5cc53a3fccdea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_23d7709b17cd7b9438f5cc53a3fccdea> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_23d7709b17cd7b9438f5cc53a3fccdea> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_23d7709b17cd7b9438f5cc53a3fccdea>.
+<https://w3id.org/nanolinks/measureGroup_23d7709b17cd7b9438f5cc53a3fccdea> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_23d7709b17cd7b9438f5cc53a3fccdea>.
+<https://w3id.org/nanolinks/measureGroup_59d681eda85d46ae1502906e52703369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_59d681eda85d46ae1502906e52703369> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_59d681eda85d46ae1502906e52703369> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_59d681eda85d46ae1502906e52703369>.
+<https://w3id.org/nanolinks/measureGroup_59d681eda85d46ae1502906e52703369> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_59d681eda85d46ae1502906e52703369>.
+<https://w3id.org/nanolinks/measureGroup_40aed243ebbec7d2a6a681ad50c36786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_40aed243ebbec7d2a6a681ad50c36786> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_40aed243ebbec7d2a6a681ad50c36786> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_40aed243ebbec7d2a6a681ad50c36786>.
+<https://w3id.org/nanolinks/measureGroup_40aed243ebbec7d2a6a681ad50c36786> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_40aed243ebbec7d2a6a681ad50c36786>.
+<https://w3id.org/nanolinks/measureGroup_265c605dc769f44d548a472486427872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_265c605dc769f44d548a472486427872> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_265c605dc769f44d548a472486427872> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_265c605dc769f44d548a472486427872>.
+<https://w3id.org/nanolinks/measureGroup_265c605dc769f44d548a472486427872> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_265c605dc769f44d548a472486427872>.
+<https://w3id.org/nanolinks/measureGroup_a34326b67fdf135d958473aa7447e5f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_a34326b67fdf135d958473aa7447e5f2> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_a34326b67fdf135d958473aa7447e5f2> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a34326b67fdf135d958473aa7447e5f2>.
+<https://w3id.org/nanolinks/measureGroup_a34326b67fdf135d958473aa7447e5f2> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a34326b67fdf135d958473aa7447e5f2>.
+<https://w3id.org/nanolinks/measureGroup_e1046f6b614954416941bb72b167f6d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_e1046f6b614954416941bb72b167f6d4> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_e1046f6b614954416941bb72b167f6d4> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_e1046f6b614954416941bb72b167f6d4>.
+<https://w3id.org/nanolinks/measureGroup_e1046f6b614954416941bb72b167f6d4> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_e1046f6b614954416941bb72b167f6d4>.
+<https://w3id.org/nanolinks/measureGroup_09115e6f5861d8f4912ed6e29b57ce66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_09115e6f5861d8f4912ed6e29b57ce66> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_09115e6f5861d8f4912ed6e29b57ce66> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_09115e6f5861d8f4912ed6e29b57ce66>.
+<https://w3id.org/nanolinks/measureGroup_09115e6f5861d8f4912ed6e29b57ce66> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_09115e6f5861d8f4912ed6e29b57ce66>.
+<https://w3id.org/nanolinks/measureGroup_7dffe108097e9f3af2c1bc357583759f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_7dffe108097e9f3af2c1bc357583759f> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_7dffe108097e9f3af2c1bc357583759f> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7dffe108097e9f3af2c1bc357583759f>.
+<https://w3id.org/nanolinks/measureGroup_7dffe108097e9f3af2c1bc357583759f> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7dffe108097e9f3af2c1bc357583759f>.
+<https://w3id.org/nanolinks/measureGroup_998b65eead739f1998cb16ec8b5bf51f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_998b65eead739f1998cb16ec8b5bf51f> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_998b65eead739f1998cb16ec8b5bf51f> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_998b65eead739f1998cb16ec8b5bf51f>.
+<https://w3id.org/nanolinks/measureGroup_998b65eead739f1998cb16ec8b5bf51f> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_998b65eead739f1998cb16ec8b5bf51f>.
+<https://w3id.org/nanolinks/measureGroup_523feb407d1413adf23ff58e7ed02714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_523feb407d1413adf23ff58e7ed02714> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_523feb407d1413adf23ff58e7ed02714> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_523feb407d1413adf23ff58e7ed02714>.
+<https://w3id.org/nanolinks/measureGroup_523feb407d1413adf23ff58e7ed02714> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_523feb407d1413adf23ff58e7ed02714>.
+<https://w3id.org/nanolinks/measureGroup_6e7706149bc9e7718b2d1f0d68c140cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_6e7706149bc9e7718b2d1f0d68c140cd> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_6e7706149bc9e7718b2d1f0d68c140cd> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_6e7706149bc9e7718b2d1f0d68c140cd>.
+<https://w3id.org/nanolinks/measureGroup_6e7706149bc9e7718b2d1f0d68c140cd> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6e7706149bc9e7718b2d1f0d68c140cd>.
+<https://w3id.org/nanolinks/measureGroup_401fced9f211a65e398c407b761c18ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_401fced9f211a65e398c407b761c18ea> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_401fced9f211a65e398c407b761c18ea> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_401fced9f211a65e398c407b761c18ea>.
+<https://w3id.org/nanolinks/measureGroup_401fced9f211a65e398c407b761c18ea> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_401fced9f211a65e398c407b761c18ea>.
+<https://w3id.org/nanolinks/measureGroup_348f134c9841a16c241756a2bf5016f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_348f134c9841a16c241756a2bf5016f7> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_348f134c9841a16c241756a2bf5016f7> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_348f134c9841a16c241756a2bf5016f7>.
+<https://w3id.org/nanolinks/measureGroup_348f134c9841a16c241756a2bf5016f7> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_348f134c9841a16c241756a2bf5016f7>.
+<https://w3id.org/nanolinks/measureGroup_7a28f63c476f35bdad01e32c63801829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_7a28f63c476f35bdad01e32c63801829> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_7a28f63c476f35bdad01e32c63801829> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7a28f63c476f35bdad01e32c63801829>.
+<https://w3id.org/nanolinks/measureGroup_7a28f63c476f35bdad01e32c63801829> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7a28f63c476f35bdad01e32c63801829>.
+<https://w3id.org/nanolinks/measureGroup_96103f0e707deeacfc4e4141c8c06ed9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_96103f0e707deeacfc4e4141c8c06ed9> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_96103f0e707deeacfc4e4141c8c06ed9> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_96103f0e707deeacfc4e4141c8c06ed9>.
+<https://w3id.org/nanolinks/measureGroup_96103f0e707deeacfc4e4141c8c06ed9> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_96103f0e707deeacfc4e4141c8c06ed9>.
+<https://w3id.org/nanolinks/measureGroup_3c03967b5dc85147ce5d759e8664dba5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3c03967b5dc85147ce5d759e8664dba5> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3c03967b5dc85147ce5d759e8664dba5> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3c03967b5dc85147ce5d759e8664dba5>.
+<https://w3id.org/nanolinks/measureGroup_3c03967b5dc85147ce5d759e8664dba5> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3c03967b5dc85147ce5d759e8664dba5>.
+<https://w3id.org/nanolinks/measureGroup_0a12bc2f5634394208b3c9d499186711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_0a12bc2f5634394208b3c9d499186711> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_0a12bc2f5634394208b3c9d499186711> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_0a12bc2f5634394208b3c9d499186711>.
+<https://w3id.org/nanolinks/measureGroup_0a12bc2f5634394208b3c9d499186711> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0a12bc2f5634394208b3c9d499186711>.
+<https://w3id.org/nanolinks/measureGroup_7347be8d9b5c480cbd656350b0921e23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_7347be8d9b5c480cbd656350b0921e23> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_7347be8d9b5c480cbd656350b0921e23> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7347be8d9b5c480cbd656350b0921e23>.
+<https://w3id.org/nanolinks/measureGroup_7347be8d9b5c480cbd656350b0921e23> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7347be8d9b5c480cbd656350b0921e23>.
+<https://w3id.org/nanolinks/measureGroup_7416eb1e1f510c20643cda7177af5936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_7416eb1e1f510c20643cda7177af5936> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CuO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_7416eb1e1f510c20643cda7177af5936> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_7416eb1e1f510c20643cda7177af5936>.
+<https://w3id.org/nanolinks/measureGroup_7416eb1e1f510c20643cda7177af5936> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_7416eb1e1f510c20643cda7177af5936>.
+<https://w3id.org/nanolinks/measureGroup_dcf1a55134602cfdbf3d045fc4b668fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_dcf1a55134602cfdbf3d045fc4b668fe> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Fe2O3 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_dcf1a55134602cfdbf3d045fc4b668fe> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_dcf1a55134602cfdbf3d045fc4b668fe>.
+<https://w3id.org/nanolinks/measureGroup_dcf1a55134602cfdbf3d045fc4b668fe> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_dcf1a55134602cfdbf3d045fc4b668fe>.
+<https://w3id.org/nanolinks/measureGroup_d9061ceb31f1b4d2a1dd362a33b39d41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_d9061ceb31f1b4d2a1dd362a33b39d41> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ca10(PO4)6(OH)2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_d9061ceb31f1b4d2a1dd362a33b39d41> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_d9061ceb31f1b4d2a1dd362a33b39d41>.
+<https://w3id.org/nanolinks/measureGroup_d9061ceb31f1b4d2a1dd362a33b39d41> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d9061ceb31f1b4d2a1dd362a33b39d41>.
+<https://w3id.org/nanolinks/measureGroup_fa3503a2072e8d5170940dc8fcd64aad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_fa3503a2072e8d5170940dc8fcd64aad> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for AlOOH zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_fa3503a2072e8d5170940dc8fcd64aad> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_fa3503a2072e8d5170940dc8fcd64aad>.
+<https://w3id.org/nanolinks/measureGroup_fa3503a2072e8d5170940dc8fcd64aad> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_fa3503a2072e8d5170940dc8fcd64aad>.
+<https://w3id.org/nanolinks/measureGroup_eb6d730958700351d92cd0b29508a66f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_eb6d730958700351d92cd0b29508a66f> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_eb6d730958700351d92cd0b29508a66f> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_eb6d730958700351d92cd0b29508a66f>.
+<https://w3id.org/nanolinks/measureGroup_eb6d730958700351d92cd0b29508a66f> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_eb6d730958700351d92cd0b29508a66f>.
+<https://w3id.org/nanolinks/measureGroup_d4a3634d8e246fad48e6a17d26f34ad3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_d4a3634d8e246fad48e6a17d26f34ad3> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_d4a3634d8e246fad48e6a17d26f34ad3> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_d4a3634d8e246fad48e6a17d26f34ad3>.
+<https://w3id.org/nanolinks/measureGroup_d4a3634d8e246fad48e6a17d26f34ad3> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d4a3634d8e246fad48e6a17d26f34ad3>.
+<https://w3id.org/nanolinks/measureGroup_9a45a24af8e49b2fc726caeb76a8ca9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_9a45a24af8e49b2fc726caeb76a8ca9f> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_9a45a24af8e49b2fc726caeb76a8ca9f> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_9a45a24af8e49b2fc726caeb76a8ca9f>.
+<https://w3id.org/nanolinks/measureGroup_9a45a24af8e49b2fc726caeb76a8ca9f> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9a45a24af8e49b2fc726caeb76a8ca9f>.
+<https://w3id.org/nanolinks/measureGroup_b3abbbfd19cf31175c18778df313acc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_b3abbbfd19cf31175c18778df313acc1> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_b3abbbfd19cf31175c18778df313acc1> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b3abbbfd19cf31175c18778df313acc1>.
+<https://w3id.org/nanolinks/measureGroup_b3abbbfd19cf31175c18778df313acc1> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b3abbbfd19cf31175c18778df313acc1>.
+<https://w3id.org/nanolinks/measureGroup_f912e73c3d98d73ec2fb8fa549bf6896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_f912e73c3d98d73ec2fb8fa549bf6896> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_f912e73c3d98d73ec2fb8fa549bf6896> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_f912e73c3d98d73ec2fb8fa549bf6896>.
+<https://w3id.org/nanolinks/measureGroup_f912e73c3d98d73ec2fb8fa549bf6896> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_f912e73c3d98d73ec2fb8fa549bf6896>.
+<https://w3id.org/nanolinks/measureGroup_a81f2507911130f62b0063120f8241ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_a81f2507911130f62b0063120f8241ef> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_a81f2507911130f62b0063120f8241ef> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a81f2507911130f62b0063120f8241ef>.
+<https://w3id.org/nanolinks/measureGroup_a81f2507911130f62b0063120f8241ef> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a81f2507911130f62b0063120f8241ef>.
+<https://w3id.org/nanolinks/measureGroup_c024c560bf5ae80b94d60c8048e909a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_c024c560bf5ae80b94d60c8048e909a1> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_c024c560bf5ae80b94d60c8048e909a1> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_c024c560bf5ae80b94d60c8048e909a1>.
+<https://w3id.org/nanolinks/measureGroup_c024c560bf5ae80b94d60c8048e909a1> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_c024c560bf5ae80b94d60c8048e909a1>.
+<https://w3id.org/nanolinks/measureGroup_6f5db4b2e016a502184b8ccd3edb7a06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_6f5db4b2e016a502184b8ccd3edb7a06> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_6f5db4b2e016a502184b8ccd3edb7a06> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_6f5db4b2e016a502184b8ccd3edb7a06>.
+<https://w3id.org/nanolinks/measureGroup_6f5db4b2e016a502184b8ccd3edb7a06> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6f5db4b2e016a502184b8ccd3edb7a06>.
+<https://w3id.org/nanolinks/measureGroup_d2173bf2ad308f1b88c6b411c7c28922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_d2173bf2ad308f1b88c6b411c7c28922> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_d2173bf2ad308f1b88c6b411c7c28922> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_d2173bf2ad308f1b88c6b411c7c28922>.
+<https://w3id.org/nanolinks/measureGroup_d2173bf2ad308f1b88c6b411c7c28922> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_d2173bf2ad308f1b88c6b411c7c28922>.
+<https://w3id.org/nanolinks/measureGroup_3a09045cd0578533c7991e7860c9c236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3a09045cd0578533c7991e7860c9c236> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3a09045cd0578533c7991e7860c9c236> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3a09045cd0578533c7991e7860c9c236>.
+<https://w3id.org/nanolinks/measureGroup_3a09045cd0578533c7991e7860c9c236> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3a09045cd0578533c7991e7860c9c236>.
+<https://w3id.org/nanolinks/measureGroup_a70b14693869d7878935ceedecaea695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_a70b14693869d7878935ceedecaea695> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_a70b14693869d7878935ceedecaea695> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_a70b14693869d7878935ceedecaea695>.
+<https://w3id.org/nanolinks/measureGroup_a70b14693869d7878935ceedecaea695> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_a70b14693869d7878935ceedecaea695>.
+<https://w3id.org/nanolinks/measureGroup_b3578ac80db8b610d122113ad7b46a76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_b3578ac80db8b610d122113ad7b46a76> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_b3578ac80db8b610d122113ad7b46a76> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b3578ac80db8b610d122113ad7b46a76>.
+<https://w3id.org/nanolinks/measureGroup_b3578ac80db8b610d122113ad7b46a76> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b3578ac80db8b610d122113ad7b46a76>.
+<https://w3id.org/nanolinks/measureGroup_3109904cce1541df95be7c66782db730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3109904cce1541df95be7c66782db730> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3109904cce1541df95be7c66782db730> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3109904cce1541df95be7c66782db730>.
+<https://w3id.org/nanolinks/measureGroup_3109904cce1541df95be7c66782db730> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3109904cce1541df95be7c66782db730>.
+<https://w3id.org/nanolinks/measureGroup_3df1e6ef8bdfecd0a2f0f102d3324e8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_3df1e6ef8bdfecd0a2f0f102d3324e8a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_3df1e6ef8bdfecd0a2f0f102d3324e8a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_3df1e6ef8bdfecd0a2f0f102d3324e8a>.
+<https://w3id.org/nanolinks/measureGroup_3df1e6ef8bdfecd0a2f0f102d3324e8a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_3df1e6ef8bdfecd0a2f0f102d3324e8a>.
+<https://w3id.org/nanolinks/measureGroup_71304c22f44a74dde292e03905f5f60d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_71304c22f44a74dde292e03905f5f60d> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_71304c22f44a74dde292e03905f5f60d> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_71304c22f44a74dde292e03905f5f60d>.
+<https://w3id.org/nanolinks/measureGroup_71304c22f44a74dde292e03905f5f60d> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_71304c22f44a74dde292e03905f5f60d>.
+<https://w3id.org/nanolinks/measureGroup_2e96c1b27c0e9599b61a68161c07a19a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_2e96c1b27c0e9599b61a68161c07a19a> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for TiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_2e96c1b27c0e9599b61a68161c07a19a> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_2e96c1b27c0e9599b61a68161c07a19a>.
+<https://w3id.org/nanolinks/measureGroup_2e96c1b27c0e9599b61a68161c07a19a> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_2e96c1b27c0e9599b61a68161c07a19a>.
+<https://w3id.org/nanolinks/measureGroup_6da44bc5061b02870f5689bdc79cb71c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_6da44bc5061b02870f5689bdc79cb71c> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_6da44bc5061b02870f5689bdc79cb71c> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_6da44bc5061b02870f5689bdc79cb71c>.
+<https://w3id.org/nanolinks/measureGroup_6da44bc5061b02870f5689bdc79cb71c> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_6da44bc5061b02870f5689bdc79cb71c>.
+<https://w3id.org/nanolinks/measureGroup_68a178f75e18a6d7ac2046387ee1c97f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_68a178f75e18a6d7ac2046387ee1c97f> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_68a178f75e18a6d7ac2046387ee1c97f> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_68a178f75e18a6d7ac2046387ee1c97f>.
+<https://w3id.org/nanolinks/measureGroup_68a178f75e18a6d7ac2046387ee1c97f> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_68a178f75e18a6d7ac2046387ee1c97f>.
+<https://w3id.org/nanolinks/measureGroup_4e61441549c45c622399bf4030352432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_4e61441549c45c622399bf4030352432> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_4e61441549c45c622399bf4030352432> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_4e61441549c45c622399bf4030352432>.
+<https://w3id.org/nanolinks/measureGroup_4e61441549c45c622399bf4030352432> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_4e61441549c45c622399bf4030352432>.
+<https://w3id.org/nanolinks/measureGroup_9a7e08260af233044391cf66b73f60aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_9a7e08260af233044391cf66b73f60aa> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for SiO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_9a7e08260af233044391cf66b73f60aa> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_9a7e08260af233044391cf66b73f60aa>.
+<https://w3id.org/nanolinks/measureGroup_9a7e08260af233044391cf66b73f60aa> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_9a7e08260af233044391cf66b73f60aa>.
+<https://w3id.org/nanolinks/measureGroup_569870612f14085e72d218891fbc0108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_569870612f14085e72d218891fbc0108> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_569870612f14085e72d218891fbc0108> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_569870612f14085e72d218891fbc0108>.
+<https://w3id.org/nanolinks/measureGroup_569870612f14085e72d218891fbc0108> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_569870612f14085e72d218891fbc0108>.
+<https://w3id.org/nanolinks/measureGroup_0ea8d520f6ea03e574fe401002ce5031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_0ea8d520f6ea03e574fe401002ce5031> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Au zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_0ea8d520f6ea03e574fe401002ce5031> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_0ea8d520f6ea03e574fe401002ce5031>.
+<https://w3id.org/nanolinks/measureGroup_0ea8d520f6ea03e574fe401002ce5031> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0ea8d520f6ea03e574fe401002ce5031>.
+<https://w3id.org/nanolinks/measureGroup_781bf9a4c77f345f38b7e824f87ade4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_781bf9a4c77f345f38b7e824f87ade4d> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for BaTiO3 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_781bf9a4c77f345f38b7e824f87ade4d> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_781bf9a4c77f345f38b7e824f87ade4d>.
+<https://w3id.org/nanolinks/measureGroup_781bf9a4c77f345f38b7e824f87ade4d> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_781bf9a4c77f345f38b7e824f87ade4d>.
+<https://w3id.org/nanolinks/measureGroup_b567161de11f7d5c1926060408df05d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_b567161de11f7d5c1926060408df05d3> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_b567161de11f7d5c1926060408df05d3> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_b567161de11f7d5c1926060408df05d3>.
+<https://w3id.org/nanolinks/measureGroup_b567161de11f7d5c1926060408df05d3> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_b567161de11f7d5c1926060408df05d3>.
+<https://w3id.org/nanolinks/measureGroup_154127253e0da887d429ba4124d773b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_154127253e0da887d429ba4124d773b6> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for CeZrO2 zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_154127253e0da887d429ba4124d773b6> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_154127253e0da887d429ba4124d773b6>.
+<https://w3id.org/nanolinks/measureGroup_154127253e0da887d429ba4124d773b6> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_154127253e0da887d429ba4124d773b6>.
+<https://w3id.org/nanolinks/measureGroup_89435c5b3b72e937639602f6e256c1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_89435c5b3b72e937639602f6e256c1f3> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for Ag zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_89435c5b3b72e937639602f6e256c1f3> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_89435c5b3b72e937639602f6e256c1f3>.
+<https://w3id.org/nanolinks/measureGroup_89435c5b3b72e937639602f6e256c1f3> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_89435c5b3b72e937639602f6e256c1f3>.
+<https://w3id.org/nanolinks/measureGroup_0615c586e2134a7007b7ca073c0cae04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000040>.
+<https://w3id.org/nanolinks/measureGroup_0615c586e2134a7007b7ca073c0cae04> <http://www.w3.org/2000/01/rdf-schema#label> "measure group for ZnO zeta potential"@en.
+<https://w3id.org/nanolinks/measureGroup_0615c586e2134a7007b7ca073c0cae04> <http://www.bioassayontology.org/bao#BAO_0000208> <https://w3id.org/nanolinks/endpoint_zeta_potential_0615c586e2134a7007b7ca073c0cae04>.
+<https://w3id.org/nanolinks/measureGroup_0615c586e2134a7007b7ca073c0cae04> <http://www.bioassayontology.org/bao#BAO_0090012> <https://w3id.org/nanolinks/nanoparticle_0615c586e2134a7007b7ca073c0cae04>.
+<https://w3id.org/nanolinks/protocol_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bioassayontology.org/bao#BAO_0000523>.
+<https://w3id.org/nanolinks/protocol_91d7ed8cc0c249b2da9d8f77987e5045> <http://www.w3.org/2000/01/rdf-schema#label> "assay protocol"@en.
+<https://w3id.org/nanolinks/protocol_91d7ed8cc0c249b2da9d8f77987e5045> <http://purl.org/net/citocitesAsAuthority> <https://doi.org/10.1016/j.impact.2021.100308>.

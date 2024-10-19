@@ -42,40 +42,40 @@
 <https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888> <http://purl.org/dc/terms/isReferencedBy> <https://doi.org/10.3390/nano10102017>.
 <https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888> <http://purl.org/net/citocitesAsAuthority> <https://doi.org/10.3390/nano10102017>.
 <https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
-<https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888> <http://www.w3.org/ns/dcat#distribution> <https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778>.
+<https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888> <http://www.w3.org/ns/dcat#distribution> <https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/2000/01/rdf-schema#label> "Zenodo"@en.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://xmlns.com/foaf/0.1/name> "Zenodo"@en.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://purl.org/dc/terms/identifier> <https://zenodo.org>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/vocab-dcat-2>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/void/>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/dcat#contactPoint> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/creator> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/publisher> <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset 2"@en.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/title> "Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (RDF dataset)"@en.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/description> "RDF version of the supplementary data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform."@en.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/issued> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/identifier> "https://zenodo.org/record/5743788".
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/subject> <https://dbpedia.org/resource/Nanotechnology>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/subject> <https://www.wikidata.org/wiki/Q11468>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/dcat#landingPage> <https://nanocommons.github.io/datasets/overview/5743788.html>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://xmlns.com/foaf/0.1/homepage> <https://nanocommons.github.io/datasets/overview/5743788.html>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/dcat#accessURL> <https://w3id.org/nanolinks/sparql>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://rdfs.org/ns/void#sparqlEndpoint> <https://w3id.org/nanolinks/sparql>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/dcat#downloadURL> <https://zenodo.org/record/5743788/files/dataset.nq?download=1>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://rdfs.org/ns/void#dataDump> <https://zenodo.org/record/5743788/files/dataset.nq?download=1>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/application/n-quads>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://rdfs.org/ns/void#feature> <http://www.w3.org/ns/formats/N-Quads>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888>.
-<https://w3id.org/nanolinks/dataset_rdf_750f2e0eb280e6dd57a97ee44b984778> <http://www.w3.org/ns/prov#wasGeneratedBy> <https://w3id.org/nanolinks/activity_a768ef00dcfb6990feb24aadb4cf0888>.
-<https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/vocab-dcat-2>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/void/>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/dcat#contactPoint> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/creator> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/publisher> <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset 2"@en.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/title> "Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (RDF dataset)"@en.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/description> "RDF version of the supplementary data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform."@en.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/issued> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/identifier> "https://doi.org/10.5281/zenodo.13858251".
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/subject> <https://dbpedia.org/resource/Nanotechnology>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/subject> <https://www.wikidata.org/wiki/Q11468>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/dcat#landingPage> <https://nanocommons.github.io/datasets/overview/5743788.html>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://xmlns.com/foaf/0.1/homepage> <https://nanocommons.github.io/datasets/overview/5743788.html>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/dcat#accessURL> <https://w3id.org/nanolinks/sparql>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://rdfs.org/ns/void#sparqlEndpoint> <https://w3id.org/nanolinks/sparql>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/dcat#downloadURL> <https://zenodo.org/records/13858251/files/dataset.nq?download=1>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://rdfs.org/ns/void#dataDump> <https://zenodo.org/records/13858251/files/dataset.nq?download=1>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/application/n-quads>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://rdfs.org/ns/void#feature> <http://www.w3.org/ns/formats/N-Quads>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_a768ef00dcfb6990feb24aadb4cf0888>.
+<https://w3id.org/nanolinks/dataset_rdf_c9d4367a1a0b93585efa6ee2604cf835> <http://www.w3.org/ns/prov#wasGeneratedBy> <https://w3id.org/nanolinks/activity_a768ef00dcfb6990feb24aadb4cf0888>.
+<https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent>.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/2000/01/rdf-schema#label> "Software: RML-Mapper"@en.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://xmlns.com/foaf/0.1/name> "Software: RML-Mapper"@en.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://purl.org/dc/terms/hasVersion> "4.15".

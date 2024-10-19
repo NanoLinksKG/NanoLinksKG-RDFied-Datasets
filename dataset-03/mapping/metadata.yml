@@ -57,17 +57,17 @@ external:
   creatorName: Ammar Ammar
   creatorFname: Ammar
   creatorLname: Ammar
-  datasetName: Manually curated transcriptomics data collection 
+  datasetName: Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
   datasetDescription: Supplementary data from Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, … Greco, Dario. (2020). Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4146981
   datasetUrl: https://doi.org/10.5281/zenodo.4146981 #DOI
   datasetPublishYear: 2020
   rdfDatasetName: Dataset 3
-  rdfDatasetTitle: Manually curated transcriptomics data collection RDF
+  rdfDatasetTitle: Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (RDF dataset)
   rdfDatasetDescription: RDF version of the data from Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, … Greco, Dario. (2020). Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4146981
-  rdfDatasetUrl: https://zenodo.org/record/5744003 # Zenodo URL or DOI
-  rdfDatasetDownloadUrl: https://zenodo.org/records/5744003/files/allData.tar.gz?download=1 # The download link from zenodo
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858254 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/records/13858254/files/allData.tar.gz?download=1 # The download link from zenodo
   rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5744003.html # The dataset overview page (if available) or zenodo main page
-  rdfDatasetPublishYear: 2023
+  rdfDatasetPublishYear: 2024
   catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
   rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
   datasetSubjectUrl: https://w3id.org/nanolinks/dataset_
@@ -330,7 +330,7 @@ mappings:
           - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
           - [grel:valueParameter2, RML-Mapper-4.15]
     predicateobjects:
-      - [rdf:type, prov:Activity~iri]
+      - [rdf:type, prov:SoftwareAgent~iri]
       - [rdfs:label, Software: RML-Mapper, en~lang]
       - [foaf:name, Software: RML-Mapper, en~lang]
       - [dct:hasVersion, 4.15, xsd:string]

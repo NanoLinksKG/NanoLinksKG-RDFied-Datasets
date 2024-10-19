@@ -62,12 +62,12 @@ external:
   datasetUrl: https://doi.org/10.1016/j.impact.2021.100308 #DOI
   datasetPublishYear: 2021
   rdfDatasetName: Dataset 4
-  rdfDatasetTitle: Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model RDF
+  rdfDatasetTitle: Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model (RDF dataset)
   rdfDatasetDescription: RDF version of the supplementary data from Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021). https://doi.org/10.1016/j.impact.2021.100308
-  rdfDatasetUrl: https://zenodo.org/record/5744082 # Zenodo URL or DOI
-  rdfDatasetDownloadUrl: https://zenodo.org/records/5744082/files/data.nq?download=1 # The download link from zenodo
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858259 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/records/13858259/files/dataset.nq?download=1 # The download link from zenodo
   rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5744082.html # The dataset overview page (if available) or zenodo main page
-  rdfDatasetPublishYear: 2023
+  rdfDatasetPublishYear: 2024
   catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
   rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
   datasetSubjectUrl: https://w3id.org/nanolinks/dataset_
@@ -330,7 +330,7 @@ mappings:
           - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
           - [grel:valueParameter2, RML-Mapper-4.15]
     predicateobjects:
-      - [rdf:type, prov:Activity~iri]
+      - [rdf:type, prov:SoftwareAgent~iri]
       - [rdfs:label, Software: RML-Mapper, en~lang]
       - [foaf:name, Software: RML-Mapper, en~lang]
       - [dct:hasVersion, 4.15, xsd:string]

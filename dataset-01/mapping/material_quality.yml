@@ -44,7 +44,7 @@ sources:
   data-source: ['/data/data.csv~csv']
   
 external:
-  rdfDatasetUrl: https://zenodo.org/record/5743204
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858246
   rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
   nanoparticleSubjectUrl: https://w3id.org/nanolinks/nanoparticle_
   nanoparticleQualitySubjectUrl: https://w3id.org/nanolinks/nanoparticle_quality_

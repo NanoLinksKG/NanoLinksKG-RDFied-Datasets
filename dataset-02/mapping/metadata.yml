@@ -64,8 +64,8 @@ external:
   rdfDatasetName: Dataset 2
   rdfDatasetTitle: Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (RDF dataset)
   rdfDatasetDescription: RDF version of the supplementary data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform.
-  rdfDatasetUrl: https://zenodo.org/record/5743788 # Zenodo URL or DOI
-  rdfDatasetDownloadUrl: https://zenodo.org/record/5743788/files/dataset.nq?download=1 # The download link from zenodo
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858251 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/records/13858251/files/dataset.nq?download=1 # The download link from zenodo
   rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5743788.html # The dataset overview page (if available) or zenodo main page
   rdfDatasetPublishYear: 2024
   catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
@@ -329,7 +329,7 @@ mappings:
           - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
           - [grel:valueParameter2, RML-Mapper-4.15]
     predicateobjects:
-      - [rdf:type, prov:Activity~iri]
+      - [rdf:type, prov:SoftwareAgent~iri]
       - [rdfs:label, Software: RML-Mapper, en~lang]
       - [foaf:name, Software: RML-Mapper, en~lang]
       - [dct:hasVersion, 4.15, xsd:string]

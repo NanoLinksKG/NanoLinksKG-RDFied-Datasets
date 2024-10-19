@@ -149,7 +149,7 @@
     rr:constant grel:valueParameter2.
 :pom_007 rr:objectMap :om_007.
 :om_007 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_008 a rr:PredicateObjectMap.
 :map_endpointGeneExpression_000 rr:predicateObjectMap :pom_008.
@@ -256,7 +256,7 @@
     rr:constant grel:valueParameter2.
 :pom_016 rr:objectMap :om_016.
 :om_016 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_017 a rr:PredicateObjectMap.
 :map_endpointGeneExpressionFoldChange_000 rr:predicateObjectMap :pom_017.
@@ -363,7 +363,7 @@
     rr:constant grel:valueParameter2.
 :pom_026 rr:objectMap :om_026.
 :om_026 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_endpointGeneExpressionPValue_000.
 :map_endpointGeneExpressionPValue_000 rml:logicalSource :source_000;
@@ -397,7 +397,7 @@
     rr:constant grel:valueParameter2.
 :pom_028 rr:objectMap :om_028.
 :om_028 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_029 a rr:PredicateObjectMap.
 :map_endpointGeneExpressionPValue_000 rr:predicateObjectMap :pom_029.
@@ -495,7 +495,7 @@
     rr:constant grel:valueParameter2.
 :pom_037 rr:objectMap :om_037.
 :om_037 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_measureGroupGeneExpression_000.
 :map_measureGroupGeneExpression_000 rml:logicalSource :source_000;
@@ -529,7 +529,7 @@
     rr:constant grel:valueParameter2.
 :pom_039 rr:objectMap :om_039.
 :om_039 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_040 a rr:PredicateObjectMap.
 :map_measureGroupGeneExpression_000 rr:predicateObjectMap :pom_040.
@@ -617,7 +617,7 @@
     rr:constant grel:valueParameter2.
 :pom_047 rr:objectMap :om_047.
 :om_047 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_048 a rr:PredicateObjectMap.
 :map_measureGroupGeneExpression_000 rr:predicateObjectMap :pom_048.
@@ -651,7 +651,7 @@
     rr:constant grel:valueParameter2.
 :pom_050 rr:objectMap :om_050.
 :om_050 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_measureGroupDegContrast_000.
 :map_measureGroupDegContrast_000 rml:logicalSource :source_000;
@@ -685,7 +685,7 @@
     rr:constant grel:valueParameter2.
 :pom_052 rr:objectMap :om_052.
 :om_052 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@";
     rr:termType rr:Literal.
 :pom_053 a rr:PredicateObjectMap.
 :map_measureGroupDegContrast_000 rr:predicateObjectMap :pom_053.
@@ -739,7 +739,7 @@
     rr:constant grel:valueParameter2.
 :pom_057 rr:objectMap :om_057.
 :om_057 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@CONTRAST@_{ID}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@CONTRAST@_{ID}";
     rr:termType rr:Literal.
 :pom_058 a rr:PredicateObjectMap.
 :map_measureGroupDegContrast_000 rr:predicateObjectMap :pom_058.
@@ -773,7 +773,7 @@
     rr:constant grel:valueParameter2.
 :pom_060 rr:objectMap :om_060.
 :om_060 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@LEFT_GROUP@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@LEFT_GROUP@";
     rr:termType rr:Literal.
 :pom_061 a rr:PredicateObjectMap.
 :map_measureGroupDegContrast_000 rr:predicateObjectMap :pom_061.
@@ -807,7 +807,7 @@
     rr:constant grel:valueParameter2.
 :pom_063 rr:objectMap :om_063.
 :om_063 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@right_GROUP@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@right_GROUP@";
     rr:termType rr:Literal.
 :pom_064 a rr:PredicateObjectMap.
 :map_measureGroupDegContrast_000 rr:predicateObjectMap :pom_064.
@@ -841,7 +841,7 @@
     rr:constant grel:valueParameter2.
 :pom_066 rr:objectMap :om_066.
 :om_066 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@LEFT_GROUP@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@LEFT_GROUP@";
     rr:termType rr:Literal.
 :pom_067 a rr:PredicateObjectMap.
 :map_measureGroupDegContrast_000 rr:predicateObjectMap :pom_067.
@@ -875,5 +875,5 @@
     rr:constant grel:valueParameter2.
 :pom_069 rr:objectMap :om_069.
 :om_069 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_@GSE@_@right_GROUP@";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_@GSE@_@right_GROUP@";
     rr:termType rr:Literal.

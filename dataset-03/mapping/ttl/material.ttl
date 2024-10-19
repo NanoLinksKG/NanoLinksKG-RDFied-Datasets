@@ -75,7 +75,7 @@
     rr:constant grel:valueParameter2.
 :pom_001 rr:objectMap :om_001.
 :om_001 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_{GSE}_{treatment}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_{GSE}_{treatment}";
     rr:termType rr:Literal.
 :pom_002 a rr:PredicateObjectMap.
 :map_chemicalSubstance_000 rr:predicateObjectMap :pom_002.
@@ -379,7 +379,7 @@
     rr:constant grel:valueParameter2.
 :pom_028 rr:objectMap :om_028.
 :om_028 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744003";
+    rr:constant "https://doi.org/10.5281/zenodo.13858254";
     rr:termType rr:Literal.
 :pom_029 a rr:PredicateObjectMap.
 :map_chemicalSubstance_000 rr:predicateObjectMap :pom_029.
@@ -496,7 +496,7 @@
     rr:constant grel:valueParameter2.
 :pom_038 rr:objectMap :om_038.
 :om_038 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_{GSE}_{treatment}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_{GSE}_{treatment}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_core_000.
 :map_core_000 rml:logicalSource :source_000;
@@ -530,7 +530,7 @@
     rr:constant grel:valueParameter2.
 :pom_040 rr:objectMap :om_040.
 :om_040 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_{GSE}_{treatment}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_{GSE}_{treatment}";
     rr:termType rr:Literal.
 :pom_041 a rr:PredicateObjectMap.
 :map_core_000 rr:predicateObjectMap :pom_041.
@@ -584,7 +584,7 @@
     rr:constant grel:valueParameter2.
 :pom_045 rr:objectMap :om_045.
 :om_045 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_{GSE}_{treatment}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_{GSE}_{treatment}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_qualityCoreChemicalComposition_000.
 :map_qualityCoreChemicalComposition_000 rml:logicalSource :source_000;
@@ -618,7 +618,7 @@
     rr:constant grel:valueParameter2.
 :pom_047 rr:objectMap :om_047.
 :om_047 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744003_{GSE}_{treatment}";
+    rr:template "https://doi.org/10.5281/zenodo.13858254_{GSE}_{treatment}";
     rr:termType rr:Literal.
 :pom_048 a rr:PredicateObjectMap.
 :map_qualityCoreChemicalComposition_000 rr:predicateObjectMap :pom_048.

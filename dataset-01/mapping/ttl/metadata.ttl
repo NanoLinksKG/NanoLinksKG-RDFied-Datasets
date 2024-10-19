@@ -753,7 +753,7 @@
 :pm_061 rr:constant rdfs:label.
 :pom_059 rr:objectMap :om_059.
 :om_059 a rr:ObjectMap;
-    rr:constant "S2NANO";
+    rr:constant "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources";
     rr:termType rr:Literal;
     rml:languageMap :language_013.
 :language_013 rr:constant "en".
@@ -764,7 +764,7 @@
 :pm_062 rr:constant dct:title.
 :pom_060 rr:objectMap :om_060.
 :om_060 a rr:ObjectMap;
-    rr:constant "S2NANO";
+    rr:constant "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources";
     rr:termType rr:Literal;
     rml:languageMap :language_014.
 :language_014 rr:constant "en".
@@ -858,7 +858,7 @@
     rr:constant grel:valueParameter2.
 :pom_069 rr:objectMap :om_069.
 :om_069 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5743204";
+    rr:constant "https://doi.org/10.5281/zenodo.13858246";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_rdfDataset_000.
 :map_rdfDataset_000 rml:logicalSource :source_000;
@@ -892,7 +892,7 @@
     rr:constant grel:valueParameter2.
 :pom_071 rr:objectMap :om_071.
 :om_071 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5743204";
+    rr:constant "https://doi.org/10.5281/zenodo.13858246";
     rr:termType rr:Literal.
 :pom_072 a rr:PredicateObjectMap.
 :map_rdfDataset_000 rr:predicateObjectMap :pom_072.
@@ -1028,7 +1028,7 @@
 :pm_087 rr:constant dct:title.
 :pom_084 rr:objectMap :om_084.
 :om_084 a rr:ObjectMap;
-    rr:constant "S2NANO RDF";
+    rr:constant "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources ((RDF dataset)";
     rr:termType rr:Literal;
     rml:languageMap :language_017.
 :language_017 rr:constant "en".
@@ -1060,7 +1060,7 @@
 :pm_090 rr:constant dct:identifier.
 :pom_087 rr:objectMap :om_087.
 :om_087 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5743204";
+    rr:constant "https://doi.org/10.5281/zenodo.13858246";
     rr:termType rr:Literal;
     rr:datatype xsd:string.
 :pom_088 a rr:PredicateObjectMap.
@@ -1133,7 +1133,7 @@
 :pm_098 rr:constant dcat:downloadURL.
 :pom_095 rr:objectMap :om_095.
 :om_095 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5743204/files/dataset.nq?download=1";
+    rr:constant "https://zenodo.org/records/13858246/files/dataset.nq?download=1";
     rr:termType rr:IRI.
 :pom_096 a rr:PredicateObjectMap.
 :map_rdfDataset_000 rr:predicateObjectMap :pom_096.
@@ -1142,7 +1142,7 @@
 :pm_099 rr:constant void:dataDump.
 :pom_096 rr:objectMap :om_096.
 :om_096 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5743204/files/dataset.nq?download=1";
+    rr:constant "https://zenodo.org/records/13858246/files/dataset.nq?download=1";
     rr:termType rr:IRI.
 :pom_097 a rr:PredicateObjectMap.
 :map_rdfDataset_000 rr:predicateObjectMap :pom_097.
@@ -1427,7 +1427,7 @@
 :pm_123 rr:constant rdf:type.
 :pom_120 rr:objectMap :om_120.
 :om_120 a rr:ObjectMap;
-    rr:constant "http://www.w3.org/ns/prov#Activity";
+    rr:constant "http://www.w3.org/ns/prov#SoftwareAgent";
     rr:termType rr:IRI.
 :pom_121 a rr:PredicateObjectMap.
 :map_software_000 rr:predicateObjectMap :pom_121.

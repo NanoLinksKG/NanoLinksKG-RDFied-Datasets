@@ -75,7 +75,7 @@
     rr:constant grel:valueParameter2.
 :pom_001 rr:objectMap :om_001.
 :om_001 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_002 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_002.
@@ -127,7 +127,7 @@
     rr:constant grel:valueParameter2.
 :pom_006 rr:objectMap :om_006.
 :om_006 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_007 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_007.
@@ -181,7 +181,7 @@
     rr:constant grel:valueParameter2.
 :pom_011 rr:objectMap :om_011.
 :om_011 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_012 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_012.
@@ -215,7 +215,7 @@
     rr:constant grel:valueParameter2.
 :pom_014 rr:objectMap :om_014.
 :om_014 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_015 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_015.
@@ -249,7 +249,7 @@
     rr:constant grel:valueParameter2.
 :pom_017 rr:objectMap :om_017.
 :om_017 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{rownum}";
     rr:termType rr:Literal.
 :pom_018 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_018.
@@ -283,7 +283,7 @@
     rr:constant grel:valueParameter2.
 :pom_020 rr:objectMap :om_020.
 :om_020 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{material_id}";
     rr:termType rr:Literal.
 :pom_021 a rr:PredicateObjectMap.
 :map_bioassay_000 rr:predicateObjectMap :pom_021.
@@ -317,7 +317,7 @@
     rr:constant grel:valueParameter2.
 :pom_023 rr:objectMap :om_023.
 :om_023 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{material_id}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_measureGroup_000.
 :map_measureGroup_000 rml:logicalSource :source_000;
@@ -351,7 +351,7 @@
     rr:constant grel:valueParameter2.
 :pom_025 rr:objectMap :om_025.
 :om_025 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{rownum}";
     rr:termType rr:Literal.
 :pom_026 a rr:PredicateObjectMap.
 :map_measureGroup_000 rr:predicateObjectMap :pom_026.
@@ -405,7 +405,7 @@
     rr:constant grel:valueParameter2.
 :pom_030 rr:objectMap :om_030.
 :om_030 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{rownum}";
     rr:termType rr:Literal.
 :pom_031 a rr:PredicateObjectMap.
 :map_measureGroup_000 rr:predicateObjectMap :pom_031.
@@ -439,7 +439,7 @@
     rr:constant grel:valueParameter2.
 :pom_033 rr:objectMap :om_033.
 :om_033 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{material_id}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_assayFormat_000.
 :map_assayFormat_000 rml:logicalSource :source_000;
@@ -473,7 +473,7 @@
     rr:constant grel:valueParameter2.
 :pom_035 rr:objectMap :om_035.
 :om_035 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_036 a rr:PredicateObjectMap.
 :map_assayFormat_000 rr:predicateObjectMap :pom_036.
@@ -527,7 +527,7 @@
     rr:constant grel:valueParameter2.
 :pom_039 rr:objectMap :om_039.
 :om_039 a rr:ObjectMap;
-    rr:constant "https://zenodo.org/record/5744082";
+    rr:constant "https://doi.org/10.5281/zenodo.13858259";
     rr:termType rr:Literal.
 :pom_040 a rr:PredicateObjectMap.
 :map_protocol_000 rr:predicateObjectMap :pom_040.

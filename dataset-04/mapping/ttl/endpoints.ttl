@@ -75,7 +75,7 @@
     rr:constant grel:valueParameter2.
 :pom_001 rr:objectMap :om_001.
 :om_001 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{rownum}";
     rr:termType rr:Literal.
 :pom_002 a rr:PredicateObjectMap.
 :map_endpointZetaPotential_000 rr:predicateObjectMap :pom_002.
@@ -157,7 +157,7 @@
     rr:constant grel:valueParameter2.
 :pom_009 rr:objectMap :om_009.
 :om_009 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5744082_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858259_{material_id}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_unitSquareNanometer_000.
 :map_unitSquareNanometer_000 rml:logicalSource :source_000;

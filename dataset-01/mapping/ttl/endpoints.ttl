@@ -75,7 +75,7 @@
     rr:constant grel:valueParameter2.
 :pom_001 rr:objectMap :om_001.
 :om_001 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{dose}_UO_0000274";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{dose}_UO_0000274";
     rr:termType rr:Literal.
 :pom_002 a rr:PredicateObjectMap.
 :map_endpointDose_000 rr:predicateObjectMap :pom_002.
@@ -157,7 +157,7 @@
     rr:constant grel:valueParameter2.
 :pom_008 rr:objectMap :om_008.
 :om_008 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{rownum}";
     rr:termType rr:Literal.
 :pom_009 a rr:PredicateObjectMap.
 :map_endpointViability_000 rr:predicateObjectMap :pom_009.
@@ -267,7 +267,7 @@
     rr:constant grel:valueParameter2.
 :pom_019 rr:objectMap :om_019.
 :om_019 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{dose}_UO_0000274";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{dose}_UO_0000274";
     rr:termType rr:Literal.
 :pom_020 a rr:PredicateObjectMap.
 :map_endpointViability_000 rr:predicateObjectMap :pom_020.
@@ -301,7 +301,7 @@
     rr:constant grel:valueParameter2.
 :pom_022 rr:objectMap :om_022.
 :om_022 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_endpointCategorical_000.
 :map_endpointCategorical_000 rml:logicalSource :source_000;
@@ -417,7 +417,7 @@
     rr:constant grel:valueParameter2.
 :pom_032 rr:objectMap :om_032.
 :om_032 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{rownum}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{rownum}";
     rr:termType rr:Literal.
 <http://mapping.example.com/rules_000> void:exampleResource :map_unitMeterSquaredPerGram_000.
 :map_unitMeterSquaredPerGram_000 rml:logicalSource :source_000;

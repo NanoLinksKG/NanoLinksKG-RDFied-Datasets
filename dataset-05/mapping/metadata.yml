@@ -62,12 +62,12 @@ external:
   datasetUrl: https://doi.org/10.1021/acsnano.8b07562 #DOI
   datasetPublishYear: 2019
   rdfDatasetName: Dataset 5
-  rdfDatasetTitle: Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature RDF
+  rdfDatasetTitle: Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature (RDF dataset)
   rdfDatasetDescription: RDF version of the supplementary data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019). https://doi.org/10.1021/acsnano.8b07562
-  rdfDatasetUrl: https://zenodo.org/record/5744302 # Zenodo URL or DOI
-  rdfDatasetDownloadUrl: https://zenodo.org/record/5744302/files/nn8b07562_si_001.nq?download=1 # The download link from zenodo
+  rdfDatasetUrl: https://doi.org/10.5281/zenodo.13858260 # Zenodo URL or DOI
+  rdfDatasetDownloadUrl: https://zenodo.org/records/13858260/files/dataset.nq?download=1 # The download link from zenodo
   rdfDatasetLandingPage: https://nanocommons.github.io/datasets/overview/5744302.html # The dataset overview page (if available) or zenodo main page
-  rdfDatasetPublishYear: 2023
+  rdfDatasetPublishYear: 2024
   catalogSubjectUrl: https://w3id.org/nanolinks/catalog_
   rdfDatasetSubjectUrl: https://w3id.org/nanolinks/dataset_rdf_
   datasetSubjectUrl: https://w3id.org/nanolinks/dataset_
@@ -258,7 +258,7 @@ mappings:
               - [grel:valueParameter, $(_organizationSubjectUrl)]
               - [grel:valueParameter2, $(_publisherUrl)] 
       - [rdfs:label, $(_rdfDatasetName), en~lang]
-      - [dct:title, $(_rdfDatasetName), en~lang]
+      - [dct:title, $(_rdfDatasetTitle), en~lang]
       - [dct:description, $(_rdfDatasetDescription), en~lang]
       - [dct:issued, $(_rdfDatasetPublishYear), xsd:gYear]
       - [dct:identifier, $(_rdfDatasetUrl), xsd:string]
@@ -330,7 +330,7 @@ mappings:
           - [grel:valueParameter, $(_softwareAgentSubjectUrl)]
           - [grel:valueParameter2, RML-Mapper-4.15]
     predicateobjects:
-      - [rdf:type, prov:Activity~iri]
+      - [rdf:type, prov:SoftwareAgent~iri]
       - [rdfs:label, Software: RML-Mapper, en~lang]
       - [foaf:name, Software: RML-Mapper, en~lang]
       - [dct:hasVersion, 4.15, xsd:string]

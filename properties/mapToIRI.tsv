@@ -7,46 +7,46 @@ nanomaterial	TiO2	obo:CHEBI_51050
 nanomaterial	ZnO	npo:NPO_1542
 nanomaterial	CeO2	enm:ENM_9000006
 nanomaterial	CoO	enm:ENM_9000254
-nanomaterial	Gd2O3	nsvoc:nanoparticle_Gd2O3
-nanomaterial	HfO2	nsvoc:nanoparticle_HfO2
-nanomaterial	In2O3	nsvoc:nanoparticle_In2O3
-nanomaterial	La2O3	nsvoc:nanoparticle_La2O3
-nanomaterial	Mn2O3	enm:ENM_9000251
-nanomaterial	NiO	nsvoc:nanoparticle_NiO
-nanomaterial	Sb2O3	nsvoc:nanoparticle_Sb2O3
+nanomaterial	Gd2O3	enm:ENM_0000124
+nanomaterial	HfO2	nsvoc:nm_HfO2
+nanomaterial	In2O3	nsvoc:nm_In2O3
+nanomaterial	La2O3	enm:ENM_0000121
+nanomaterial	Mn2O3	nsvoc:nm_Mn2O3
+nanomaterial	NiO	obo:NCIT_C45864
+nanomaterial	Sb2O3	obo:CHEBI_82289
 nanomaterial	Ag	npo:NPO_1892
-nanomaterial	Ag2S	npo:NPO_1892
-nanomaterial	AlOOH	npo:NPO_707
+nanomaterial	Ag2S	nsvoc:nm_Ag2S
+nanomaterial	AlOOH	nsvoc:nm_AlOOH
 nanomaterial	Au	npo:NPO_401
-nanomaterial	BaTiO3	npo:NPO_707
-nanomaterial	Ca10(PO4)6(OH)2	npo:NPO_707
-nanomaterial	CePO4	npo:NPO_707
-nanomaterial	CeZrO2	npo:NPO_707
-nanomaterial	Bi	npo:NPO_707
-nanomaterial	Carbon NP	npo:NPO_707
+nanomaterial	BaTiO3	nsvoc:nm_BaTiO3
+nanomaterial	Ca10(PO4)6(OH)2	nsvoc:nm_Ca10_PO4_6_OH_2
+nanomaterial	CePO4	nsvoc:nm_CePO4
+nanomaterial	CeZrO2	nsvoc:nm_CeZrO2
+nanomaterial	Bi	enm:ENM_9000247
+nanomaterial	Carbon NP	nsvoc:nm_Carbon
 nanomaterial	Carbon Nanotubes	npo:NPO_606
-nanomaterial	CdO	npo:NPO_707
-nanomaterial	Chitosan	npo:NPO_707
-nanomaterial	Co	npo:NPO_707
-nanomaterial	Co3O4	npo:NPO_707
-nanomaterial	Cr	npo:NPO_707
-nanomaterial	Cu2O	npo:NPO_707
-nanomaterial	CuS	npo:NPO_707
-nanomaterial	Dendrimer	npo:NPO_707
-nanomaterial	Eudragit RL	npo:NPO_707
-nanomaterial	Hydroxyapatite	npo:NPO_707
-nanomaterial	Iron oxide	npo:NPO_707
-nanomaterial	Liposomes	npo:NPO_707
-nanomaterial	MgO	npo:NPO_707
-nanomaterial	MnO	npo:NPO_707
-nanomaterial	Mo	npo:NPO_707
-nanomaterial	PLGA	npo:NPO_707
-nanomaterial	Polystyrene	npo:NPO_707
-nanomaterial	Pt	npo:NPO_707
-nanomaterial	QDs	npo:NPO_707
-nanomaterial	SLN	npo:NPO_707
-nanomaterial	Se	npo:NPO_707
-nanomaterial	Ti	npo:NPO_707
+nanomaterial	CdO	enm:ENM_9000250
+nanomaterial	Chitosan	npo:NPO_261
+nanomaterial	Co	nsvoc:nm_Co
+nanomaterial	Co3O4	enm:ENM_0000119
+nanomaterial	Cr	nsvoc:nm_Cr
+nanomaterial	Cu2O	obo:CHEBI_134402
+nanomaterial	CuS	enm:ENM_9000246
+nanomaterial	Dendrimer	obo:CHEBI_51338
+nanomaterial	Eudragit RL	nsvoc:nm_Eudragit-RL
+nanomaterial	Hydroxyapatite	npo:NPO_1568
+nanomaterial	Iron oxide	npo:NPO_729
+nanomaterial	Liposomes	obo:NCIT_C62384
+nanomaterial	MgO	enm:ENM_9000252
+nanomaterial	MnO	enm:ENM_9000251
+nanomaterial	Mo	enm:ENM_9000253
+nanomaterial	PLGA	enm:ENM_9000249
+nanomaterial	Polystyrene	obo:CHEBI_134403
+nanomaterial	Pt	obo:CHEBI_50831
+nanomaterial	QDs	obo:NCIT_C62378
+nanomaterial	SLN	nsvoc:nm_SLN
+nanomaterial	Se	enm:ENM_9000244
+nanomaterial	Ti	enm:ENM_9000245
 nanomaterial	nanoTiO2 (NRCWE-032)	obo:CHEBI_51050
 nanomaterial	MWCNT (Baytube)	npo:NPO_354
 nanomaterial	PS	enm:ENM_9000008
@@ -81,22 +81,22 @@ nanomaterial	TiO2 (E171)	obo:CHEBI_51050
 nanomaterial	CuO_PEG_PBS	obo:CHEBI_83159
 nanomaterial	ZnO_HP1	npo:NPO_1542
 nanomaterial	MWCNT (NCRWE-026)	npo:NPO_354
-nanomaterial	LPS	npo:NPO_707
+nanomaterial	LPS	nsvoc:nm_LPS
 nanomaterial	AgNO3	npo:NPO_1892
 nanomaterial	Ag75_Citrate	npo:NPO_1892
 nanomaterial	mercaptopropyl_trimethoxysilane_ZnO	npo:NPO_1542
 nanomaterial	Short_asbestos_fibres	obo:ENVO_02000106
 nanomaterial	CuO_COOH_PBS	obo:CHEBI_83159
 nanomaterial	TiO2_Mknano	obo:CHEBI_51050
-nanomaterial	Chapel_hill_UFP	npo:NPO_707
+nanomaterial	Chapel_hill_UFP	nsvoc:nm_UFP
 nanomaterial	SPIO_LPS	npo:NPO_1374
 nanomaterial	nanoTiO2 (rutile/anatase mix)	obo:CHEBI_51050
-nanomaterial	CoCl2	npo:NPO_707
+nanomaterial	CoCl2	obo:CHEBI_35696
 nanomaterial	Au5	npo:NPO_401
 nanomaterial	tCNT	npo:NPO_606
 nanomaterial	Ag_ions	npo:NPO_1892
 nanomaterial	Long_asbestos_fibres	obo:ENVO_02000106
-nanomaterial	Eudragit_RS	npo:NPO_707
+nanomaterial	Eudragit_RS	nsvoc:nm_Eudragit-RS
 nanomaterial	AuNPs-HDM2	npo:NPO_401
 nanomaterial	Carbon black	obo:CHEBI_133602
 nanomaterial	Carbon black_IL13	obo:CHEBI_133602
@@ -106,14 +106,14 @@ nanomaterial	SWCNT (Sigma)	npo:NPO_943
 nanomaterial	Graphite	obo:CHEBI_132889
 nanomaterial	20nm_AgNPs	npo:NPO_1892
 nanomaterial	ZnO_ZCOTE	npo:NPO_1542
-nanomaterial	Indoor-R (sanding dust)	npo:NPO_707
+nanomaterial	Indoor-R (sanding dust)	nsvoc:nm_standing-dust
 nanomaterial	M-MP-Silica NP (PEG)	npo:NPO_1373
 nanomaterial	MWCNT (NRCWE-26)	npo:NPO_354
-nanomaterial	GSNO	npo:NPO_707
+nanomaterial	GSNO	nsvoc:nm_GSNO
 nanomaterial	MWCNT (Bayer)	npo:NPO_354
 nanomaterial	Ag10_PVP	npo:NPO_1892
 nanomaterial	Silica	npo:NPO_1373
-nanomaterial	GSNO-loaded Eudragit RL	npo:NPO_707
+nanomaterial	GSNO-loaded Eudragit RL	nsvoc:nm_GSNO-loaded-Eudragit-RL
 nanomaterial	MWCNT (Mitsui7)	npo:NPO_354
 nanomaterial	SWCNT (SES)	npo:NPO_943
 nanomaterial	CuO_OVA	obo:CHEBI_83159
@@ -130,14 +130,14 @@ nanomaterial	rCNT	npo:NPO_606
 nanomaterial	ZnO_Nanosun	npo:NPO_1542
 nanomaterial	nanoTiO2 (NRCWE-025)	obo:CHEBI_51050
 nanomaterial	M-MP-Silica NP (Pristine)	npo:NPO_1373
-nanomaterial	Chapel_hill_fine	npo:NPO_707
+nanomaterial	Chapel_hill_fine	nsvoc:nm_UFP
 nanomaterial	ZnO_MAX	npo:NPO_1542
 nanomaterial	Ag10_Citrate	npo:NPO_1892
 nanomaterial	nanoTiO2 (rutile hydrophilic)	obo:CHEBI_51050
 nanomaterial	Ag2CO3	npo:NPO_1892
 nanomaterial	SiO2_SM30	npo:NPO_1373
 nanomaterial	diethylene_glycol_ZnO	npo:NPO_1542
-nanomaterial	glass wool	npo:NPO_707
+nanomaterial	glass wool	nsvoc:nm_glass-wool
 nanomaterial	rCNT_aspiration	npo:NPO_606
 nanomaterial	CuO_COOH_OVA	obo:CHEBI_83159
 nanomaterial	NanoAg	npo:NPO_1892
@@ -155,7 +155,7 @@ nanomaterial	MWCNT (Cheaptubes)	npo:NPO_354
 nanomaterial	nanoTiO2 (NRCWE-030)	obo:CHEBI_51050
 nanomaterial	GONH2	obo:CHEBI_132889
 nanomaterial	60nm_AgNPs	npo:NPO_1892
-nanomaterial	UFP	npo:NPO_707
+nanomaterial	UFP	nsvoc:nm_UFP
 nanomaterial	SiO2_LPS	npo:NPO_1373
 nanomaterial	rCNT_inhalation	npo:NPO_606
 nanomaterial	CeO2_Alfa_Aesar	enm:ENM_9000006
@@ -163,10 +163,10 @@ nanomaterial	TiO2 nanotubes (100nm)	obo:CHEBI_51050
 nanomaterial	GO	obo:CHEBI_132889
 nanomaterial	MWCNT (SES)	npo:NPO_354
 nanomaterial	nanoTiO2 (rutile hydrophobic)	obo:CHEBI_51050
-nanomaterial	PLGA	npo:NPO_707
+nanomaterial	PLGA	enm:ENM_9000249
 nanomaterial	CuO_PEG_OVA	obo:CHEBI_83159
-nanomaterial	Eudragit RL	npo:NPO_707
-nanomaterial	Chapel_hill_coarse	npo:NPO_707
+nanomaterial	Eudragit RL	nsvoc:nm_Eudragit-RL
+nanomaterial	Chapel_hill_coarse	nsvoc:Chapel_hill_coarse
 nm_shape	Agglomerated	npo:NPO_274
 nm_shape	Faceted	npo:NPO_274
 nm_shape	HARNs	npo:NPO_274
@@ -184,23 +184,23 @@ assay	LDH	npo:NPO_1709
 assay	MTS	enm:ENM_8000275
 assay	MTT	npo:NPO_1911
 assay	NRU	enm:ENM_8000277
-assay	ATPLite	bao:BAO_0000015
-assay	Alamar Blue	bao:BAO_0000015
-assay	Alamar blue	bao:BAO_0000015
-assay	ApoTox-Glo Triplex	bao:BAO_0000015
-assay	CellTiter-Blue	bao:BAO_0000015
-assay	CellTiter-Glo	bao:BAO_0000015
-assay	CytoTox-One	bao:BAO_0000015
-assay	Live/Dead	bao:BAO_0000015
-assay	Modified MTT assay (MTT-formazan ppt dissolving by ethanol)	bao:BAO_0000015
-assay	Modified MTT assay (MTT-formazan ppt dissolving by isopropanol/HCl)	bao:BAO_0000015
-assay	NR	bao:BAO_0000015
-assay	Promegas CTB Assay	bao:BAO_0000015
-assay	Resazurin	bao:BAO_0000015
-assay	Vialight	bao:BAO_0000015
-assay	WST-1	bao:BAO_0000015
-assay	WST-8	bao:BAO_0000015
-assay	XTT	bao:BAO_0000015
+assay	ATPLite	bao:BAO_0000689
+assay	Alamar Blue	enm:ENM_8000224
+assay	Alamar blue	enm:ENM_8000224
+assay	ApoTox-Glo Triplex	nsvoc:assay_ApoTox-Glo-Triplex
+assay	CellTiter-Blue	bao:BAO_0140012
+assay	CellTiter-Glo	bao:BAO_0000682
+assay	CytoTox-One	nsvoc:assay_CytoTox-One
+assay	Live/Dead	nsvoc:assay_live-dead
+assay	Modified MTT assay (MTT-formazan ppt dissolving by ethanol)	npo:NPO_1911
+assay	Modified MTT assay (MTT-formazan ppt dissolving by isopropanol/HCl)	npo:NPO_1911
+assay	NR	enm:ENM_8000277
+assay	Promegas CTB Assay	bao:BAO_0140012
+assay	Resazurin	bao:BAO_0002459
+assay	Vialight	bao:BAO_0003083
+assay	WST-1	bao:BAO_0140018
+assay	WST-8	enm:ENM_9000266
+assay	XTT	bao:BAO_0002458
 cellline	A549	obo:BTO_0000018
 cellline	BEAS_2B	efo:EFO_0001089
 cellline	Caco_2	efo:EFO_0001099
@@ -299,16 +299,16 @@ species	Human	obo:NCBITaxon_9606
 species	Hamster	obo:NCBITaxon_10029
 species	Mouse	obo:NCBITaxon_10090
 species	unknown	bao:BAO_0000551
-species	Bos taurus	bao:BAO_0000551
-species	Canine	bao:BAO_0000551
-species	Cercopithecus aethiops	bao:BAO_0000551
-species	Pig	bao:BAO_0000551
-species	Rat	bao:BAO_0000551
-species	hamster	bao:BAO_0000551
-species	rat	bao:BAO_0000551
+species	Cow, Bos taurus	obo:NCBITaxon_9913
+species	Canine	obo:NCIT_C53882
+species	Monkey (Cercopithecus aethiops)	obo:NCBITaxon_9534
+species	Pig	obo:NCBITaxon_9823
+species	Rat	obo:NCBITaxon_10116
+species	hamster	obo:NCBITaxon_10029
+species	rat	obo:NCBITaxon_10116
 species	Homo sapiens	obo:NCBITaxon_9606
 species	Mus musculus	obo:NCBITaxon_10090
-species	Rattus norvegicus	bao:BAO_0000551
+species	Rattus norvegicus	obo:NCBITaxon_10116
 celltype	Normal	efo:EFO_0002922
 celltype	Cancer	efo:EFO_0001639
 cell_line_immortal_or_primary	L	obo:CLO_0000019
@@ -389,14 +389,14 @@ biosystem	Jurkat	obo:NCIT_C90259
 biosystem	Diaphragm	obo:BTO_0000341
 biosystem	BEAS-2B	efo:EFO_0001089
 biosystem	HaCaT	efo:EFO_0002056
-endpoint	core_size	enm:ENM_8000039
-endpoint 	hydrodynamic_size	npo:NPO_1914
-endpoint	surface_charge	npo:NPO_1812
-endpoint	specific_surface_area	sio:CHEMINF_000515
-endpoint	hsf	cheminf:CHEMINF_000241
-endpoint	ec	enm:ENM_8000100
-endpoint	ev	enm:ENM_8000110
-endpoint	meo	npo:NPO_421
+quality	core_size	enm:ENM_8000039
+quality 	hydrodynamic_size	npo:NPO_1914
+quality	surface_charge	npo:NPO_1812
+quality	specific_surface_area	sio:CHEMINF_000515
+quality	hsf	cheminf:CHEMINF_000241
+quality	ec	enm:ENM_8000100
+quality	ev	enm:ENM_8000110
+quality	meo	npo:NPO_421
 endpoint	time	efo:EFO_0000721
 endpoint	dose	efo:EFO_0000428
 endpoint	viability	enm:ENM_0000068
@@ -404,7 +404,7 @@ unit	nm	obo:UO_0000018
 unit	mV	obo:UO_0000247
 unit	eV	obo:UO_0000266
 unit	hours	obo:UO_0000032
-unit	mg_per_ml	obo:UO_0000274
+unit	mg_per_ml	obo:UO_0000176
 unit	percentage	obo:UO_0000187
 unit	m2/g	nsvoc:unit_meter_squared_per_gram
 unit	ug/cm2	obo:NCIT_C67311

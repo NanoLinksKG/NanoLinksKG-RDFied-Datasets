@@ -34,48 +34,48 @@
 <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176> <http://xmlns.com/foaf/0.1/account> <https://w3id.org/nanolinks/creator_profile_5e43836b256e4f044aecf2b6740b2176>.
 <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176> <http://schema.org/affiliation> <https://w3id.org/nanolinks/organization_9dd2e5bbaf32689c00eec5d1e20c2a31>.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
-<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://www.w3.org/2000/01/rdf-schema#label> "S2NANO"@en.
-<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/title> "S2NANO"@en.
+<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://www.w3.org/2000/01/rdf-schema#label> "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources"@en.
+<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/title> "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources"@en.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/description> "Supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018)."@en.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/issued> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/identifier> "https://doi.org/10.1038/s41598-018-24483-z"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/isReferencedBy> <https://doi.org/10.1038/s41598-018-24483-z>.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/net/citocitesAsAuthority> <https://doi.org/10.1038/s41598-018-24483-z>.
 <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
-<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://www.w3.org/ns/dcat#distribution> <https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a>.
+<https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a> <http://www.w3.org/ns/dcat#distribution> <https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization>.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://www.w3.org/2000/01/rdf-schema#label> "Zenodo"@en.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://xmlns.com/foaf/0.1/name> "Zenodo"@en.
 <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba> <http://purl.org/dc/terms/identifier> <https://zenodo.org>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/vocab-dcat-2>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/void/>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/dcat#contactPoint> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/creator> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/publisher> <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset 1"@en.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/title> "S2NANO RDF"@en.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/description> "RDF version of the supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018)."@en.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/issued> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/identifier> "https://zenodo.org/record/5743204".
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/subject> <https://dbpedia.org/resource/Nanotechnology>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/subject> <https://www.wikidata.org/wiki/Q11468>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/dcat#landingPage> <https://nanocommons.github.io/datasets/overview/5743204.html>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://xmlns.com/foaf/0.1/homepage> <https://nanocommons.github.io/datasets/overview/5743204.html>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/dcat#accessURL> <https://w3id.org/nanolinks/sparql>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://rdfs.org/ns/void#sparqlEndpoint> <https://w3id.org/nanolinks/sparql>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/dcat#downloadURL> <https://zenodo.org/record/5743204/files/dataset.nq?download=1>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://rdfs.org/ns/void#dataDump> <https://zenodo.org/record/5743204/files/dataset.nq?download=1>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/application/n-quads>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://rdfs.org/ns/void#feature> <http://www.w3.org/ns/formats/N-Quads>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a>.
-<https://w3id.org/nanolinks/dataset_rdf_25a2dcf19ff2f97a7061309ad719be2a> <http://www.w3.org/ns/prov#wasGeneratedBy> <https://w3id.org/nanolinks/activity_978810a134fc59ad910495bb7f9db51a>.
-<https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/vocab-dcat-2>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/conformsTo> <https://www.w3.org/TR/void/>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/dcat#contactPoint> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/creator> <https://w3id.org/nanolinks/creator_5e43836b256e4f044aecf2b6740b2176>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/publisher> <https://w3id.org/nanolinks/organization_570d46a31966ca73e61bc3221e8951ba>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset 1"@en.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/title> "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources ((RDF dataset)"@en.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/description> "RDF version of the supplementary data from Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018)."@en.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/issued> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/identifier> "https://doi.org/10.5281/zenodo.13858246".
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/subject> <https://dbpedia.org/resource/Nanotechnology>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/subject> <https://www.wikidata.org/wiki/Q11468>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/dcat#landingPage> <https://nanocommons.github.io/datasets/overview/5743204.html>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://xmlns.com/foaf/0.1/homepage> <https://nanocommons.github.io/datasets/overview/5743204.html>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/dcat#accessURL> <https://w3id.org/nanolinks/sparql>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://rdfs.org/ns/void#sparqlEndpoint> <https://w3id.org/nanolinks/sparql>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/dcat#downloadURL> <https://zenodo.org/records/13858246/files/dataset.nq?download=1>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://rdfs.org/ns/void#dataDump> <https://zenodo.org/records/13858246/files/dataset.nq?download=1>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/application/n-quads>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://rdfs.org/ns/void#feature> <http://www.w3.org/ns/formats/N-Quads>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://purl.org/dc/terms/source> <https://w3id.org/nanolinks/dataset_978810a134fc59ad910495bb7f9db51a>.
+<https://w3id.org/nanolinks/dataset_rdf_36783e23f41c2f939eb015e93a2f0bff> <http://www.w3.org/ns/prov#wasGeneratedBy> <https://w3id.org/nanolinks/activity_978810a134fc59ad910495bb7f9db51a>.
+<https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent>.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://www.w3.org/2000/01/rdf-schema#label> "Software: RML-Mapper"@en.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://xmlns.com/foaf/0.1/name> "Software: RML-Mapper"@en.
 <https://w3id.org/nanolinks/software_e6c6f8f4c74057b05c82d75441b3aa03> <http://purl.org/dc/terms/hasVersion> "4.15".

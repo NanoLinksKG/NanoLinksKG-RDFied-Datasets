@@ -75,7 +75,7 @@
     rr:constant grel:valueParameter2.
 :pom_001 rr:objectMap :om_001.
 :om_001 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_002 a rr:PredicateObjectMap.
 :map_qualityCoreChemicalComposition_000 rr:predicateObjectMap :pom_002.
@@ -138,7 +138,7 @@
     rr:constant grel:valueParameter2.
 :pom_006 rr:objectMap :om_006.
 :om_006 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_007 a rr:PredicateObjectMap.
 :map_qualityCoreSize_000 rr:predicateObjectMap :pom_007.
@@ -220,7 +220,7 @@
     rr:constant grel:valueParameter2.
 :pom_013 rr:objectMap :om_013.
 :om_013 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_014 a rr:PredicateObjectMap.
 :map_qualityHydroSize_000 rr:predicateObjectMap :pom_014.
@@ -302,7 +302,7 @@
     rr:constant grel:valueParameter2.
 :pom_020 rr:objectMap :om_020.
 :om_020 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_021 a rr:PredicateObjectMap.
 :map_qualitySurfCharge_000 rr:predicateObjectMap :pom_021.
@@ -384,7 +384,7 @@
     rr:constant grel:valueParameter2.
 :pom_027 rr:objectMap :om_027.
 :om_027 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_028 a rr:PredicateObjectMap.
 :map_qualitySurfArea_000 rr:predicateObjectMap :pom_028.
@@ -466,7 +466,7 @@
     rr:constant grel:valueParameter2.
 :pom_034 rr:objectMap :om_034.
 :om_034 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_035 a rr:PredicateObjectMap.
 :map_qualityHsf_000 rr:predicateObjectMap :pom_035.
@@ -548,7 +548,7 @@
     rr:constant grel:valueParameter2.
 :pom_041 rr:objectMap :om_041.
 :om_041 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_042 a rr:PredicateObjectMap.
 :map_qualityEc_000 rr:predicateObjectMap :pom_042.
@@ -630,7 +630,7 @@
     rr:constant grel:valueParameter2.
 :pom_048 rr:objectMap :om_048.
 :om_048 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_049 a rr:PredicateObjectMap.
 :map_qualityEv_000 rr:predicateObjectMap :pom_049.
@@ -712,7 +712,7 @@
     rr:constant grel:valueParameter2.
 :pom_055 rr:objectMap :om_055.
 :om_055 a rr:ObjectMap;
-    rr:template "https://zenodo.org/record/5743204_{material_id}";
+    rr:template "https://doi.org/10.5281/zenodo.13858246_{material_id}";
     rr:termType rr:Literal.
 :pom_056 a rr:PredicateObjectMap.
 :map_qualityMeO_000 rr:predicateObjectMap :pom_056.
